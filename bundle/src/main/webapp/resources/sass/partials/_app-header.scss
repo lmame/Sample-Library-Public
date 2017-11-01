@@ -1,0 +1,11 @@
+.bmc-logo {
+  display: block;
+  width: 80px;
+  height: 27px;
+  background: url("#{$img-path}logo/company.svg") no-repeat;
+}
+
+.bmc-logo_dark {
+  @extend .bmc-logo;
+  background: url("#{$img-path}logo/company-dark.svg") no-repeat;
+}
