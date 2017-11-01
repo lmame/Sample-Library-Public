@@ -8,7 +8,15 @@ This repository hosts several source code example for Innovation Suite.
 You can request a free of charge development environment on the BMC Developer Portal (https://developers.bmc.com/site/global/home/index.gsp).
 
 # Content:
-
+View Components:
+Custom Label (how to pass information to a View Component. The component is updated each time the value changes),
+Display Associated data using Javascript framework,
+Display data using Javascript framework,
+Display a picture that is stored in an attachment of a record instance,
+List of icons you can use for your view component (it is a view component with search capability),
+Priority and VAT calculators. This one shows how to pass data to a view component as well data back from a view component each time a value changes,
+Star System: Show how to pass and get information from a view component as well as showing how to display complex information in View Designer (slider to select the number of stars, color picker, showing the stars in the canvas etc...),
+Show how to 
 
 
 # Installation (using the zip file):
