@@ -15,20 +15,21 @@ import com.example.rest.TestMe;
 /*
  * You need to create a class that implements the BMC Service.
  */
-public class SimpleService  implements Service {
+public class SimpleService implements Service {
 
-	/**
-	 * This action takes a String as an Input Parameter and returns an object.
-	 * @param userName (String) the user name. The parameter must not be empty.
-	 * @return a TestMe object with the username and the new password.
-	 */
-	@Action(name = "generatePassword")
-	public TestMe generatePassword(@ActionParameter(name = "userName") @NotBlank @NotNull String userName){
-		TestMe myTest = new TestMe();
-		
-		myTest.setUserName(userName);
-		myTest.setPassword(userName + ",  password");
-		
-		return myTest;
-	}
+    /**
+     * This action takes a String as an Input Parameter and returns an object.
+     *
+     * @param userName (String) the user name. The parameter must not be empty.
+     * @return a TestMe object with the username and the new password.
+     */
+    @Action(name = "generatePassword")
+    public TestMe generatePassword(@ActionParameter(name = "userName") @NotBlank @NotNull String userName) {
+        TestMe myTest = new TestMe();
+
+        myTest.setUserName(userName);
+        myTest.setPassword(userName + ",  password");
+
+        return myTest;
+    }
 }

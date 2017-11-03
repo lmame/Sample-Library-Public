@@ -43,12 +43,12 @@
                             associatedRecordInstanceId: $scope.cfg.recordInstanceId
                         };
 
-                        var foo = rxAssociationInstanceDataPageResource.get(100, 0, queryParams);
+                        var foo = rxAssociationInstanceDataPageResource.get(-1, 0, queryParams);
                         foo.then(function (response) {
                             $scope.myDataWithAssociations = response.data;
                         });
 
-                    }
+                    };
 
                     // Calling init function when the record Instance ID input parameter changes
                     init();
