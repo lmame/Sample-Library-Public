@@ -1,0 +1,45 @@
+begin schema data
+   name           : AppLocalConfig_ComponentDisplay
+   data-mapping   : <?xml version="1.0" encoding="utf-8"?><arDocMapping xmlns="urn:remedy:schemas:ars" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+   data-mapping   :     <element name="entryList">        <formMapping>            <form foreignKeyId="1" formName="AppLocalConfig_ComponentDisplay" mapType="embedded" pr
+   data-mapping   : imaryKeyId="1"/>            <element name="entryItem">                <element dataType="string" name="f1_Request_ID">                    <fieldMappi
+   data-mapping   : ng arFieldId="1"/>                </element>                <element dataType="string" name="f2_Submitter">                    <fieldMapping arFieldI
+   data-mapping   : d="2"/>                </element>                <element dataType="dateTime" name="f3_Create_Date">                    <fieldMapping arFieldId="3"/>
+   data-mapping   :                 </element>                <element dataType="string" name="f4_Assigned_To">                    <fieldMapping arFieldId="4"/>        
+   data-mapping   :         </element>                <element dataType="string" name="f5_Last_Modified_By">                    <fieldMapping arFieldId="5"/>            
+   data-mapping   :     </element>                <element dataType="dateTime" name="f6_Modified_Date">                    <fieldMapping arFieldId="6"/>                <
+   data-mapping   : /element>                <element dataType="string" name="f7_Status">                    <fieldMapping arFieldId="7"/>                </element>    
+   data-mapping   :             <element dataType="string" name="f8_Short_Description">                    <fieldMapping arFieldId="8"/>                </element>       
+   data-mapping   :          <element dataType="string" name="f15_Status_History">                    <fieldMapping arFieldId="15"/>                </element>           
+   data-mapping   :      <element dataType="string" name="f16_Notifier_Listening">                    <fieldMapping arFieldId="16"/>                </element>           
+   data-mapping   :      <element dataType="string" name="f112_Assignee_Group">                    <fieldMapping arFieldId="112"/>                </element>             
+   data-mapping   :    <element dataType="string" name="f160_Locale">                    <fieldMapping arFieldId="160"/>                </element>                <elemen
+   data-mapping   : t dataType="string" name="f17__ComponentDisplayGUID">                    <fieldMapping arFieldId="179"/>                </element>                <el
+   data-mapping   : ement dataType="string" name="f37__Record_ID">                    <fieldMapping arFieldId="379"/>                </element>                <element d
+   data-mapping   : ataType="string" name="f3200_Component_Name">                    <fieldMapping arFieldId="3200"/>                </element>                <element d
+   data-mapping   : ataType="string" name="f3253_Group1">                    <fieldMapping arFieldId="3253"/>                </element>                <element dataType=
+   data-mapping   : "string" name="f3254_Group2">                    <fieldMapping arFieldId="3254"/>                </element>                <element dataType="string"
+   data-mapping   :  name="f3255_ComponentTitle">                    <fieldMapping arFieldId="3255"/>                </element>                <element dataType="string"
+   data-mapping   :  name="f3256_Description">                    <fieldMapping arFieldId="3256"/>                </element>                <element dataType="string" na
+   data-mapping   : me="f60_8__ParentAssigneeGroup">                    <fieldMapping arFieldId="60989"/>                </element>                <element dataType="str
+   data-mapping   : ing" name="f61001_Application">                    <fieldMapping arFieldId="61001"/>                </element>            </element>        </formMa
+   data-mapping   : pping>    </element></arDocMapping>
+   data           : <?xml version="1.0" encoding="utf-8"?><entryList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">   
+   data           :  <entryItem>        <f1_Request_ID>000000000009929</f1_Request_ID>        <f2_Submitter>ARSERVER</f2_Submitter>        <f3_Create_Date>2017-07-17T06:
+   data           : 24:04+00:00</f3_Create_Date>        <f4_Assigned_To/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_Date>2017-07-17T
+   data           : 06:24:04+00:00</f6_Modified_Date>        <f7_Status>Active</f7_Status>        <f8_Short_Description>LogConfig</f8_Short_Description>        <f15_Stat
+   data           : us_History/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group>0;</f112_Assignee_Group>        <f160_
+   data           : Locale>en</f160_Locale>        <f17__ComponentDisplayGUID>AGGIXIUWC3XSKAOTIBSFOS1WH0ON16</f17__ComponentDisplayGUID>        <f37__Record_ID>AGGIXIUWC3
+   data           : XSKAOTIBSFOS1WH0ON16</f37__Record_ID>        <f3200_Component_Name>LogConfig</f3200_Component_Name>        <f3253_Group1>com.example.samplelibrary</f3
+   data           : 253_Group1>        <f3254_Group2/>        <f3255_ComponentTitle>LogConfig</f3255_ComponentTitle>        <f3256_Description/>        <f60_8__ParentAs
+   data           : signeeGroup/>        <f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem>    <entryItem>        <f1_Request_ID>0000000
+   data           : 00009930</f1_Request_ID>        <f2_Submitter>Demo</f2_Submitter>        <f3_Create_Date>2017-02-13T14:06:19+00:00</f3_Create_Date>        <f4_Assign
+   data           : ed_To/>        <f5_Last_Modified_By>Demo</f5_Last_Modified_By>        <f6_Modified_Date>2017-02-13T14:06:19+00:00</f6_Modified_Date>        <f7_Statu
+   data           : s>Active</f7_Status>        <f8_Short_Description>Logger Configuration</f8_Short_Description>        <f15_Status_History/>        <f16_Notifier_Liste
+   data           : ning>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group>0;</f112_Assignee_Group>        <f160_Locale>en</f160_Locale>        <f17__Co
+   data           : mponentDisplayGUID>AGGIXIUWC3XSKAOTIBSFOS1WH0ON12</f17__ComponentDisplayGUID>        <f37__Record_ID>AGGIXIUWC3XSKAOTIBSFOS1WH0ON12</f37__Record_ID>  
+   data           :       <f3200_Component_Name>Logger Configuration</f3200_Component_Name>        <f3253_Group1>com.example.samplelibrary</f3253_Group1>        <f3254_Gr
+   data           : oup2/>        <f3255_ComponentTitle>Logger Configuration</f3255_ComponentTitle>        <f3256_Description/>        <f60_8__ParentAssigneeGroup/>    
+   data           :     <f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem></entryList>
+end
+

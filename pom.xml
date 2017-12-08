@@ -43,10 +43,10 @@
 		<spring.version>4.1.2.RELEASE</spring.version>
 		<javax.validation.api.version>1.1.0.Final</javax.validation.api.version>
 		<hibernate-validator.version>5.2.3.Final</hibernate-validator.version>
-		<testng.version>6.8.8</testng.version>
+		<testng.version>6.9.10</testng.version>
 		<joda-time.version>1.6.2</joda-time.version>
 		<rx-sdk.groupId>com.bmc.arsys</rx-sdk.groupId>
-		<rx-sdk.version>17.8.0-SNAPSHOT</rx-sdk.version>
+		<rx-sdk.version>17.11.0-SNAPSHOT</rx-sdk.version>
 	</properties>
 	
 	
