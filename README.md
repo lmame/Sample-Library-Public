@@ -11,6 +11,12 @@ This repository hosts several source code example for Innovation Suite.
 You can request a free of charge development environment on the BMC Developer Portal (https://developers.bmc.com/site/global/home/index.gsp).
 
 
+# Videos...
+Most if not all examples are explained in videos available on my Youtube channel:
+* https://www.youtube.com/watch?v=iaOsmuxdXTE&list=PLKhrzlPY29F8_omqn1kFEsmcVduBFmZA6
+It also contains some tips and tricks that might be useful.
+
+
 # Content:
 Javascript View Components:
 * Custom Label (how to pass information to a View Component. The component is updated each time the value changes),
