@@ -1,7 +1,8 @@
 # Sample-Library-Public
 History:
 * Version:
-* 0.2, 2017/12/08, Converting the project to 17-11 and adding 
+* 0.3, 2018/03/21, Adding a new view component to access grid native apis and changing moment.js version.
+* 0.2, 2017/12/08, Converting the project to 17-11 and adding
 * 0.1, 2017/10/31, Initial release.
 * Author: Laurent Matheo.
 
@@ -29,6 +30,7 @@ Javascript View Components:
 * Show how to use the "Refresh" Action to call a method in a View Component and insert the View Component into a record editor,
 * Calling a Custom Command and Custom Rest API using BMC OOTB resources objects,
 * Calling a Javascript Action from Javascript Code using "rxAction" method.
+* Accessing a grid native apis (ui-grid).
 
 
 Javascript Actions:
