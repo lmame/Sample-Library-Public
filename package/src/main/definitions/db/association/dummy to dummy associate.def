@@ -2,7 +2,7 @@ begin association definition
    name           : com.example.samplelibrary:dummy to dummy associate
    definition     : {
    definition     :   "version" : null,
-   definition     :   "lastUpdateTime" : 1512772725313,
+   definition     :   "lastUpdateTime" : 1521670175730,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:dummy to dummy associate",

@@ -2,12 +2,12 @@ begin view definition
    name           : com.example.samplelibrary:test 1234
    definition     : {
    definition     :   "version" : null,
-   definition     :   "lastUpdateTime" : 1512773166990,
-   definition     :   "lastChangedBy" : "developer",
-   definition     :   "owner" : "developer",
+   definition     :   "lastUpdateTime" : 1521670176668,
+   definition     :   "lastChangedBy" : "ARSERVER",
+   definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:test 1234",
    definition     :   "tags" : null,
-   definition     :   "description" : "",
+   definition     :   "description" : null,
    definition     :   "overlayGroupId" : "1",
    definition     :   "developerId" : "com.example",
    definition     :   "scope" : "BUNDLE",

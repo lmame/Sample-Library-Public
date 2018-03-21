@@ -2,12 +2,12 @@ begin view definition
    name           : com.example.samplelibrary:View to test a view component
    definition     : {
    definition     :   "version" : null,
-   definition     :   "lastUpdateTime" : 1512773132907,
+   definition     :   "lastUpdateTime" : 1521670401710,
    definition     :   "lastChangedBy" : "developer",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:View to test a view component",
    definition     :   "tags" : null,
-   definition     :   "description" : "",
+   definition     :   "description" : null,
    definition     :   "overlayGroupId" : "1",
    definition     :   "developerId" : "com.example",
    definition     :   "scope" : "BUNDLE",
@@ -16,33 +16,9 @@ begin view definition
    definition     :   "inputParams" : [ ],
    definition     :   "outputParams" : [ ],
    definition     :   "componentDefinitions" : [ {
-   definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1512773132907,
-   definition     :     "lastChangedBy" : "ARSERVER",
-   definition     :     "owner" : "ARSERVER",
-   definition     :     "name" : "4a224850-712d-4cd8-a5d2-2845bd7a7d9e",
-   definition     :     "tags" : null,
-   definition     :     "description" : null,
-   definition     :     "overlayGroupId" : "1",
-   definition     :     "developerId" : "com.example",
-   definition     :     "guid" : "4a224850-712d-4cd8-a5d2-2845bd7a7d9e",
-   definition     :     "type" : "com-example-samplelibrary-test-vc",
-   definition     :     "propertiesByName" : {
-   definition     :       "inputParameter" : "test value"
-   definition     :     },
-   definition     :     "permissions" : [ {
-   definition     :       "ownerId" : {
-   definition     :         "value" : 0,
-   definition     :         "type" : "GROUP",
-   definition     :         "name" : "Public"
-   definition     :       },
-   definition     :       "type" : "VISIBLE"
-   definition     :     } ]
-   definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ContainerViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1512773132907,
+   definition     :     "lastUpdateTime" : 1521670401710,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "5b629814-4b52-4a23-8ecb-31ca09f25ef2",
@@ -70,7 +46,7 @@ begin view definition
    definition     :     "componentDefinitions" : [ {
    definition     :       "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :       "version" : null,
-   definition     :       "lastUpdateTime" : 1512773132907,
+   definition     :       "lastUpdateTime" : 1521670401710,
    definition     :       "lastChangedBy" : "ARSERVER",
    definition     :       "owner" : "ARSERVER",
    definition     :       "name" : "fc217130-978f-4e68-8e7b-96dacc48af85",
@@ -98,6 +74,30 @@ begin view definition
    definition     :         },
    definition     :         "type" : "VISIBLE"
    definition     :       } ]
+   definition     :     } ]
+   definition     :   }, {
+   definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
+   definition     :     "version" : null,
+   definition     :     "lastUpdateTime" : 1521670401710,
+   definition     :     "lastChangedBy" : "ARSERVER",
+   definition     :     "owner" : "ARSERVER",
+   definition     :     "name" : "4a224850-712d-4cd8-a5d2-2845bd7a7d9e",
+   definition     :     "tags" : null,
+   definition     :     "description" : null,
+   definition     :     "overlayGroupId" : "1",
+   definition     :     "developerId" : "com.example",
+   definition     :     "guid" : "4a224850-712d-4cd8-a5d2-2845bd7a7d9e",
+   definition     :     "type" : "com-example-samplelibrary-test-vc",
+   definition     :     "propertiesByName" : {
+   definition     :       "inputParameter" : "test value"
+   definition     :     },
+   definition     :     "permissions" : [ {
+   definition     :       "ownerId" : {
+   definition     :         "value" : 0,
+   definition     :         "type" : "GROUP",
+   definition     :         "name" : "Public"
+   definition     :       },
+   definition     :       "type" : "VISIBLE"
    definition     :     } ]
    definition     :   } ],
    definition     :   "permissions" : [ {

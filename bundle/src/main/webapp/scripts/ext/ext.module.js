@@ -17,5 +17,6 @@ angular.module('com.example.samplelibrary-ext', [
     'com.example.samplelibrary.view-components.rest-command',                // Calling a Custom Java Rest API or Java Command
     'com.example.samplelibrary.view-components.get-date',                    // Handling Refresh Action and integration in a Record Editor.
     'com.example.samplelibrary.view-components.test-vc',                    // View Component used in a video on how to create a view component.
-    'com.example.samplelibrary.view-components.call-action'                 // Calling a custom javascript action from javascript.
+    'com.example.samplelibrary.view-components.call-action',                 // Calling a custom javascript action from javascript.
+    'com.example.samplelibrary.view-components.access-grid'                 // Accessing grid core api object (ui-grid).
 ]);

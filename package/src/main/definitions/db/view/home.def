@@ -2,12 +2,12 @@ begin view definition
    name           : com.example.samplelibrary:home
    definition     : {
    definition     :   "version" : null,
-   definition     :   "lastUpdateTime" : 1512773132676,
+   definition     :   "lastUpdateTime" : 1521670176952,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:home",
    definition     :   "tags" : null,
-   definition     :   "description" : "",
+   definition     :   "description" : null,
    definition     :   "overlayGroupId" : "1",
    definition     :   "developerId" : "com.example",
    definition     :   "scope" : "BUNDLE",
@@ -18,8 +18,8 @@ begin view definition
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1512773132676,
-   definition     :     "lastChangedBy" : "ARSERVER",
+   definition     :     "lastUpdateTime" : 1521670176952,
+   definition     :     "lastChangedBy" : "developer",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "ce49ff26-88f9-4a28-a1ca-eac3f3d4425f",
    definition     :     "tags" : null,
