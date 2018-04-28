@@ -1,8 +1,9 @@
 # Sample-Library-Public
 History:
 * Version:
+* 0.4, 2018/04/28, Converting the project to 18-2.
 * 0.3, 2018/03/21, Adding a new view component to access grid native apis and changing moment.js version.
-* 0.2, 2017/12/08, Converting the project to 17-11 and adding
+* 0.2, 2017/12/08, Converting the project to 17-11.
 * 0.1, 2017/10/31, Initial release.
 * Author: Laurent Matheo.
 
