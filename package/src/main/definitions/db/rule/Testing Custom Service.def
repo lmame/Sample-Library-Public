@@ -1,15 +1,15 @@
 begin rule definition
    name           : com.example.samplelibrary:Testing Custom Service
    definition     : {
-   definition     :   "version" : null,
-   definition     :   "lastUpdateTime" : 1521670175814,
+   definition     :   "version" : "1.0-SNAPSHOT",
+   definition     :   "lastUpdateTime" : 1524941238429,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "com.example.samplelibrary",
    definition     :   "name" : "com.example.samplelibrary:Testing Custom Service",
    definition     :   "tags" : null,
    definition     :   "description" : "This rule is triggered when a record is created and will call the Process that will update the password.",
    definition     :   "overlayGroupId" : "1",
-   definition     :   "developerId" : null,
+   definition     :   "developerId" : "com.example",
    definition     :   "scope" : "BUNDLE",
    definition     :   "guid" : "IDGA5FQGDU9FUAOYQJ4QOXTWWF3KTZ",
    definition     :   "triggerEvent" : {

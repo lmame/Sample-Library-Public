@@ -1,8 +1,8 @@
 begin view definition
    name           : com.example.samplelibrary:home
    definition     : {
-   definition     :   "version" : null,
-   definition     :   "lastUpdateTime" : 1521670176952,
+   definition     :   "version" : "1.0-SNAPSHOT",
+   definition     :   "lastUpdateTime" : 1524941395402,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:home",
@@ -18,8 +18,8 @@ begin view definition
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1521670176952,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1524941395402,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "ce49ff26-88f9-4a28-a1ca-eac3f3d4425f",
    definition     :     "tags" : null,

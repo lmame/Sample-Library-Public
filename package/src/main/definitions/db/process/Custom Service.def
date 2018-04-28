@@ -1,8 +1,8 @@
 begin process definition
    name           : com.example.samplelibrary:Custom Service
    definition     : {
-   definition     :   "version" : null,
-   definition     :   "lastUpdateTime" : 1521670175766,
+   definition     :   "version" : "1.0-SNAPSHOT",
+   definition     :   "lastUpdateTime" : 1524941238398,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "com.example.samplelibrary",
    definition     :   "name" : "com.example.samplelibrary:Custom Service",
@@ -14,8 +14,8 @@ begin process definition
    definition     :   "guid" : "rx-ce549ec3-65e8-4987-a2b3-ba38da557a00",
    definition     :   "flowElements" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.StartEventDefinition",
-   definition     :     "version" : "1.0.0.SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1521670175766,
+   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "lastUpdateTime" : 1524941238398,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Start",
@@ -26,8 +26,8 @@ begin process definition
    definition     :     "guid" : "rx-0166fac9-8931-4e41-b807-1d4bb754f51b"
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "version" : "1.0.0.SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1521670175766,
+   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "lastUpdateTime" : 1524941238398,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Sequence Flow",
@@ -41,8 +41,8 @@ begin process definition
    definition     :     "condition" : ""
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.ServiceTaskDefinition",
-   definition     :     "version" : "1.0.0.SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1521670175766,
+   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "lastUpdateTime" : 1524941238398,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Generate Password (Custom Service)",
@@ -61,8 +61,8 @@ begin process definition
    definition     :     "runAsUser" : null
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "version" : "1.0.0.SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1521670175766,
+   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "lastUpdateTime" : 1524941238398,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Sequence Flow",
@@ -76,8 +76,8 @@ begin process definition
    definition     :     "condition" : ""
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.ServiceTaskDefinition",
-   definition     :     "version" : "1.0.0.SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1521670175766,
+   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "lastUpdateTime" : 1524941238398,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Update the Record with the password",
@@ -99,8 +99,8 @@ begin process definition
    definition     :     "runAsUser" : null
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "version" : "1.0.0.SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1521670175766,
+   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "lastUpdateTime" : 1524941238398,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Sequence Flow",
@@ -114,8 +114,8 @@ begin process definition
    definition     :     "condition" : ""
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.EndEventDefinition",
-   definition     :     "version" : "1.0.0.SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1521670175766,
+   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "lastUpdateTime" : 1524941238398,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "End",
@@ -129,7 +129,7 @@ begin process definition
    definition     :   "inputParams" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.record.RecordInstanceFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1521670175766,
+   definition     :     "lastUpdateTime" : 1524941238398,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "com.example.samplelibrary",
    definition     :     "name" : "Record Instance",

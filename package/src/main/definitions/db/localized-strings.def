@@ -1,538 +1,1498 @@
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON66
-   timestamp      : 1521670176
+   name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXX
+   timestamp      : 1524941243
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 01be84e3-0298-4cec-853d-edb1bd169feb
-   owner-objects  : 17\6cb22a0a-ad94-4011-a09d-c7a8f2cae9e5
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Association time
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON96
-   timestamp      : 1521670176
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 087f6bee-e916-4afe-a340-5f21b031ae95
-   owner-objects  : 17\26f247ae-edd9-40d4-a7d8-ebdfb753bc43
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Calling a Custom Java Command
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYP3N2OYP3N237N1
-   timestamp      : 1521670176
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 092094c7-d31f-4bda-a3d6-9e59e92e77c0
-   owner-objects  : 17\a859d5a5-4294-43aa-9973-1b638ca8221d
+   stringId       : fe3f1622-03e0-46ca-9f5d-a4249fee94ce
+   owner-objects  : 17\1894d80c-f0b9-4a17-b900-6756f4666e23
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Refresh!
+   string-text    : Yes!
 end
 begin localizable string
-   name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXV
-   timestamp      : 1521670176
+   name           : LSGIXIUWC3XSKAOTIDSXOTIDSXON2T
+   timestamp      : 1524941243
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 0e5aa21d-752d-48e4-9a12-68af2ca8c20a
-   owner-objects  : 17\b3d79079-fd36-4749-895d-c7c7c39fadff
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p><span contenteditable="false" rx-expression="${view.inputParams.for the title}" class="rx-expression"></span></p>
-end
-begin localizable string
-   name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUH
-   timestamp      : 1521670856
-   owner          : developer
-   last-changed   : developer
-   bundle         : com.example.samplelibrary
-   stringId       : 103e2a76-7347-4f8e-9649-817ed20e4e5b
-   owner-objects  : 17\8452779d-b2be-4054-a985-ccc9256a352d
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Description
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4E
-   timestamp      : 1521670176
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 120e4921-fc8e-4bac-8981-da7b09a818be
-   owner-objects  : 35\0
+   stringId       : fd57e4d4-ba2f-4cac-9595-f4bffcddbe25
+   owner-objects  : 17\7e6fce48-08cb-45c1-a6f3-c55621967caa
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : New
+   string-text    : ID
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9G
-   timestamp      : 1521670176
+   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3Y
+   timestamp      : 1524941243
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 13d611d7-1853-4aeb-b176-49eb7543dc98
-   owner-objects  : 17\com-example-samplelibrary-0bc17b27-a20f-4315-be0d-36405bfb05ce
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Home
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIDSXOTIDSXON2R
-   timestamp      : 1521670176
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 1468a068-cdcd-40d8-b2c3-a961f11afb83
-   owner-objects  : 17\913467f7-e684-4f32-a3ec-155cf79ae808
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Description
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON97
-   timestamp      : 1521670176
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 16914877-ca70-401b-9032-38b34054f7f0
-   owner-objects  : 17\ef705ec5-a52a-4553-95f7-d7c481877061
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Custom Action
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYTRJ7OYTRJ73VYR
-   timestamp      : 1521670176
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 173f8706-1c2a-423a-bf5f-c2a81ffb3aba
-   owner-objects  : 17\8fad12af-8ca4-4cef-8558-717bc20ea391
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Warning!
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4G
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 18f5c911-c4ee-4172-8f87-209a81e1d7c3
-   owner-objects  : 35\0
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Fixed
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIF99OTIF99ON70
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 193369f9-4c12-4b83-814b-8b58bb0690ac
-   owner-objects  : 17\e165d80a-04bb-4dee-9fb4-90b97c8d62b1
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : price
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON94
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 1af12155-ce73-4d33-98a0-5ce4fd4751d9
-   owner-objects  : 17\0ff23a20-7f9b-4584-930c-eee24a1e5e2c
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Custom View Component
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9H
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 1dbb17fe-6c98-455f-9fcd-d09e6cd15a2e
-   owner-objects  : 17\6a16af69-a9e2-44a5-937e-30dbe02fe35f
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Custom Label
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON61
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 1ec57a16-ff6f-40d6-9af9-2deb12d01d56
-   owner-objects  : 17\28e711cf-7d75-462b-b2e2-0813c98f6f97
+   stringId       : fa9d2706-0b49-494f-8a6d-7b67598c9730
+   owner-objects  : 17\07ea04d7-42a0-45b0-a71e-e2bdab9eeb46
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : add
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIE8UOTIE8UON4C
-   timestamp      : 1521670177
+   name           : LSGA5FQGDU9FUAOYP3MCOYP3MC37M5
+   timestamp      : 1524941243
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 206e76a5-7a8c-4f4f-a51f-d9222a313c9a
-   owner-objects  : 17\22fb9029-3244-4c6a-aa5f-eaa63b8ccc18
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p><span style="font-size:24px">VC - Display associated data</span></p><ul><li>This view component shows how to display data from an association using s&
-   string-text    : tandard javascript APIs,</li></ul>
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYP3MCOYP3MC37M4
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 21052bed-bdb9-4acd-bf93-a9b73270f4d3
-   owner-objects  : 17\31b8983e-cbf1-45d0-8737-abd6648936f2
+   stringId       : f5635141-c66c-4db2-b98c-94109a7e785f
+   owner-objects  : 17\8e13c09d-78b1-47b6-bf53-d4f7daf6a2f3
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Status
+   string-text    : Description
 end
 begin localizable string
-   name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUJ
-   timestamp      : 1521670856
+   name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8S
+   timestamp      : 1524941243
    owner          : developer
-   last-changed   : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 21a4b154-6d82-4757-92fa-afc3de5638d2
-   owner-objects  : 17\77591552-8b16-4c9e-9596-e5bc21e43dca
+   stringId       : f4f968a6-5d21-4cad-bccd-3cf7c7b6f1d1
+   owner-objects  : 17\c1a74241-7a8b-44ba-8a3f-b26a10e52824
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Command result
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTID43OTID43ON2I
+   timestamp      : 1524941243
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : efd8587a-8997-498a-8633-945f6aeb1cbf
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Closed
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYQ1FXOYQ1FX3LBX
+   timestamp      : 1524941243
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : ed755236-394c-49c3-944c-8fb18da87749
+   owner-objects  : 17\2205ced0-16c3-484c-84c2-d565f7199420
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Using a Custom Service in a Process
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUT
+   timestamp      : 1524941243
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : ec59740d-b081-4930-ade5-f3cbe3ce7edb
+   owner-objects  : 17\349ed37c-dfb3-4b66-9e28-39ba83485a50
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : Display ID
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON68
-   timestamp      : 1521670177
+   name           : LSGIXIUWC3XSKAOTIF8SOTIF8SON7I
+   timestamp      : 1524941243
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 24069bd1-d3a8-4231-ab3c-b62f2ebe6f58
-   owner-objects  : 17\d833894f-74c2-4c52-a603-1f91c4e26ff1
+   stringId       : eb2418b4-6c8f-43e4-bd51-c055fc5abcdf
+   owner-objects  : 17\44cc17ba-2adf-4e84-9ab8-ab1493f63597
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : <p>Association displayed using Javascript APIs:</p>
+   string-text    : <p>VAT calculator according to entries from a record editor</p>
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4J
-   timestamp      : 1521670177
+   name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7D
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 25aca570-09e3-49ea-8cc9-708829a998a6
-   owner-objects  : 35\0
+   stringId       : eb18c75c-7cf4-47a7-9dfd-c67ec0425595
+   owner-objects  : 17\14a292e8-0126-441b-94fa-502c7e6afd7a
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Not Listening
+   string-text    : <p><span style="font-size:24px">VC - Priority and VAT Calculators</span></p><ul><li>Those view components show how to pass information from one view com&
+   string-text    : ponent to another in real time using their input and output parameters,</li></ul>
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON91
-   timestamp      : 1521670177
+   name           : LSGA5FQGDU9FUAOYTQ2HOYTQ2H3VUM
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 25f63db8-b642-4017-b9fd-14e756a9bde6
-   owner-objects  : 17\92b87ffc-9e94-4a20-91af-cc8272ba3e8f
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   stringId       : ea617b42-4cf2-4d9e-b729-659bbae07448
+   owner-objects  : 17\370a730e-4ec7-41fc-a616-93feb54d532d
+   object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : List available icons
+   string-text    : input
 end
 begin localizable string
-   name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KS9
-   timestamp      : 1521670177
+   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6G
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 27cd4c5f-d527-4b0b-94e4-f548f1f93532
-   owner-objects  : 35\0
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : New
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON63
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 27e2c513-b21f-4b5b-8deb-54521f703f64
-   owner-objects  : 17\822891c3-2e60-409b-8dd4-bd6eee682884
+   stringId       : e6d17857-89a2-4398-b5e9-820dbb0ce481
+   owner-objects  : 17\f3fc9c13-14cc-44c2-b3f2-03c5b7ddc2d7
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : Description
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4H
-   timestamp      : 1521670177
+   name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4U
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 281b3d22-af01-42cf-a67f-b404c6a91cb5
-   owner-objects  : 35\0
+   stringId       : e50ab1c0-75d2-4ab8-90bc-52452f2be790
+   owner-objects  : 17\814719d5-d511-4c8f-9cee-4d80ae4cc516
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Rejected
+   string-text    : back
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIF99OTIF99ON71
-   timestamp      : 1521670177
+   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON62
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 2994a3ce-3f29-48b0-9e7b-a056a5ff6d3d
-   owner-objects  : 17\72a3f698-9d63-4d30-ac07-869119159787
+   stringId       : e2b72cf6-ff89-4a95-b94f-2e26bcac2923
+   owner-objects  : 17\28e711cf-7d75-462b-b2e2-0813c98f6f97
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : vat
+   string-text    : Save
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9I
-   timestamp      : 1521670177
+   name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4R
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 29b52457-e795-4629-be57-ae3722200882
-   owner-objects  : 17\01f583af-a430-48ab-b0a3-b8ba7b9c95ea
+   stringId       : e27409d9-795e-4764-a33d-dde040cdf428
+   owner-objects  : 17\3fe17c42-660c-48d2-9bf8-23792c6eeb3a
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Display associated data using Javascript
+   string-text    : <p>Create association :)</p>
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7P
-   timestamp      : 1521670177
+   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9J
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 2c451e9d-9c40-496c-bd1f-10919d43e10f
-   owner-objects  : 17\3f6b51ff-61b3-4e45-b91f-299ef90fb73f
+   stringId       : e233d768-2e46-4e11-bd8e-5c0512599bae
+   owner-objects  : 17\c33eb77e-931e-4b6e-a23d-b102b8520975
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : BMC OOTB message
+   string-text    : Display data using Javascript
 end
 begin localizable string
-   name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSP
-   timestamp      : 1521670177
+   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3Z
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 3204ef93-8b51-4a69-a983-cd85a1966ecf
-   owner-objects  : 35\0
+   stringId       : dea642ab-3172-4349-8843-b7a8070c7590
+   owner-objects  : 17\07ea04d7-42a0-45b0-a71e-e2bdab9eeb46
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Listening
+   string-text    : Save
 end
 begin localizable string
-   name           : LSGA5FQGDU9FUAOYP4B4OYP4B437QQ
-   timestamp      : 1521670177
+   name           : LSGA5FQGDU9FUAOYP4A6OYP4A637Q0
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 32935067-ee87-4926-92dd-1f7d400c0d00
-   owner-objects  : 17\53c2fead-ca2e-4d1f-a162-40886089ae42
+   stringId       : dd5788a1-8bc3-4f96-9678-4d6f4a4411b6
+   owner-objects  : 17\73bf01c8-b0b7-4bb2-a032-f4bed29c57a5
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : VC inside a Record Editor, with Refresh
+   string-text    : <p>As you can see, the View Component is embedded inside a View Component :) This is thanks to the property "canBeEmbeddedInRecordEditor".</p>
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6O
-   timestamp      : 1521670177
+   name           : LSGADG1AANVNMAPFYOQWPFYOQWYVU1
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 336b08a8-e261-4262-bf7b-3ebd66b346dc
-   owner-objects  : 17\bd359c9b-c394-4245-870b-09a9ec7fd560
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : stars
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3W
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 341d7130-68c0-4f48-9283-9c135f39b014
-   owner-objects  : 17\7e3e8f94-c14c-40d6-af24-e4fe8b331da4
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Description
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION40
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 36921c3d-8844-47f7-89d1-74fff3d3ef20
-   owner-objects  : 35\0
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Listening
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYTQ2HOYTQ2H3VUN
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 38d0a1a4-38bc-4bf6-951b-b01d18ab042a
-   owner-objects  : 17\b1a21d3e-1207-42a5-b7aa-950a4ba9e2c7
+   stringId       : dc2e9f3b-a442-4adc-860d-4822a7834fb5
+   owner-objects  : 17\28c71945-e946-42ad-9353-9ba0118b43ed
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : output
+   string-text    : Modified Date
 end
 begin localizable string
-   name           : LSGA5FQGDU9FUAOYTQLJOYTQLJ3VV5
-   timestamp      : 1521670177
+   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON92
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 3e13c28c-a8ec-4163-93cc-60c0073a46c0
-   owner-objects  : 17\b4c782e9-b969-4c61-8f2f-35db31d34801
+   stringId       : d6870682-6ad4-4a20-b9b9-a0da74e927c2
+   owner-objects  : 17\b31b5598-0e2d-458e-b5a1-6c7b4e6e187f
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Priority and VAT calculators
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON95
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : d5c873f3-73b3-44c9-b7b0-1454fa64297a
+   owner-objects  : 17\69a91866-1016-479e-99de-d34f56230692
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Alert and Notification
+end
+begin localizable string
+   name           : LSGADG1AANVNMAPFYN5WPFYN5WYTI4
+   timestamp      : 1522736599
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : d5755fa1-3d7e-41c4-a4a6-4502e4aca72d
+   owner-objects  : 17\053470c5-b48d-4ab1-9f9e-fd8a984468fe
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Test Action
+   string-text    : Display ID
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGEKOTIGEKON7Q
-   timestamp      : 1521670177
+   name           : LSGA5FQGDU9FUAOYP3NUOYP3NU37NL
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 3f04f98d-d4db-4b88-9452-32d67298de52
-   owner-objects  : 17\95f519c8-64fb-4cd3-9811-1a2639971d5f
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p><span style="font-size:24px">AC - Calling a Custom Java command from a custom javascript action</span></p><ul><li>This example show how to:<ul><li>Cr&
-   string-text    : eate a custom Java Command (not a process or rule REST API or Service),</li><li>How to call this java Command from the UI using a custom Javascript Acti&
-   string-text    : on passing it parameters,</li><li>How to display the command return back to the UI,</li></ul></li></ul>
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7M
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 4160880b-6cbf-476a-a592-352831b5238c
-   owner-objects  : 17\084f5f97-e1de-49ad-9c30-e4847c1b5f5a
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Message
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6J
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 4631fe10-76d3-409c-9f75-11f29e44c391
-   owner-objects  : 17\c889162d-6b1c-441d-9a50-f6bd0a0607d4
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Description
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYQ1FXOYQ1FX3LBY
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 4808c4a8-056b-44e1-9b86-308e7fd05597
-   owner-objects  : 17\604c497a-45f1-4538-a7b2-1d278186173d
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Custom Service
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSM
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 4a1c2ee6-178d-4aa6-a993-efbc48c26d5d
-   owner-objects  : 35\0
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Rejected
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYP3NUOYP3NU37NM
-   timestamp      : 1521670177
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 4b44be85-8e7b-4349-8625-2cd3e5f79cf0
+   stringId       : d41fe566-bb12-4f25-82dc-1459ddf40254
    owner-objects  : 17\a859d5a5-4294-43aa-9973-1b638ca8221d
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Refresh!
+   string-text    : refresh
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTID43OTID43ON2F
-   timestamp      : 1521670177
+   name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7N
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 4ddedddb-9fbe-4a85-a598-8839bfd6c633
+   stringId       : d3f76a8d-cdc9-4d91-9526-5e3defd49af8
+   owner-objects  : 17\62dbec30-593c-43d3-a078-625789d852be
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : exclamationCircle
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIDKUOTIDKUON2P
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : d1ce0872-3b47-47b9-a623-b018b8c12790
+   owner-objects  : 17\0d329add-9251-4785-9e4e-bc529f609c45
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>The VC is mapped to the field value.</p>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIF8SOTIF8SON7J
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : d1a13fcb-3bb0-46b7-9abc-cbcbed03691f
+   owner-objects  : 17\699f183b-ea43-45f7-9567-81495aee4f85
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Price with VAT
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8W
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : d06384f6-ac98-4399-963e-e334a3847958
+   owner-objects  : 17\140a5547-da54-4b4a-ae0d-dc51239271f6
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Call Java command
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSK
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : cb6b1f67-e921-41ad-b845-079d2d06a6fe
    owner-objects  : 35\0
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : Assigned
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON90
-   timestamp      : 1521670178
+   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6K
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 5069f689-8e26-44c8-b33a-1dddcd2b0089
-   owner-objects  : 17\a8aac106-8980-4727-841c-2741ef185bc8
+   stringId       : c719a225-48ab-4f34-969f-2f5395ff3ad4
+   owner-objects  : 17\d0b41809-2200-4861-b52f-690e3deb187c
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Display a picture stored in an attachment field
+   string-text    : Description
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON60
-   timestamp      : 1521670178
+   name           : LSGIXIUWC3XSKAOTID43OTID43ON2G
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 52ddaf9f-f8ff-4c31-84d9-8212929f775c
-   owner-objects  : 17\23a06904-4350-40dc-8a24-104f603eaafe
+   stringId       : c6560715-4abe-4185-afe7-5b3374f5bbcd
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Fixed
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYTQ0ROYTQ0R3VUG
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : c4906df6-35b8-4319-9254-077575b7dea2
+   owner-objects  : 17\370a730e-4ec7-41fc-a616-93feb54d532d
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : ouput
+end
+begin localizable string
+   name           : LSGADG1AANVNMAPFYN5WPFYN5WYTI5
+   timestamp      : 1522736599
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : c1f47874-e94f-4d79-beb1-d57b5eb6eb9a
+   owner-objects  : 17\15ace6f7-828a-44cb-add4-d1f482de6ebc
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Modified Date
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6H
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : c1516ad6-9008-4585-8e19-77c56074815d
+   owner-objects  : 17\8b801fb6-48cd-4e85-b8bb-29dc28937deb
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : stars
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7L
-   timestamp      : 1521670178
+   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6M
+   timestamp      : 1524941242
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 52e6baf5-da39-48cc-99c3-29c891286ddd
-   owner-objects  : 17\1318a74e-d1d8-461f-8d94-ee6e84a56c66
+   stringId       : c052c187-627d-4b10-833b-b23175ef6cf1
+   owner-objects  : 17\5422daec-eef6-4118-91fc-881ca26178c8
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : OOTB message type (error, warning, info, success)
+   string-text    : ID
+end
+begin localizable string
+   name           : LSGADG1AANVNMAPFYOFLPFYOFLYUVO
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : c0503aa7-5cae-4020-a4e8-6c90d54c9e08
+   owner-objects  : 17\cf5a7aaf-e69c-4bfb-bfab-ac4114c73186
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Accessing a grid native Apis
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON65
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : bf2da9ac-2f69-4ceb-acd6-6cd22381ae59
+   owner-objects  : 17\a8c9ac7d-6984-4f4e-b36d-1cadfaafc487
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Create New
+end
+begin localizable string
+   name           : LSGADG1AANVNMAPANZP3PANZP3ME4L
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : bd085768-d50b-4609-8df9-4c1845bccc42
+   owner-objects  : 17\c68a4dff-c4ee-4ce1-98bc-7c43c41705ff
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Calling a Javascript Action from Javascript
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTID43OTID43ON2E
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : bb7606f9-2f58-4a1b-ad3a-71a0cf2268f4
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : New
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIGMHOTIGMHON8X
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : ba159fac-fa05-4091-8d82-5785141ff855
+   owner-objects  : 17\ce49ff26-88f9-4a28-a1ca-eac3f3d4425f
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">What is this application?</span></p><p>&nbsp;</p><p>This application is a small list of what you can do with Innovation &
+   string-text    : Suite with custom code.</p>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6N
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : b9ddcde9-877e-46d4-892b-6d711347bd55
+   owner-objects  : 17\846cdd7e-6227-4e58-8d7c-a63d465a0b9f
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Description
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYTQGYOYTQGY3VTN
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : b80ece8e-859e-49fe-910b-3e4e73f44e69
+   owner-objects  : 17\d0ecb8fc-66bd-46f7-b6c4-4d3690ff1fb9
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Execute custom Javascript action
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6R
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : b6ab2e94-23b7-4270-bac8-74eb5e91b0b9
+   owner-objects  : 17\b16d7065-12ec-4b9c-bb24-029190f0578b
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Save
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIFTXOTIFTXON72
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : b4def263-7700-4486-8e8f-92104589f427
+   owner-objects  : 17\bd70149d-c01f-4656-8f5f-d319b0c94bec
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">AC - Display javascripts alerts and BMC notifications</span></p><ul><li>This view components show you how to create and &
+   string-text    : use custom javascript actions in your application and your library,</li><li>It uses or standard javascript messages or notification object provided by B&
+   string-text    : MC,</li></ul>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAPFYOQWPFYOQWYVU0
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : b399deb0-6bf1-4e1d-8760-42095bcf92bf
+   owner-objects  : 17\015a66fe-5398-4a5a-b1bf-af1f059edda6
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">VC - Accessing a grid internal api</span></p><ul><li>This view component&nbsp;show you how to access the native grid api&
+   string-text    :  object from an Innovation Studio grid,</li><li>"ui-grid" component (http://ui-grid.info/) is used as base for the&nbsp;grid and has been extended, thou&
+   string-text    : gh if it is still possible to access the "core" gridApi object to use OOTB methods from ui-grid,</li><li>This example will show how to access this objec&
+   string-text    : t and how to force the selection of a specific row in a grid using the ui-grid OOTB API method<ul><li>selectRowByVisibleIndex():: http://ui-grid.info/do&
+   string-text    : cs/#!/api/ui.grid.selection.api:PublicApi</li></ul></li></ul>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4T
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : b03acc0d-d3e2-4d45-a50f-353091489f91
+   owner-objects  : 17\8f976166-3bc5-46f2-bebf-7fb725861d8b
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Save
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON69
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : aea75dd7-b759-4133-be08-b446fa6881b6
+   owner-objects  : 17\1d71e832-346d-4bcd-a235-74ea37a94e0e
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">VC - Display pictore stored in an attachment</span></p><ul><li>This example show how to fetch and display a picture stor&
+   string-text    : ed in an attachment using the standard javascript APIs,</li></ul>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTID43OTID43ON20
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : ae6b4221-93ce-4b28-ac23-76611257ca87
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Listening
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8V
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : adc548cc-2fed-47b4-ae25-ec494190209a
+   owner-objects  : 17\140a5547-da54-4b4a-ae0d-dc51239271f6
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : search
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSN
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : ad915c55-155b-47d4-850d-2957e83157a7
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Closed
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEVUOTIEVUON5S
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : accf66e8-fdd2-4b8b-ad8c-766226e98d5c
+   owner-objects  : 17\8f976166-3bc5-46f2-bebf-7fb725861d8b
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : add
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIDKUOTIDKUON2N
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : ac391bf3-20ad-4102-9ed5-f30c18df17de
+   owner-objects  : 17\6a28c771-c184-49dd-877f-9c3cdd2a2157
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>Fixed String passed as input parameter</p>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6P
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : a9af9cf9-fc77-49ac-85a4-c7477dbd6b22
+   owner-objects  : 17\e27a9d1a-2141-4b3c-bc3f-a5d53adfeadb
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : picture
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIF8SOTIF8SON7H
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : a9962674-1d63-4060-a771-e6c4280fca78
+   owner-objects  : 17\d66e4a7a-5294-43e5-bf78-530720312bce
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>Priority calculator according to entries from a record editor</p>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON64
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : a90f80ca-a6ae-41b4-90db-03f8afe5195b
+   owner-objects  : 17\35eaae07-98ca-4491-800e-329944137106
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Associate
+end
+begin localizable string
+   name           : LSGADG1AANVNMAPANZNYPANZNYME3S
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : a8e2902f-1c7e-466b-9ecf-16adef2db45e
+   owner-objects  : 17\8bd33db8-989d-47a0-b043-a53c1ea3600d
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">[VC] Calling a Javascript Action from Javascript</span></p><ul><li>This example shows how to call a custom Javascript Ac&
+   string-text    : tion (the one in the example "Calling a Custom Java Command") from Javascript code using&nbsp;"rxAction".</li><li>It shows how to pass parameters to the&
+   string-text    :  Action and get data from the Acction.</li></ul>
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUS
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : a8d1bdbd-27aa-4ea9-889e-d0e907e51711
+   owner-objects  : 17\1659e601-2754-41ff-9c83-f5a97060e6d9
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : User Name
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYP3SUOYP3SU37P1
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : a5f7d0e3-d2ca-49a5-9ddf-8c2c6771e69d
+   owner-objects  : 17\a859d5a5-4294-43aa-9973-1b638ca8221d
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : refresh
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYP4A6OYP4A637Q1
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : a42e276d-c68f-44b0-ad71-4e319d1bd935
+   owner-objects  : 17\68c40de0-1889-4be3-822f-3f8c4897c44d
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">[VC] View Component inside a Record Editor, and Refresh</span></p><ul><li>This example shows how to insert a View Compon&
+   string-text    : ent into a Record Editor and allow the "Refresh" Action to call one internal method.</li></ul>
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYP4A6OYP4A637Q2
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : a202fb83-ee5b-46ee-a891-5c81e5525a97
+   owner-objects  : 17\c6f39359-27ca-41c6-b980-924c940c3a0e
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>The button has an "Action" type "Refresh" on the custom View Component. A method in the View Component will then be called and will update the Date / Time.</p>
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYP3OJOYP3OJ37NY
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 9e803358-b57c-4388-aa0b-c21183e48296
+   owner-objects  : 17\a859d5a5-4294-43aa-9973-1b638ca8221d
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : refresh
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6L
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 9c8ae4ff-be47-48d9-9007-2c740b37c070
+   owner-objects  : 17\ce3e5fe4-e0e2-4202-b213-97f8a0a2af00
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : stars
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7O
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 9ac3889a-7b2c-4b95-9927-64beaf94c13a
+   owner-objects  : 17\62dbec30-593c-43d3-a078-625789d852be
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Standard Javascript message
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8T
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 980920ff-464a-4700-9529-be3161905c6f
+   owner-objects  : 17\1b6cdfd8-bb3d-4c70-8180-ace93528dfd3
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : java class
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIDKUOTIDKUON2O
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 97c40b23-fff2-4843-9322-a13995fa9e41
+   owner-objects  : 17\fda21b6f-70a6-4e03-9bcd-29118f50d777
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Me label, you?
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXW
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 960878b8-0572-48b5-a12f-fa80fa8233f0
+   owner-objects  : 17\e109a5bb-a652-474d-9824-a5c655ff1732
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Nah...
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3V
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 95c444bd-9fee-4202-bbf4-071913b0de14
+   owner-objects  : 17\76b3fa24-2942-4ae9-9f32-e062ccce733f
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>Create your own star record :)</p>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON93
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 9371f57b-45d2-4f23-942f-43c3b69a2cb2
+   owner-objects  : 17\fe73684b-83ad-4d2c-88b1-e2f65e001be1
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Star System :)
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYTPOHOYTPOH3V0D
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 935a6c84-4730-4e88-81a3-c8900df5fef6
+   owner-objects  : 17\2c7f0219-cebd-4ef2-807c-ba48c05c7620
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Test VC
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYP3SUOYP3SU37P2
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 924bcc9f-9b7d-4145-b4fa-7850a3058259
+   owner-objects  : 17\a859d5a5-4294-43aa-9973-1b638ca8221d
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Refresh!
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIDSXOTIDSXON2S
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 9215eb67-7fbd-48d3-b29c-61d4c254abd3
+   owner-objects  : 17\27131686-8de0-4130-a92f-426e106686bd
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : stars
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYP83FOYP83F38DE
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 8fe43517-26af-4217-a584-7acd42631570
+   owner-objects  : 17\e59b7651-29b2-4375-8170-6bc61c441842
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Calling a Custom Command and custom Rest API
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7F
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 8eea3aa0-a62a-476f-8f1e-511d7c6c7c01
+   owner-objects  : 17\d71ba377-7d1b-41f6-9c99-dc3efdde9dfa
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : urgency
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYP4ENOYP4EN37RI
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 8c5798ef-c6a1-4eae-95b6-dcba251b26ca
+   owner-objects  : 17\1cfbbf96-c8b8-46d6-8696-a4c73b266d6c
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">[VC] Calling a Custom Command and Custom Rest API</span></p><ul><li>This example shows how to call a Custom Command and &
+   string-text    : a Custom Rest API using the Innovation Suite Javascript framework objects "rxCommandResource" and "rxResource".</li><li>It shows also how to implement a&
+   string-text    :  custom&nbsp;error handler to override Innovation Suite default error handler. This can be used to not display an error message when calling a Command o&
+   string-text    : r Rest API and handle the error messages in your application.<ul><li>This is done using "errorHandler" and "rxServerErrorHandler" to get the error messa&
+   string-text    : ge.</li></ul></li><li>It also uses the loging method "rxLog".</li></ul>
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYP3OJOYP3OJ37NZ
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 8ad69886-3f73-4459-879c-f763964f4bf5
+   owner-objects  : 17\a859d5a5-4294-43aa-9973-1b638ca8221d
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Refresh!
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXU
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 8abca792-0369-4fbd-9298-9306398aed4b
+   owner-objects  : 17\45b3e56f-f470-4c9b-b2fb-852489ed4466
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span contenteditable="false" rx-expression="${view.inputParams.for the message}" class="rx-expression"></span></p>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTID43OTID43ON2H
+   timestamp      : 1524941242
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 86cd89ea-74c4-4ec0-a793-5fe1ba50743c
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Rejected
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSO
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 85eb0cb5-7aed-4108-9989-80ab4340bb8b
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Not Listening
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6I
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 84686c1e-8ba8-4f11-afcb-3f785ccc7a83
+   owner-objects  : 17\8adb16ab-3e3d-435b-99bf-b31be16f130d
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : ID
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON67
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 84416355-0cc7-47d9-ab70-4e382c5e7e1e
+   owner-objects  : 17\bd62a4e7-b29a-4177-8da2-17f0e70a9f47
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>Creating a record and association</p>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4V
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 83c996a8-d99a-4481-88a8-27bb7452b433
+   owner-objects  : 17\814719d5-d511-4c8f-9cee-4d80ae4cc516
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Close
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIDNAOTIDNAON2Q
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 8296cd25-a45f-4615-a23e-e32b0bcefd8e
+   owner-objects  : 17\8a4ed023-5e26-4f8c-868d-7a67963445b0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">VC - Star Rating</span></p><ul><li>Those&nbsp;view components are&nbsp;based on the example provided in docs.bmc.com.</l&
+   string-text    : i><li>It shows many interesting things for a View Component:<ul><li>How to have input / output parameters,</li><li>How to use 3rd party library to displ&
+   string-text    : ay a slider to determine the number of stars at design time (custom inspector),</li><li>See modification in real time in design time,</li><li>How to use&
+   string-text    :  a color picker as an inspector to choose the star colors,</li></ul></li></ul>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUI
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 82069887-4c60-4e3a-849c-f7d48e500182
+   owner-objects  : 17\036ffb96-de77-44ca-b185-44979bb25b1d
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : row index
+end
+begin localizable string
+   name           : LSGADG1AANVNMAPFYOR6PFYOR6YVVU
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 7f69ecd7-ef8d-49b4-aa0b-19f4b9a5dea1
+   owner-objects  : 17\0a4c291b-2191-432e-b7b9-52b6086d3c4b
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>&nbsp;</p>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTID3VOTID3VON2C
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 7dbbc7c8-fc3d-4f6c-ada2-ffd6589cb185
+   owner-objects  : 17\acbfa824-22df-4934-96e5-18bfc8f03e83
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">[VC] Simple Label example</span></p><ul><li><span style="font-size:16px">This example shows how to have an input paramet&
+   string-text    : er in a custom view component and how to "watch" when the value changes to display it in realtime,</span></li></ul>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3R
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 7c0675bd-e967-4229-8267-cb0c4190df3a
+   owner-objects  : 17\2721d41a-1ab7-4462-a78c-743f03887585
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Description
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6Q
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 7b2872f6-c0cf-4d44-92dc-856fd8a3cf2e
+   owner-objects  : 17\b16d7065-12ec-4b9c-bb24-029190f0578b
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : add
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8U
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 7a9e5d95-2d2e-4fc3-8a72-c60ed060f55c
+   owner-objects  : 17\d6e4d054-1ee8-4820-8f41-508f0333c2eb
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : java parameters
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4F
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 79e2d640-0d4c-40f7-8598-9a78d7af1ece
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Assigned
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4S
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 79ae46e2-1949-4499-9059-25aebabdc757
+   owner-objects  : 17\ea8ab299-2dac-4d11-8014-9ea3fdba0104
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Description
+end
+begin localizable string
+   name           : LSGADG1AANVNMAPFYN5WPFYN5WYTI3
+   timestamp      : 1522736598
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 797d6e6a-7dfc-479a-a322-ecb546f513ae
+   owner-objects  : 17\6ccf3b14-2341-427f-bf84-a632fc486116
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Description
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEJ4OTIEJ4ON4A
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 786334a0-db14-42ef-ac9f-ccb35ea71d37
+   owner-objects  : 17\feedb5e9-9d77-4a53-ba2d-7b08a5bd4545
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">VC - See available icons for your view component</span></p><ul><li>This VC is more a "hack", it lists the icons names yo&
+   string-text    : u can use for your view component (in config.js file),</li></ul>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3X
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 75f0f621-f792-4162-ab54-f75674d8e8bb
+   owner-objects  : 17\b931e93e-f4ca-47bb-84e0-7b607f36e207
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : stars
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUR
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 74f84b6a-00d2-477c-8ad4-7b80bf447867
+   owner-objects  : 17\222751c5-8fe6-4236-96b1-bbdeccf5d81c
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : User Name
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTID43OTID43ON2J
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 748a1ef7-0e20-46e0-b2bf-18f6ca9f60f6
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Not Listening
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYP811OYP81138CQ
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 72af083a-6ae5-4b6b-a097-abb07100783f
+   owner-objects  : 17\78d7656b-6c90-443b-985e-f4b05326d3d2
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>This field will contain the password sent by the REST API.</p>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3T
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 71294e86-f24b-477e-8a04-ed17076c1575
+   owner-objects  : 17\32892879-315f-4705-a446-4f277312f83f
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Description
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7G
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 711c460f-75ab-4a33-aedb-4304d9421e17
+   owner-objects  : 17\01f8d172-a14d-4e4c-bb28-8e51a2797252
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : impact
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYQJMUOYQJMU3KUP
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 708abf77-8bd1-4b65-a4f4-4f5c35e195f8
+   owner-objects  : 17\344f43e2-d584-40d4-b7e3-621f2951b43f
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : user
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYTRJ7OYTRJ73VYQ
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 6db89cfd-4e50-4c7e-bf89-b625c5663434
+   owner-objects  : 17\37a19fff-1400-46da-af00-1c9f34b87411
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : execute codeless confirm
+end
+begin localizable string
+   name           : LSGADG1AANVNMAPFYOC0PFYOC0YUTQ
+   timestamp      : 1522736598
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 6d2acdd8-397b-450e-977b-eaf05eca13c0
+   owner-objects  : 17\5cd59502-d85e-4764-bb35-c80798679614
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>&nbsp;</p>
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYTPKIOYTPKI3VJ5
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 6c350cb9-635a-4335-9fb3-e90aa96bd34f
+   owner-objects  : 17\fc217130-978f-4e68-8e7b-96dacc48af85
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Description
+end
+begin localizable string
+   name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUG
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 6ad77a1b-b8a2-4b54-b609-246a6102908a
+   owner-objects  : 17\2e89a742-cffb-433d-a5f3-d86bee0cee24
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Description
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUQ
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 6964283c-c1c5-4423-8ccb-6aef23810d4f
+   owner-objects  : 17\344f43e2-d584-40d4-b7e3-621f2951b43f
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Save
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3S
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 6933efdc-1d68-41f9-a46e-0fb1b63d17a3
+   owner-objects  : 17\31e19294-ba69-4107-80e8-044394e85566
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : stars
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4I
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 6603b67d-18c3-4252-8abd-8aedf203f970
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Closed
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYP811OYP81138CR
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 633d17a6-b5f1-489d-962e-a89dd1c7150d
+   owner-objects  : 17\099f94e3-d4dc-4f49-b71b-48b783d89e90
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Password
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIE6ROTIE6RON4B
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 6106ced5-fd86-4c93-83c1-ad90111c0a1f
+   owner-objects  : 17\38b77cfe-02db-47fd-b07e-a30ad6949a3c
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">VC - Display Data</span></p><ul><li>This VC uses standard javascript APIs to get record instances,</li></ul>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3U
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 5f47c092-291c-48e4-98f3-254c59e60311
+   owner-objects  : 17\7b7f94ed-a80f-489c-b158-8ca40e9891ec
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : stars
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYTQ0ROYTQ0R3VUH
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 5d449dbd-99d4-41c5-a50a-5a2b9ae2f896
+   owner-objects  : 17\b1a21d3e-1207-42a5-b7aa-950a4ba9e2c7
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : input
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYTRK3OYTRK33VZS
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 58e845d4-dcb3-4e6c-8d9d-128b6cd54bf1
+   owner-objects  : 17\b5594f3d-396a-442f-9291-55778ce7e595
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : New Button
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7E
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 588ece3f-693c-4f06-b62d-c39d1e68173e
+   owner-objects  : 17\79961da5-8e65-4698-a706-33557941484c
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Description
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSL
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 53cea600-e021-4ceb-9d50-41917a9049fe
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Fixed
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYQJMUOYQJMU3KUN
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 539f78c1-deea-4c58-9583-db75b8ae2059
+   owner-objects  : 17\2980256e-4b2f-41c1-8023-0be322535118
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : password
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMUOYQJMU3KUO
-   timestamp      : 1521670178
+   timestamp      : 1524941241
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
    stringId       : 538da7fe-cf22-4f12-9311-26db0ced9b1b
@@ -548,830 +1508,472 @@ begin localizable string
    string-text    : the Java Class "SimpleService" in the project source code),</li></ul></li></ul>
 end
 begin localizable string
-   name           : LSGA5FQGDU9FUAOYQJMUOYQJMU3KUN
-   timestamp      : 1521670178
+   name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7L
+   timestamp      : 1524941241
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 539f78c1-deea-4c58-9583-db75b8ae2059
-   owner-objects  : 17\2980256e-4b2f-41c1-8023-0be322535118
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : password
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSL
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 53cea600-e021-4ceb-9d50-41917a9049fe
-   owner-objects  : 35\0
+   stringId       : 52e6baf5-da39-48cc-99c3-29c891286ddd
+   owner-objects  : 17\1318a74e-d1d8-461f-8d94-ee6e84a56c66
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Fixed
+   string-text    : OOTB message type (error, warning, info, success)
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7E
-   timestamp      : 1521670178
+   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON60
+   timestamp      : 1524941241
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 588ece3f-693c-4f06-b62d-c39d1e68173e
-   owner-objects  : 17\79961da5-8e65-4698-a706-33557941484c
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Description
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYTRK3OYTRK33VZS
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 58e845d4-dcb3-4e6c-8d9d-128b6cd54bf1
-   owner-objects  : 17\b5594f3d-396a-442f-9291-55778ce7e595
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : New Button
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYTQ0ROYTQ0R3VUH
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 5d449dbd-99d4-41c5-a50a-5a2b9ae2f896
-   owner-objects  : 17\b1a21d3e-1207-42a5-b7aa-950a4ba9e2c7
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : input
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3U
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 5f47c092-291c-48e4-98f3-254c59e60311
-   owner-objects  : 17\7b7f94ed-a80f-489c-b158-8ca40e9891ec
+   stringId       : 52ddaf9f-f8ff-4c31-84d9-8212929f775c
+   owner-objects  : 17\23a06904-4350-40dc-8a24-104f603eaafe
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : stars
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIE6ROTIE6RON4B
-   timestamp      : 1521670178
+   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON90
+   timestamp      : 1524941241
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 6106ced5-fd86-4c93-83c1-ad90111c0a1f
-   owner-objects  : 17\38b77cfe-02db-47fd-b07e-a30ad6949a3c
+   stringId       : 5069f689-8e26-44c8-b33a-1dddcd2b0089
+   owner-objects  : 17\a8aac106-8980-4727-841c-2741ef185bc8
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : <p><span style="font-size:24px">VC - Display Data</span></p><ul><li>This VC uses standard javascript APIs to get record instances,</li></ul>
+   string-text    : Display a picture stored in an attachment field
 end
 begin localizable string
-   name           : LSGA5FQGDU9FUAOYP811OYP81138CR
-   timestamp      : 1521670178
+   name           : LSGIXIUWC3XSKAOTID43OTID43ON2F
+   timestamp      : 1524941241
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 633d17a6-b5f1-489d-962e-a89dd1c7150d
-   owner-objects  : 17\099f94e3-d4dc-4f49-b71b-48b783d89e90
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Password
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4I
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 6603b67d-18c3-4252-8abd-8aedf203f970
-   owner-objects  : 35\0
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Closed
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3S
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 6933efdc-1d68-41f9-a46e-0fb1b63d17a3
-   owner-objects  : 17\31e19294-ba69-4107-80e8-044394e85566
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : stars
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUQ
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 6964283c-c1c5-4423-8ccb-6aef23810d4f
-   owner-objects  : 17\344f43e2-d584-40d4-b7e3-621f2951b43f
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Save
-end
-begin localizable string
-   name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUG
-   timestamp      : 1521670856
-   owner          : developer
-   last-changed   : developer
-   bundle         : com.example.samplelibrary
-   stringId       : 6ad77a1b-b8a2-4b54-b609-246a6102908a
-   owner-objects  : 17\2e89a742-cffb-433d-a5f3-d86bee0cee24
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Description
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYTPKIOYTPKI3VJ5
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 6c350cb9-635a-4335-9fb3-e90aa96bd34f
-   owner-objects  : 17\fc217130-978f-4e68-8e7b-96dacc48af85
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Description
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYTRJ7OYTRJ73VYQ
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 6db89cfd-4e50-4c7e-bf89-b625c5663434
-   owner-objects  : 17\37a19fff-1400-46da-af00-1c9f34b87411
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : execute codeless confirm
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYQJMUOYQJMU3KUP
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 708abf77-8bd1-4b65-a4f4-4f5c35e195f8
-   owner-objects  : 17\344f43e2-d584-40d4-b7e3-621f2951b43f
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : user
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7G
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 711c460f-75ab-4a33-aedb-4304d9421e17
-   owner-objects  : 17\01f8d172-a14d-4e4c-bb28-8e51a2797252
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : impact
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3T
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 71294e86-f24b-477e-8a04-ed17076c1575
-   owner-objects  : 17\32892879-315f-4705-a446-4f277312f83f
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Description
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYP811OYP81138CQ
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 72af083a-6ae5-4b6b-a097-abb07100783f
-   owner-objects  : 17\78d7656b-6c90-443b-985e-f4b05326d3d2
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p>This field will contain the password sent by the REST API.</p>
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTID43OTID43ON2J
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 748a1ef7-0e20-46e0-b2bf-18f6ca9f60f6
-   owner-objects  : 35\0
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Not Listening
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUR
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 74f84b6a-00d2-477c-8ad4-7b80bf447867
-   owner-objects  : 17\222751c5-8fe6-4236-96b1-bbdeccf5d81c
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : User Name
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3X
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 75f0f621-f792-4162-ab54-f75674d8e8bb
-   owner-objects  : 17\b931e93e-f4ca-47bb-84e0-7b607f36e207
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : stars
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEJ4OTIEJ4ON4A
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 786334a0-db14-42ef-ac9f-ccb35ea71d37
-   owner-objects  : 17\feedb5e9-9d77-4a53-ba2d-7b08a5bd4545
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p><span style="font-size:24px">VC - See available icons for your view component</span></p><ul><li>This VC is more a "hack", it lists the icons names yo&
-   string-text    : u can use for your view component (in config.js file),</li></ul>
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4S
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 79ae46e2-1949-4499-9059-25aebabdc757
-   owner-objects  : 17\ea8ab299-2dac-4d11-8014-9ea3fdba0104
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Description
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4F
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 79e2d640-0d4c-40f7-8598-9a78d7af1ece
+   stringId       : 4ddedddb-9fbe-4a85-a598-8839bfd6c633
    owner-objects  : 35\0
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : Assigned
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8U
-   timestamp      : 1521670178
+   name           : LSGA5FQGDU9FUAOYP3NUOYP3NU37NM
+   timestamp      : 1524941241
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 7a9e5d95-2d2e-4fc3-8a72-c60ed060f55c
-   owner-objects  : 17\d6e4d054-1ee8-4820-8f41-508f0333c2eb
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : java parameters
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6Q
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 7b2872f6-c0cf-4d44-92dc-856fd8a3cf2e
-   owner-objects  : 17\b16d7065-12ec-4b9c-bb24-029190f0578b
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : add
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3R
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 7c0675bd-e967-4229-8267-cb0c4190df3a
-   owner-objects  : 17\2721d41a-1ab7-4462-a78c-743f03887585
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Description
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTID3VOTID3VON2C
-   timestamp      : 1521670178
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 7dbbc7c8-fc3d-4f6c-ada2-ffd6589cb185
-   owner-objects  : 17\acbfa824-22df-4934-96e5-18bfc8f03e83
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p><span style="font-size:24px">[VC] Simple Label example</span></p><ul><li><span style="font-size:16px">This example shows how to have an input paramet&
-   string-text    : er in a custom view component and how to "watch" when the value changes to display it in realtime,</span></li></ul>
-end
-begin localizable string
-   name           : LSGADG1AANVNMAPFYOR6PFYOR6YVVU
-   timestamp      : 1521670876
-   owner          : developer
-   last-changed   : developer
-   bundle         : com.example.samplelibrary
-   stringId       : 7f69ecd7-ef8d-49b4-aa0b-19f4b9a5dea1
-   owner-objects  : 17\0a4c291b-2191-432e-b7b9-52b6086d3c4b
+   stringId       : 4b44be85-8e7b-4349-8625-2cd3e5f79cf0
+   owner-objects  : 17\a859d5a5-4294-43aa-9973-1b638ca8221d
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : <p>&nbsp;</p><p>&nbsp;</p>
+   string-text    : Refresh!
 end
 begin localizable string
-   name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUI
-   timestamp      : 1521670856
+   name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSM
+   timestamp      : 1524941241
    owner          : developer
-   last-changed   : developer
-   bundle         : com.example.samplelibrary
-   stringId       : 82069887-4c60-4e3a-849c-f7d48e500182
-   owner-objects  : 17\036ffb96-de77-44ca-b185-44979bb25b1d
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : row index
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIDNAOTIDNAON2Q
-   timestamp      : 1521670179
-   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 8296cd25-a45f-4615-a23e-e32b0bcefd8e
-   owner-objects  : 17\8a4ed023-5e26-4f8c-868d-7a67963445b0
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p><span style="font-size:24px">VC - Star Rating</span></p><ul><li>Those&nbsp;view components are&nbsp;based on the example provided in docs.bmc.com.</l&
-   string-text    : i><li>It shows many interesting things for a View Component:<ul><li>How to have input / output parameters,</li><li>How to use 3rd party library to displ&
-   string-text    : ay a slider to determine the number of stars at design time (custom inspector),</li><li>See modification in real time in design time,</li><li>How to use&
-   string-text    :  a color picker as an inspector to choose the star colors,</li></ul></li></ul>
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4V
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 83c996a8-d99a-4481-88a8-27bb7452b433
-   owner-objects  : 17\814719d5-d511-4c8f-9cee-4d80ae4cc516
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Close
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON67
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 84416355-0cc7-47d9-ab70-4e382c5e7e1e
-   owner-objects  : 17\bd62a4e7-b29a-4177-8da2-17f0e70a9f47
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p>Creating a record and association</p>
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6I
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 84686c1e-8ba8-4f11-afcb-3f785ccc7a83
-   owner-objects  : 17\8adb16ab-3e3d-435b-99bf-b31be16f130d
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : ID
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSO
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 85eb0cb5-7aed-4108-9989-80ab4340bb8b
-   owner-objects  : 35\0
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Not Listening
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTID43OTID43ON2H
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 86cd89ea-74c4-4ec0-a793-5fe1ba50743c
+   stringId       : 4a1c2ee6-178d-4aa6-a993-efbc48c26d5d
    owner-objects  : 35\0
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : Rejected
 end
 begin localizable string
-   name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXU
-   timestamp      : 1521670179
+   name           : LSGA5FQGDU9FUAOYQ1FXOYQ1FX3LBY
+   timestamp      : 1524941241
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 8abca792-0369-4fbd-9298-9306398aed4b
-   owner-objects  : 17\45b3e56f-f470-4c9b-b2fb-852489ed4466
+   stringId       : 4808c4a8-056b-44e1-9b86-308e7fd05597
+   owner-objects  : 17\604c497a-45f1-4538-a7b2-1d278186173d
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : <p><span contenteditable="false" rx-expression="${view.inputParams.for the message}" class="rx-expression"></span></p>
+   string-text    : Custom Service
 end
 begin localizable string
-   name           : LSGA5FQGDU9FUAOYP3OJOYP3OJ37NZ
-   timestamp      : 1521670179
+   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6J
+   timestamp      : 1524941241
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 8ad69886-3f73-4459-879c-f763964f4bf5
-   owner-objects  : 17\a859d5a5-4294-43aa-9973-1b638ca8221d
+   stringId       : 4631fe10-76d3-409c-9f75-11f29e44c391
+   owner-objects  : 17\c889162d-6b1c-441d-9a50-f6bd0a0607d4
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Description
+end
+begin localizable string
+   name           : LSGADG1AANVNMAPFYN9APFYN9AYT1B
+   timestamp      : 1522736598
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 429db510-4b04-424b-9c4d-badb07af8f7c
+   owner-objects  : 17\1fbdce22-a64f-4482-9c6c-595aff729834
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Refresh!
+   string-text    : Please enter row index to select
 end
 begin localizable string
-   name           : LSGA5FQGDU9FUAOYP4ENOYP4EN37RI
-   timestamp      : 1521670179
+   name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7M
+   timestamp      : 1524941241
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 8c5798ef-c6a1-4eae-95b6-dcba251b26ca
-   owner-objects  : 17\1cfbbf96-c8b8-46d6-8696-a4c73b266d6c
+   stringId       : 4160880b-6cbf-476a-a592-352831b5238c
+   owner-objects  : 17\084f5f97-e1de-49ad-9c30-e4847c1b5f5a
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Message
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIGEKOTIGEKON7Q
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 3f04f98d-d4db-4b88-9452-32d67298de52
+   owner-objects  : 17\95f519c8-64fb-4cd3-9811-1a2639971d5f
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">AC - Calling a Custom Java command from a custom javascript action</span></p><ul><li>This example show how to:<ul><li>Cr&
+   string-text    : eate a custom Java Command (not a process or rule REST API or Service),</li><li>How to call this java Command from the UI using a custom Javascript Acti&
+   string-text    : on passing it parameters,</li><li>How to display the command return back to the UI,</li></ul></li></ul>
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYTQLJOYTQLJ3VV5
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 3e13c28c-a8ec-4163-93cc-60c0073a46c0
+   owner-objects  : 17\b4c782e9-b969-4c61-8f2f-35db31d34801
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : <p><span style="font-size:24px">[VC] Calling a Custom Command and Custom Rest API</span></p><ul><li>This example shows how to call a Custom Command and &
-   string-text    : a Custom Rest API using the Innovation Suite Javascript framework objects "rxCommandResource" and "rxResource".</li><li>It shows also how to implement a&
-   string-text    :  custom&nbsp;error handler to override Innovation Suite default error handler. This can be used to not display an error message when calling a Command o&
-   string-text    : r Rest API and handle the error messages in your application.<ul><li>This is done using "errorHandler" and "rxServerErrorHandler" to get the error messa&
-   string-text    : ge.</li></ul></li><li>It also uses the loging method "rxLog".</li></ul>
+   string-text    : Test Action
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7F
-   timestamp      : 1521670179
+   name           : LSGA5FQGDU9FUAOYTQ2HOYTQ2H3VUN
+   timestamp      : 1524941241
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 8eea3aa0-a62a-476f-8f1e-511d7c6c7c01
-   owner-objects  : 17\d71ba377-7d1b-41f6-9c99-dc3efdde9dfa
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : urgency
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYP83FOYP83F38DE
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 8fe43517-26af-4217-a584-7acd42631570
-   owner-objects  : 17\e59b7651-29b2-4375-8170-6bc61c441842
+   stringId       : 38d0a1a4-38bc-4bf6-951b-b01d18ab042a
+   owner-objects  : 17\b1a21d3e-1207-42a5-b7aa-950a4ba9e2c7
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Calling a Custom Command and custom Rest API
+   string-text    : output
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIDSXOTIDSXON2S
-   timestamp      : 1521670179
+   name           : LSGADG1AANVNMAPFYN9APFYN9AYT1A
+   timestamp      : 1522736598
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 9215eb67-7fbd-48d3-b29c-61d4c254abd3
-   owner-objects  : 17\27131686-8de0-4130-a92f-426e106686bd
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : stars
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYP3SUOYP3SU37P2
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 924bcc9f-9b7d-4145-b4fa-7850a3058259
-   owner-objects  : 17\a859d5a5-4294-43aa-9973-1b638ca8221d
+   stringId       : 37b590e3-e120-482c-852a-8d540876f9da
+   owner-objects  : 17\f6e76e5b-5dca-4294-bce1-328f2f09b8c8
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Refresh!
+   string-text    : Description
 end
 begin localizable string
-   name           : LSGA5FQGDU9FUAOYTPOHOYTPOH3V0D
-   timestamp      : 1521670179
+   name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION40
+   timestamp      : 1524941241
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 935a6c84-4730-4e88-81a3-c8900df5fef6
-   owner-objects  : 17\2c7f0219-cebd-4ef2-807c-ba48c05c7620
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Test VC
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON93
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 9371f57b-45d2-4f23-942f-43c3b69a2cb2
-   owner-objects  : 17\fe73684b-83ad-4d2c-88b1-e2f65e001be1
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Star System :)
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3V
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 95c444bd-9fee-4202-bbf4-071913b0de14
-   owner-objects  : 17\76b3fa24-2942-4ae9-9f32-e062ccce733f
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p>Create your own star record :)</p>
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXW
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 960878b8-0572-48b5-a12f-fa80fa8233f0
-   owner-objects  : 17\e109a5bb-a652-474d-9824-a5c655ff1732
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Nah...
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIDKUOTIDKUON2O
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 97c40b23-fff2-4843-9322-a13995fa9e41
-   owner-objects  : 17\fda21b6f-70a6-4e03-9bcd-29118f50d777
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Me label, you?
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8T
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 980920ff-464a-4700-9529-be3161905c6f
-   owner-objects  : 17\1b6cdfd8-bb3d-4c70-8180-ace93528dfd3
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : java class
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7O
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 9ac3889a-7b2c-4b95-9927-64beaf94c13a
-   owner-objects  : 17\62dbec30-593c-43d3-a078-625789d852be
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Standard Javascript message
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6L
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 9c8ae4ff-be47-48d9-9007-2c740b37c070
-   owner-objects  : 17\ce3e5fe4-e0e2-4202-b213-97f8a0a2af00
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : stars
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYP3OJOYP3OJ37NY
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : 9e803358-b57c-4388-aa0b-c21183e48296
-   owner-objects  : 17\a859d5a5-4294-43aa-9973-1b638ca8221d
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : refresh
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYP4A6OYP4A637Q2
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : a202fb83-ee5b-46ee-a891-5c81e5525a97
-   owner-objects  : 17\c6f39359-27ca-41c6-b980-924c940c3a0e
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p>The button has an "Action" type "Refresh" on the custom View Component. A method in the View Component will then be called and will update the Date / Time.</p>
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYP4A6OYP4A637Q1
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : a42e276d-c68f-44b0-ad71-4e319d1bd935
-   owner-objects  : 17\68c40de0-1889-4be3-822f-3f8c4897c44d
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p><span style="font-size:24px">[VC] View Component inside a Record Editor, and Refresh</span></p><ul><li>This example shows how to insert a View Compon&
-   string-text    : ent into a Record Editor and allow the "Refresh" Action to call one internal method.</li></ul>
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYP3SUOYP3SU37P1
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : a5f7d0e3-d2ca-49a5-9ddf-8c2c6771e69d
-   owner-objects  : 17\a859d5a5-4294-43aa-9973-1b638ca8221d
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : refresh
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUS
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : a8d1bdbd-27aa-4ea9-889e-d0e907e51711
-   owner-objects  : 17\1659e601-2754-41ff-9c83-f5a97060e6d9
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : User Name
-end
-begin localizable string
-   name           : LSGADG1AANVNMAPANZNYPANZNYME3S
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : a8e2902f-1c7e-466b-9ecf-16adef2db45e
-   owner-objects  : 17\8bd33db8-989d-47a0-b043-a53c1ea3600d
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p><span style="font-size:24px">[VC] Calling a Javascript Action from Javascript</span></p><ul><li>This example shows how to call a custom Javascript Ac&
-   string-text    : tion (the one in the example "Calling a Custom Java Command") from Javascript code using&nbsp;"rxAction".</li><li>It shows how to pass parameters to the&
-   string-text    :  Action and get data from the Acction.</li></ul>
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON64
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : a90f80ca-a6ae-41b4-90db-03f8afe5195b
-   owner-objects  : 17\35eaae07-98ca-4491-800e-329944137106
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Associate
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIF8SOTIF8SON7H
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : a9962674-1d63-4060-a771-e6c4280fca78
-   owner-objects  : 17\d66e4a7a-5294-43e5-bf78-530720312bce
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p>Priority calculator according to entries from a record editor</p>
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6P
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : a9af9cf9-fc77-49ac-85a4-c7477dbd6b22
-   owner-objects  : 17\e27a9d1a-2141-4b3c-bc3f-a5d53adfeadb
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : picture
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIDKUOTIDKUON2N
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : ac391bf3-20ad-4102-9ed5-f30c18df17de
-   owner-objects  : 17\6a28c771-c184-49dd-877f-9c3cdd2a2157
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p>Fixed String passed as input parameter</p>
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEVUOTIEVUON5S
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : accf66e8-fdd2-4b8b-ad8c-766226e98d5c
-   owner-objects  : 17\8f976166-3bc5-46f2-bebf-7fb725861d8b
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : add
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSN
-   timestamp      : 1521670179
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : ad915c55-155b-47d4-850d-2957e83157a7
-   owner-objects  : 35\0
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Closed
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8V
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : adc548cc-2fed-47b4-ae25-ec494190209a
-   owner-objects  : 17\140a5547-da54-4b4a-ae0d-dc51239271f6
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : search
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTID43OTID43ON20
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : ae6b4221-93ce-4b28-ac23-76611257ca87
+   stringId       : 36921c3d-8844-47f7-89d1-74fff3d3ef20
    owner-objects  : 35\0
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : Listening
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON69
-   timestamp      : 1521670180
+   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3W
+   timestamp      : 1524941241
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : aea75dd7-b759-4133-be08-b446fa6881b6
-   owner-objects  : 17\1d71e832-346d-4bcd-a235-74ea37a94e0e
+   stringId       : 341d7130-68c0-4f48-9283-9c135f39b014
+   owner-objects  : 17\7e3e8f94-c14c-40d6-af24-e4fe8b331da4
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : <p><span style="font-size:24px">VC - Display pictore stored in an attachment</span></p><ul><li>This example show how to fetch and display a picture stor&
-   string-text    : ed in an attachment using the standard javascript APIs,</li></ul>
+   string-text    : Description
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4T
-   timestamp      : 1521670180
+   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6O
+   timestamp      : 1524941241
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : b03acc0d-d3e2-4d45-a50f-353091489f91
-   owner-objects  : 17\8f976166-3bc5-46f2-bebf-7fb725861d8b
+   stringId       : 336b08a8-e261-4262-bf7b-3ebd66b346dc
+   owner-objects  : 17\bd359c9b-c394-4245-870b-09a9ec7fd560
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Save
+   string-text    : stars
 end
 begin localizable string
-   name           : LSGADG1AANVNMAPFYOQWPFYOQWYVU0
-   timestamp      : 1521670856
+   name           : LSGA5FQGDU9FUAOYP4B4OYP4B437QQ
+   timestamp      : 1524941241
    owner          : developer
-   last-changed   : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : b399deb0-6bf1-4e1d-8760-42095bcf92bf
-   owner-objects  : 17\015a66fe-5398-4a5a-b1bf-af1f059edda6
+   stringId       : 32935067-ee87-4926-92dd-1f7d400c0d00
+   owner-objects  : 17\53c2fead-ca2e-4d1f-a162-40886089ae42
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : VC inside a Record Editor, with Refresh
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSP
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 3204ef93-8b51-4a69-a983-cd85a1966ecf
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Listening
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7P
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 2c451e9d-9c40-496c-bd1f-10919d43e10f
+   owner-objects  : 17\3f6b51ff-61b3-4e45-b91f-299ef90fb73f
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : BMC OOTB message
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9I
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 29b52457-e795-4629-be57-ae3722200882
+   owner-objects  : 17\01f583af-a430-48ab-b0a3-b8ba7b9c95ea
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Display associated data using Javascript
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIF99OTIF99ON71
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 2994a3ce-3f29-48b0-9e7b-a056a5ff6d3d
+   owner-objects  : 17\72a3f698-9d63-4d30-ac07-869119159787
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : vat
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4H
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 281b3d22-af01-42cf-a67f-b404c6a91cb5
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Rejected
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON63
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 27e2c513-b21f-4b5b-8deb-54521f703f64
+   owner-objects  : 17\822891c3-2e60-409b-8dd4-bd6eee682884
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Description
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KS9
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 27cd4c5f-d527-4b0b-94e4-f548f1f93532
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : New
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON91
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 25f63db8-b642-4017-b9fd-14e756a9bde6
+   owner-objects  : 17\92b87ffc-9e94-4a20-91af-cc8272ba3e8f
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : List available icons
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4J
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 25aca570-09e3-49ea-8cc9-708829a998a6
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Not Listening
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON68
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 24069bd1-d3a8-4231-ab3c-b62f2ebe6f58
+   owner-objects  : 17\d833894f-74c2-4c52-a603-1f91c4e26ff1
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>Association displayed using Javascript APIs:</p>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUJ
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 21a4b154-6d82-4757-92fa-afc3de5638d2
+   owner-objects  : 17\77591552-8b16-4c9e-9596-e5bc21e43dca
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Display ID
+end
+begin localizable string
+   name           : LSGA5FQGDU9FUAOYP3MCOYP3MC37M4
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 21052bed-bdb9-4acd-bf93-a9b73270f4d3
+   owner-objects  : 17\31b8983e-cbf1-45d0-8737-abd6648936f2
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Status
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIE8UOTIE8UON4C
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 206e76a5-7a8c-4f4f-a51f-d9222a313c9a
+   owner-objects  : 17\22fb9029-3244-4c6a-aa5f-eaa63b8ccc18
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">VC - Display associated data</span></p><ul><li>This view component shows how to display data from an association using s&
+   string-text    : tandard javascript APIs,</li></ul>
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON61
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 1ec57a16-ff6f-40d6-9af9-2deb12d01d56
+   owner-objects  : 17\28e711cf-7d75-462b-b2e2-0813c98f6f97
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : add
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9H
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 1dbb17fe-6c98-455f-9fcd-d09e6cd15a2e
+   owner-objects  : 17\6a16af69-a9e2-44a5-937e-30dbe02fe35f
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Custom Label
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON94
+   timestamp      : 1524941241
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 1af12155-ce73-4d33-98a0-5ce4fd4751d9
+   owner-objects  : 17\0ff23a20-7f9b-4584-930c-eee24a1e5e2c
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Custom View Component
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIF99OTIF99ON70
+   timestamp      : 1524941240
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 193369f9-4c12-4b83-814b-8b58bb0690ac
+   owner-objects  : 17\e165d80a-04bb-4dee-9fb4-90b97c8d62b1
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : price
+end
+begin localizable string
+   name           : LSGADG1AANVNMAPFYNFWPFYNFWYTCX
+   timestamp      : 1522736597
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 19311dd3-488a-4f63-b121-26c259fdf078
+   owner-objects  : 17\e44f8676-1114-4b19-bc0b-63dec6ecc04c
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : <p><span style="font-size:24px">VC - Accessing a grid internal api</span></p><ul><li>This view component&nbsp;show you how to access the native grid api&
@@ -1381,498 +1983,145 @@ begin localizable string
    string-text    : cs/#!/api/ui.grid.selection.api:PublicApi</li></ul></li></ul>
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFTXOTIFTXON72
-   timestamp      : 1521670180
+   name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4G
+   timestamp      : 1524941240
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : b4def263-7700-4486-8e8f-92104589f427
-   owner-objects  : 17\bd70149d-c01f-4656-8f5f-d319b0c94bec
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p><span style="font-size:24px">AC - Display javascripts alerts and BMC notifications</span></p><ul><li>This view components show you how to create and &
-   string-text    : use custom javascript actions in your application and your library,</li><li>It uses or standard javascript messages or notification object provided by B&
-   string-text    : MC,</li></ul>
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6R
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : b6ab2e94-23b7-4270-bac8-74eb5e91b0b9
-   owner-objects  : 17\b16d7065-12ec-4b9c-bb24-029190f0578b
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Save
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYTQGYOYTQGY3VTN
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : b80ece8e-859e-49fe-910b-3e4e73f44e69
-   owner-objects  : 17\d0ecb8fc-66bd-46f7-b6c4-4d3690ff1fb9
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Execute custom Javascript action
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6N
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : b9ddcde9-877e-46d4-892b-6d711347bd55
-   owner-objects  : 17\846cdd7e-6227-4e58-8d7c-a63d465a0b9f
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Description
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGMHOTIGMHON8X
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : ba159fac-fa05-4091-8d82-5785141ff855
-   owner-objects  : 17\ce49ff26-88f9-4a28-a1ca-eac3f3d4425f
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p><span style="font-size:24px">What is this application?</span></p><p>&nbsp;</p><p>This application is a small list of what you can do with Innovation &
-   string-text    : Suite with custom code.</p>
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTID43OTID43ON2E
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : bb7606f9-2f58-4a1b-ad3a-71a0cf2268f4
-   owner-objects  : 35\0
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : New
-end
-begin localizable string
-   name           : LSGADG1AANVNMAPANZP3PANZP3ME4L
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : bd085768-d50b-4609-8df9-4c1845bccc42
-   owner-objects  : 17\c68a4dff-c4ee-4ce1-98bc-7c43c41705ff
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Calling a Javascript Action from Javascript
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON65
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : bf2da9ac-2f69-4ceb-acd6-6cd22381ae59
-   owner-objects  : 17\a8c9ac7d-6984-4f4e-b36d-1cadfaafc487
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Create New
-end
-begin localizable string
-   name           : LSGADG1AANVNMAPFYOFLPFYOFLYUVO
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : c0503aa7-5cae-4020-a4e8-6c90d54c9e08
-   owner-objects  : 17\cf5a7aaf-e69c-4bfb-bfab-ac4114c73186
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Accessing a grid native Apis
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6M
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : c052c187-627d-4b10-833b-b23175ef6cf1
-   owner-objects  : 17\5422daec-eef6-4118-91fc-881ca26178c8
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : ID
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6H
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : c1516ad6-9008-4585-8e19-77c56074815d
-   owner-objects  : 17\8b801fb6-48cd-4e85-b8bb-29dc28937deb
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : stars
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYTQ0ROYTQ0R3VUG
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : c4906df6-35b8-4319-9254-077575b7dea2
-   owner-objects  : 17\370a730e-4ec7-41fc-a616-93feb54d532d
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : ouput
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTID43OTID43ON2G
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : c6560715-4abe-4185-afe7-5b3374f5bbcd
+   stringId       : 18f5c911-c4ee-4172-8f87-209a81e1d7c3
    owner-objects  : 35\0
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : Fixed
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6K
-   timestamp      : 1521670180
+   name           : LSGA5FQGDU9FUAOYTRJ7OYTRJ73VYR
+   timestamp      : 1524941240
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : c719a225-48ab-4f34-969f-2f5395ff3ad4
-   owner-objects  : 17\d0b41809-2200-4861-b52f-690e3deb187c
+   stringId       : 173f8706-1c2a-423a-bf5f-c2a81ffb3aba
+   owner-objects  : 17\8fad12af-8ca4-4cef-8558-717bc20ea391
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Warning!
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON97
+   timestamp      : 1524941240
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 16914877-ca70-401b-9032-38b34054f7f0
+   owner-objects  : 17\ef705ec5-a52a-4553-95f7-d7c481877061
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Custom Action
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIDSXOTIDSXON2R
+   timestamp      : 1524941240
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 1468a068-cdcd-40d8-b2c3-a961f11afb83
+   owner-objects  : 17\913467f7-e684-4f32-a3ec-155cf79ae808
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : Description
 end
 begin localizable string
-   name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSK
-   timestamp      : 1521670180
+   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9G
+   timestamp      : 1524941240
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : cb6b1f67-e921-41ad-b845-079d2d06a6fe
+   stringId       : 13d611d7-1853-4aeb-b176-49eb7543dc98
+   owner-objects  : 17\com-example-samplelibrary-0bc17b27-a20f-4315-be0d-36405bfb05ce
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Home
+end
+begin localizable string
+   name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4E
+   timestamp      : 1524941240
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 120e4921-fc8e-4bac-8981-da7b09a818be
    owner-objects  : 35\0
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Assigned
+   string-text    : New
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8W
-   timestamp      : 1521670180
+   name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUH
+   timestamp      : 1524941240
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : d06384f6-ac98-4399-963e-e334a3847958
-   owner-objects  : 17\140a5547-da54-4b4a-ae0d-dc51239271f6
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   stringId       : 103e2a76-7347-4f8e-9649-817ed20e4e5b
+   owner-objects  : 17\8452779d-b2be-4054-a985-ccc9256a352d
+   object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Call Java command
+   string-text    : Description
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIF8SOTIF8SON7J
-   timestamp      : 1521670180
+   name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXV
+   timestamp      : 1524941240
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : d1a13fcb-3bb0-46b7-9abc-cbcbed03691f
-   owner-objects  : 17\699f183b-ea43-45f7-9567-81495aee4f85
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   stringId       : 0e5aa21d-752d-48e4-9a12-68af2ca8c20a
+   owner-objects  : 17\b3d79079-fd36-4749-895d-c7c7c39fadff
+   object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Price with VAT
+   string-text    : <p><span contenteditable="false" rx-expression="${view.inputParams.for the title}" class="rx-expression"></span></p>
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIDKUOTIDKUON2P
-   timestamp      : 1521670180
+   name           : LSGA5FQGDU9FUAOYP3N2OYP3N237N1
+   timestamp      : 1524941240
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : d1ce0872-3b47-47b9-a623-b018b8c12790
-   owner-objects  : 17\0d329add-9251-4785-9e4e-bc529f609c45
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p>The VC is mapped to the field value.</p>
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7N
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : d3f76a8d-cdc9-4d91-9526-5e3defd49af8
-   owner-objects  : 17\62dbec30-593c-43d3-a078-625789d852be
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : exclamationCircle
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYP3NUOYP3NU37NL
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : d41fe566-bb12-4f25-82dc-1459ddf40254
+   stringId       : 092094c7-d31f-4bda-a3d6-9e59e92e77c0
    owner-objects  : 17\a859d5a5-4294-43aa-9973-1b638ca8221d
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : refresh
+   string-text    : Refresh!
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON95
-   timestamp      : 1521670180
+   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON96
+   timestamp      : 1524941240
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : d5c873f3-73b3-44c9-b7b0-1454fa64297a
-   owner-objects  : 17\69a91866-1016-479e-99de-d34f56230692
+   stringId       : 087f6bee-e916-4afe-a340-5f21b031ae95
+   owner-objects  : 17\26f247ae-edd9-40d4-a7d8-ebdfb753bc43
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Alert and Notification
+   string-text    : Calling a Custom Java Command
 end
 begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON92
-   timestamp      : 1521670180
+   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON66
+   timestamp      : 1524941240
    owner          : developer
+   bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : d6870682-6ad4-4a20-b9b9-a0da74e927c2
-   owner-objects  : 17\b31b5598-0e2d-458e-b5a1-6c7b4e6e187f
+   stringId       : 01be84e3-0298-4cec-853d-edb1bd169feb
+   owner-objects  : 17\6cb22a0a-ad94-4011-a09d-c7a8f2cae9e5
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Priority and VAT calculators
-end
-begin localizable string
-   name           : LSGADG1AANVNMAPFYOQWPFYOQWYVU1
-   timestamp      : 1521670856
-   owner          : developer
-   last-changed   : developer
-   bundle         : com.example.samplelibrary
-   stringId       : dc2e9f3b-a442-4adc-860d-4822a7834fb5
-   owner-objects  : 17\28c71945-e946-42ad-9353-9ba0118b43ed
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Modified Date
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYP4A6OYP4A637Q0
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : dd5788a1-8bc3-4f96-9678-4d6f4a4411b6
-   owner-objects  : 17\73bf01c8-b0b7-4bb2-a032-f4bed29c57a5
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p>As you can see, the View Component is embedded inside a View Component :) This is thanks to the property "canBeEmbeddedInRecordEditor".</p>
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3Z
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : dea642ab-3172-4349-8843-b7a8070c7590
-   owner-objects  : 17\07ea04d7-42a0-45b0-a71e-e2bdab9eeb46
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Save
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9J
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : e233d768-2e46-4e11-bd8e-5c0512599bae
-   owner-objects  : 17\c33eb77e-931e-4b6e-a23d-b102b8520975
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Display data using Javascript
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4R
-   timestamp      : 1521670180
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : e27409d9-795e-4764-a33d-dde040cdf428
-   owner-objects  : 17\3fe17c42-660c-48d2-9bf8-23792c6eeb3a
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p>Create association :)</p>
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON62
-   timestamp      : 1521670181
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : e2b72cf6-ff89-4a95-b94f-2e26bcac2923
-   owner-objects  : 17\28e711cf-7d75-462b-b2e2-0813c98f6f97
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Save
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4U
-   timestamp      : 1521670181
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : e50ab1c0-75d2-4ab8-90bc-52452f2be790
-   owner-objects  : 17\814719d5-d511-4c8f-9cee-4d80ae4cc516
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : back
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6G
-   timestamp      : 1521670181
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : e6d17857-89a2-4398-b5e9-820dbb0ce481
-   owner-objects  : 17\f3fc9c13-14cc-44c2-b3f2-03c5b7ddc2d7
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Description
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYTQ2HOYTQ2H3VUM
-   timestamp      : 1521670181
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : ea617b42-4cf2-4d9e-b729-659bbae07448
-   owner-objects  : 17\370a730e-4ec7-41fc-a616-93feb54d532d
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : input
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7D
-   timestamp      : 1521670181
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : eb18c75c-7cf4-47a7-9dfd-c67ec0425595
-   owner-objects  : 17\14a292e8-0126-441b-94fa-502c7e6afd7a
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p><span style="font-size:24px">VC - Priority and VAT Calculators</span></p><ul><li>Those view components show how to pass information from one view com&
-   string-text    : ponent to another in real time using their input and output parameters,</li></ul>
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIF8SOTIF8SON7I
-   timestamp      : 1521670181
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : eb2418b4-6c8f-43e4-bd51-c055fc5abcdf
-   owner-objects  : 17\44cc17ba-2adf-4e84-9ab8-ab1493f63597
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : <p>VAT calculator according to entries from a record editor</p>
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUT
-   timestamp      : 1521670181
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : ec59740d-b081-4930-ade5-f3cbe3ce7edb
-   owner-objects  : 17\349ed37c-dfb3-4b66-9e28-39ba83485a50
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Display ID
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYQ1FXOYQ1FX3LBX
-   timestamp      : 1521670181
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : ed755236-394c-49c3-944c-8fb18da87749
-   owner-objects  : 17\2205ced0-16c3-484c-84c2-d565f7199420
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Using a Custom Service in a Process
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTID43OTID43ON2I
-   timestamp      : 1521670181
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : efd8587a-8997-498a-8633-945f6aeb1cbf
-   owner-objects  : 35\0
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Closed
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8S
-   timestamp      : 1521670181
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : f4f968a6-5d21-4cad-bccd-3cf7c7b6f1d1
-   owner-objects  : 17\c1a74241-7a8b-44ba-8a3f-b26a10e52824
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Command result
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYP3MCOYP3MC37M5
-   timestamp      : 1521670181
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : f5635141-c66c-4db2-b98c-94109a7e785f
-   owner-objects  : 17\8e13c09d-78b1-47b6-bf53-d4f7daf6a2f3
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Description
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3Y
-   timestamp      : 1521670181
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : fa9d2706-0b49-494f-8a6d-7b67598c9730
-   owner-objects  : 17\07ea04d7-42a0-45b0-a71e-e2bdab9eeb46
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : add
-end
-begin localizable string
-   name           : LSGIXIUWC3XSKAOTIDSXOTIDSXON2T
-   timestamp      : 1521670181
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : fd57e4d4-ba2f-4cac-9595-f4bffcddbe25
-   owner-objects  : 17\7e6fce48-08cb-45c1-a6f3-c55621967caa
-   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : ID
-end
-begin localizable string
-   name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXX
-   timestamp      : 1521670181
-   owner          : developer
-   last-changed   : ARSERVER
-   bundle         : com.example.samplelibrary
-   stringId       : fe3f1622-03e0-46ca-9f5d-a4249fee94ce
-   owner-objects  : 17\1894d80c-f0b9-4a17-b900-6756f4666e23
-   object-prop    : 2\90016\4\1\1\90015\2\4\
-   locale         : default
-   string-text    : Yes!
+   string-text    : Association time
 end
