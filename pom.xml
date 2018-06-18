@@ -46,7 +46,7 @@
 		<testng.version>6.9.10</testng.version>
 		<joda-time.version>1.6.2</joda-time.version>
 		<rx-sdk.groupId>com.bmc.arsys</rx-sdk.groupId>
-		<rx-sdk.version>18.2.0-SNAPSHOT</rx-sdk.version>
+		<rx-sdk.version>18.5.0-SNAPSHOT</rx-sdk.version>
 	</properties>
 	
 	
