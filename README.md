@@ -101,6 +101,10 @@ These samples are released by Laurent Matheo and are released "as is" as code sa
 Please find support on the Developer BMC Community if you have any questions or feel gree to use this git repo features (bug report etc...).
 
 
+# Credits:
+With the invaluable help from Dave Sulcer :)
+
+
 # Links:
 * BMC Innovation Youtube channel (https://www.youtube.com/bmcdigitalinnovator),
 * BMC Developer portal (https://developers.bmc.com/site/global/home/index.gsp),
