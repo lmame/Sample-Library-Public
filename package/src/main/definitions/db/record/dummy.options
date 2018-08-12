@@ -1,5 +1,5 @@
 #
-#Sat Aug 11 23:59:48 UTC 2018
+#Sun Aug 12 00:19:00 UTC 2018
 Name=com.example.samplelibrary\:dummy
 IgnoreRuleExecution=false
 DuplicateDataActionType=THROW_ERROR
