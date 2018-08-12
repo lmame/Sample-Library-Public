@@ -1,0 +1,48 @@
+begin schema data
+   name           : com.example.samplelibrary:Dvd
+   data-mapping   : <?xml version="1.0" encoding="utf-8"?><arDocMapping xmlns="urn:remedy:schemas:ars" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+   data-mapping   :     <element name="entryList">        <formMapping>            <form foreignKeyId="1" formName="com.example.samplelibrary:Dvd" mapType="embedded" prim
+   data-mapping   : aryKeyId="1"/>            <element name="entryItem">                <element dataType="string" name="f1_Display_ID">                    <fieldMapping
+   data-mapping   :  arFieldId="1"/>                </element>                <element dataType="string" name="f2_Created_By">                    <fieldMapping arFieldId
+   data-mapping   : ="2"/>                </element>                <element dataType="dateTime" name="f3_Created_Date">                    <fieldMapping arFieldId="3"/>
+   data-mapping   :                 </element>                <element dataType="string" name="f4_Assignee">                    <fieldMapping arFieldId="4"/>           
+   data-mapping   :      </element>                <element dataType="string" name="f5_Modified_By">                    <fieldMapping arFieldId="5"/>                </el
+   data-mapping   : ement>                <element dataType="dateTime" name="f6_Modified_Date">                    <fieldMapping arFieldId="6"/>                </element
+   data-mapping   : >                <element dataType="string" name="f7_Status">                    <fieldMapping arFieldId="7"/>                </element>            
+   data-mapping   :     <element dataType="string" name="f8_Description">                    <fieldMapping arFieldId="8"/>                </element>                <elem
+   data-mapping   : ent dataType="string" name="f15_Status_History">                    <fieldMapping arFieldId="15"/>                </element>                <element 
+   data-mapping   : dataType="string" name="f16_Notifier_Listening">                    <fieldMapping arFieldId="16"/>                </element>                <element 
+   data-mapping   : dataType="string" name="f17__GUID">                    <fieldMapping arFieldId="179"/>                </element>                <element dataType="st
+   data-mapping   : ring" name="f37__ID">                    <fieldMapping arFieldId="379"/>                </element>                <element dataType="string" name="f1
+   data-mapping   : 002_002_Movie_Title">                    <fieldMapping arFieldId="10029002"/>                </element>                <element dataType="string" nam
+   data-mapping   : e="f1002_003_Price">                    <fieldMapping arFieldId="10029003"/>                </element>                <element dataType="dateTime" na
+   data-mapping   : me="f1002_004_Last_Stock_Check">                    <fieldMapping arFieldId="10029004"/>                </element>                <element dataType="
+   data-mapping   : string" name="f1002_005_release_Date">                    <fieldMapping arFieldId="10029005"/>                </element>            </element>      
+   data-mapping   :   </formMapping>    </element></arDocMapping>
+   data           : <?xml version="1.0" encoding="utf-8"?><entryList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">   
+   data           :  <entryItem>        <f1_Display_ID>000000000000001</f1_Display_ID>        <f2_Created_By>developer</f2_Created_By>        <f3_Created_Date>2018-08-10
+   data           : T04:50:24+00:00</f3_Created_Date>        <f4_Assignee/>        <f5_Modified_By>developer</f5_Modified_By>        <f6_Modified_Date>2018-08-11T01:17:0
+   data           : 2+00:00</f6_Modified_Date>        <f7_Status>Released</f7_Status>        <f8_Description>Matrix</f8_Description>        <f15_Status_History/>       
+   data           :  <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f17__GUID>AGGADG1AANVNMAP3I0SAP215VRKT6N</f17__GUID>        <f37__ID>AGGADG1AA
+   data           : NVNMAP3I0SAP215VRKT6N</f37__ID>        <f1002_002_Movie_Title>Matrix</f1002_002_Movie_Title>        <f1002_003_Price>2</f1002_003_Price>        <f100
+   data           : 2_004_Last_Stock_Check/>        <f1002_005_release_Date>1999</f1002_005_release_Date>    </entryItem>    <entryItem>        <f1_Display_ID>000000000
+   data           : 000002</f1_Display_ID>        <f2_Created_By>developer</f2_Created_By>        <f3_Created_Date>2018-08-10T04:50:38+00:00</f3_Created_Date>        <f4
+   data           : _Assignee/>        <f5_Modified_By>developer</f5_Modified_By>        <f6_Modified_Date>2018-08-11T01:17:11+00:00</f6_Modified_Date>        <f7_Status
+   data           : >Released</f7_Status>        <f8_Description>Terminator I</f8_Description>        <f15_Status_History/>        <f16_Notifier_Listening>Not Listening<
+   data           : /f16_Notifier_Listening>        <f17__GUID>AGGADG1AANVNMAP3I0S4P215WFKT7I</f17__GUID>        <f37__ID>AGGADG1AANVNMAP3I0S4P215WFKT7I</f37__ID>       
+   data           :  <f1002_002_Movie_Title>Terminator I</f1002_002_Movie_Title>        <f1002_003_Price>23</f1002_003_Price>        <f1002_004_Last_Stock_Check/>       
+   data           :  <f1002_005_release_Date>1984</f1002_005_release_Date>    </entryItem>    <entryItem>        <f1_Display_ID>000000000000003</f1_Display_ID>        <
+   data           : f2_Created_By>developer</f2_Created_By>        <f3_Created_Date>2018-08-10T04:50:48+00:00</f3_Created_Date>        <f4_Assignee/>        <f5_Modified
+   data           : _By>developer</f5_Modified_By>        <f6_Modified_Date>2018-08-11T01:17:32+00:00</f6_Modified_Date>        <f7_Status>Released</f7_Status>        <f
+   data           : 8_Description>Terminator II</f8_Description>        <f15_Status_History/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>      
+   data           :   <f17__GUID>AGGADG1AANVNMAP3I0SOP215W6KT7W</f17__GUID>        <f37__ID>AGGADG1AANVNMAP3I0SOP215W6KT7W</f37__ID>        <f1002_002_Movie_Title>Termina
+   data           : tor II</f1002_002_Movie_Title>        <f1002_003_Price>34</f1002_003_Price>        <f1002_004_Last_Stock_Check/>        <f1002_005_release_Date>1991<
+   data           : /f1002_005_release_Date>    </entryItem>    <entryItem>        <f1_Display_ID>000000000000004</f1_Display_ID>        <f2_Created_By>developer</f2_Cr
+   data           : eated_By>        <f3_Created_Date>2018-08-10T04:51:06+00:00</f3_Created_Date>        <f4_Assignee/>        <f5_Modified_By>developer</f5_Modified_By>
+   data           :         <f6_Modified_Date>2018-08-11T01:17:53+00:00</f6_Modified_Date>        <f7_Status>Released</f7_Status>        <f8_Description>Silence of the l
+   data           : ambs</f8_Description>        <f15_Status_History/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f17__GUID>AGGADG1AAN
+   data           : VNMAP3I0TGP215WYKT87</f17__GUID>        <f37__ID>AGGADG1AANVNMAP3I0TGP215WYKT87</f37__ID>        <f1002_002_Movie_Title>Silence of the lambs</f1002_00
+   data           : 2_Movie_Title>        <f1002_003_Price>take it away from me</f1002_003_Price>        <f1002_004_Last_Stock_Check/>        <f1002_005_release_Date>199
+   data           : 1</f1002_005_release_Date>    </entryItem></entryList>
+end
+

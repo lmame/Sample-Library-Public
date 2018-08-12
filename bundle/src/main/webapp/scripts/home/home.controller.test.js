@@ -1,15 +1,19 @@
 describe('HomeController', function () {
-    var ctrl;
-
     beforeEach(module('com.example.samplelibrary.home'));
 
     beforeEach(inject(function ($controller, $rootScope) {
-        ctrl = $controller('HomeController', {
-            $scope: $rootScope.$new()
+        this.$rootScope = $rootScope;
+
+        this.ctrl = $controller('HomeController', {
+            $scope: this.$rootScope.$new()
         });
     }));
 
+    afterEach(function () {
+        this.$rootScope.$destroy();
+    });
+
     it('should exist', function () {
-        expect(ctrl).toBeDefined();
+        expect(this.ctrl).toBeDefined();
     });
 });

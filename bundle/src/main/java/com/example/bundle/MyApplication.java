@@ -11,8 +11,12 @@ import com.bmc.arsys.rx.services.common.RxBundle;
 import com.bmc.arsys.rx.services.common.domain.WebResourceDefinition;
 import com.example.command.TestCommand;
 import com.example.command.SimpleCommand;
+import com.example.rest.RestGetUserInfos;
+import com.example.rest.RestTicket;
+import com.example.rest.RestTriggerActivity;
 import com.example.rest.SimpleRest;
 import com.example.service.SimpleService;
+import com.example.datapage.DvdDataPageQuery;
 
 /**
  * Rx Web Activator class.
@@ -33,10 +37,15 @@ public class MyApplication extends RxBundle {
 		// Registering Command classes
     	registerClass(TestCommand.class);
     	registerClass(SimpleCommand.class);
+    	// Custom datapagequery
+    	registerClass(DvdDataPageQuery.class);
 
         // Registering Custom REST calls.
         registerRestfulResource(new SimpleRest());
-        
+        registerRestfulResource(new RestTicket());
+        registerRestfulResource(new RestGetUserInfos());
+        registerRestfulResource(new RestTriggerActivity());
+
         // Registering Services.
         registerService(new SimpleService());
 

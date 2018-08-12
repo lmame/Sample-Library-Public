@@ -2,7 +2,7 @@ begin view definition
    name           : com.example.samplelibrary:VC - Calling A Command and a Custom Rest API
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1524941408000,
+   definition     :   "lastUpdateTime" : 1534025329270,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:VC - Calling A Command and a Custom Rest API",
@@ -18,14 +18,14 @@ begin view definition
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1524941408000,
+   definition     :     "lastUpdateTime" : 1534025329270,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "1cfbbf96-c8b8-46d6-8696-a4c73b266d6c",
    definition     :     "tags" : null,
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : "1",
-   definition     :     "developerId" : null,
+   definition     :     "developerId" : "com.example",
    definition     :     "guid" : "1cfbbf96-c8b8-46d6-8696-a4c73b266d6c",
    definition     :     "type" : "rx-rich-text",
    definition     :     "propertiesByName" : {
@@ -43,14 +43,14 @@ begin view definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1524941408000,
+   definition     :     "lastUpdateTime" : 1534025329270,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "773fb111-df2a-474c-b28f-e88742616141",
    definition     :     "tags" : null,
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : "1",
-   definition     :     "developerId" : null,
+   definition     :     "developerId" : "com.example",
    definition     :     "guid" : "773fb111-df2a-474c-b28f-e88742616141",
    definition     :     "type" : "com-example-samplelibrary-rest-command",
    definition     :     "propertiesByName" : {
@@ -68,14 +68,14 @@ begin view definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ContainerViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1524941408000,
+   definition     :     "lastUpdateTime" : 1534025329270,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "ba8be88e-fb32-4cb5-ac93-457cb0034d58",
    definition     :     "tags" : null,
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : "1",
-   definition     :     "developerId" : null,
+   definition     :     "developerId" : "com.example",
    definition     :     "guid" : "ba8be88e-fb32-4cb5-ac93-457cb0034d58",
    definition     :     "type" : "rx-record-editor",
    definition     :     "propertiesByName" : {
@@ -96,14 +96,14 @@ begin view definition
    definition     :     "componentDefinitions" : [ {
    definition     :       "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :       "version" : null,
-   definition     :       "lastUpdateTime" : 1524941408000,
+   definition     :       "lastUpdateTime" : 1534025329270,
    definition     :       "lastChangedBy" : "ARSERVER",
    definition     :       "owner" : "ARSERVER",
    definition     :       "name" : "099f94e3-d4dc-4f49-b71b-48b783d89e90",
    definition     :       "tags" : null,
    definition     :       "description" : null,
    definition     :       "overlayGroupId" : "1",
-   definition     :       "developerId" : null,
+   definition     :       "developerId" : "com.example",
    definition     :       "guid" : "099f94e3-d4dc-4f49-b71b-48b783d89e90",
    definition     :       "type" : "rx-character-field",
    definition     :       "propertiesByName" : {
@@ -127,14 +127,14 @@ begin view definition
    definition     :     }, {
    definition     :       "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :       "version" : null,
-   definition     :       "lastUpdateTime" : 1524941408000,
+   definition     :       "lastUpdateTime" : 1534025329270,
    definition     :       "lastChangedBy" : "ARSERVER",
    definition     :       "owner" : "ARSERVER",
    definition     :       "name" : "78d7656b-6c90-443b-985e-f4b05326d3d2",
    definition     :       "tags" : null,
    definition     :       "description" : null,
    definition     :       "overlayGroupId" : "1",
-   definition     :       "developerId" : null,
+   definition     :       "developerId" : "com.example",
    definition     :       "guid" : "78d7656b-6c90-443b-985e-f4b05326d3d2",
    definition     :       "type" : "rx-rich-text",
    definition     :       "propertiesByName" : {

@@ -1,6 +1,32 @@
 begin localizable string
+   name           : LSGADG1AANVNMAP3HZPJP3HZPJK9HP
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : ff3e6ed3-44a4-4799-8267-08a5e4c166eb
+   owner-objects  : 17\6fe179b5-5121-4047-9908-b1da7d83f970
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>In this example the button is NOT visible, and can NOT be called by Javascript code as the button object is not in the DOM.</p>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3JUWZP3JUWZWNB9
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : ff037618-0c7c-4ad1-81b9-d59437f39791
+   owner-objects  : 17\962e2d7b-624c-4169-be59-710ccfed40e1
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Generate Movie Information
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXX
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -12,8 +38,21 @@ begin localizable string
    string-text    : Yes!
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3IHEBP3IHEBKPYJ
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : fd57e9b3-ef31-4db3-bd69-9ce75c957332
+   owner-objects  : 17\fd07af5d-014e-4164-a172-78e56bd9c41b
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Username
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIDSXOTIDSXON2T
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -26,7 +65,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3Y
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -39,7 +78,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP3MCOYP3MC37M5
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -51,8 +90,21 @@ begin localizable string
    string-text    : Description
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3JUWZP3JUWZWNBK
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : f5327219-7af3-4d45-b060-079502e4f608
+   owner-objects  : 17\760bc96e-e639-41a0-910d-11b8e9902f83
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Movie String
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8S
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -64,8 +116,34 @@ begin localizable string
    string-text    : Command result
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3HZS7P3HZS7K92C
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : f4dac561-0bb9-4a94-a06c-7214e9521c5f
+   owner-objects  : 17\6811dd43-c179-4a20-ab0a-3bc145edb8d3
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>In this example the button is&nbsp;visible (but disabled), and can still&nbsp;be called by Javascript code.</p>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3J81YP3J81YW1KD
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : f3d17792-b8db-440e-b2a6-54dcb47b1dc3
+   owner-objects  : 17\3206d1a4-76c1-42a1-bbe7-d3e38a6abcef
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Generate Movie List
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTID43OTID43ON2I
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -77,8 +155,23 @@ begin localizable string
    string-text    : Closed
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3JUZ3P3JUZ3WNDW
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : ee46c8a4-3bbd-4285-8710-0deeaf75ab48
+   owner-objects  : 17\8174eff1-6989-4937-b8b6-e80fd023eff9
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>We pass to the process an Object (for example a Json object) with attributes, for example:&nbsp;{"title":"Matrix","genre":"Science Ficti&
+   string-text    : on","releaseDate":"1999"}</p><p>The process "use object as input - object with attributes" accepts the data as an Object and we access its attributes to&
+   string-text    :  generate a String which concatenates the movie information.</p>
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYQ1FXOYQ1FX3LBX
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -90,8 +183,22 @@ begin localizable string
    string-text    : Using a Custom Service in a Process
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3J81YP3J81YW1KA
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : ecc708a6-7718-44a7-aea1-5b28a1a45998
+   owner-objects  : 17\f7b4c12f-aa6f-406c-8b89-2a100a93753d
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>We pass to the process an Array of Strings, for example: ["Matrix", "Terminator", "Silence of the Lambs"]</p><p>The process "use object &
+   string-text    : as input - array of strings" accepts the data as an Object and we loop through them to generate a String which concatenates the movies.</p>
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUT
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -103,8 +210,21 @@ begin localizable string
    string-text    : Display ID
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3HXHWP3HXHWK6T8
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : ebefe12a-3d91-41a9-a8da-72ee629221cc
+   owner-objects  : 17\731cb166-c17e-41cf-8315-757adb199d71
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : {NOTINVISIBLE}
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIF8SOTIF8SON7I
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -117,7 +237,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7D
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -131,7 +251,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTQ2HOYTQ2H3VUM
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -140,11 +260,11 @@ begin localizable string
    owner-objects  : 17\370a730e-4ec7-41fc-a616-93feb54d532d
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : input
+   string-text    : Popup Text
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6G
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -157,7 +277,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4U
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -169,8 +289,47 @@ begin localizable string
    string-text    : back
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP31HZDP31HZDXVI7
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : e496dae5-0343-4370-89f8-7c29ef08a55e
+   owner-objects  : 17\5e6cbdac-b227-4cf8-940c-be509d7423f8
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>[VC] Using the BMC grid object to display custom data</p><ul><li>This example shows how to use the OOTB BMC grid object but with your own custom data&
+   string-text    : .</li><li>The grid is based on ui-grid.</li><li>It is indeed possible to inject a datapagequery inside the grid and defined events, column list etc...</&
+   string-text    : li><li>Here:<ul><li>We use a custom datapagequery "DvdDataPageQuery" (com.example.datapage.DvdDataPageQuery) (list of Dvds) and display them in the grid&
+   string-text    : <ul><li>The datapagequery gets record instances from the record definition "com.example.samplelibrary:Dvd" and modify their price.</li></ul></li><li>We &
+   string-text    : use the BMC Javascript directive "rx-record-grid" and provide a configuration object which contains<ul><li>How to get the data, what fields to display, &
+   string-text    : how to handle filtering and paging, how to handle events,</li></ul></li><li>You can also use the ui-grid OOTB attributes to enable / disable select all &
+   string-text    : for example.</li></ul></li><li>What this example shows:<ul><li>How to create a custom datapagequery,</li><li>How to get record instances in Java code, w&
+   string-text    : ith qualification, field list etc...,</li><li>How to use BMC grid object to gather datapagequery data,</li><li>How to allow filtering (external or inter&
+   string-text    : nal to the grid through the grid input field),</li><li>How to trap the row selection event and make the values available as an output parameter to be di&
+   string-text    : splayed in "Selected Title",</li></ul></li><li>The custom view component is "custom-grid"</li></ul>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3HND5P3HND5KH1P
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : e3c3da37-7019-47cc-9cf2-ef1b0dfcd01d
+   owner-objects  : 17\857b9b7e-9cac-46f4-ae94-9cc2d22f69b1
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">VC - Get and send Java class object in Rest Apis</span></p><ul><li>This is to address a question asked on the BMC commun&
+   string-text    : ity (https://communities.bmc.com/message/778045#778045) on how to send a List of data in a POST command.</li><li>The object in Java side is a class with&
+   string-text    :  a method which expects a List&lt;&gt;.</li><li>This example show how to get such data and how to send this kind of data in the UI (regular javascript o&
+   string-text    : bject with array) and on the backend in RestTicket rest API leveraging Ticket and Note classes.</li><li>The "secret" is to be very careful with the @Jso&
+   string-text    : nProperty Java decorators to allow Java to automatically "cast" Json data into a Java object (back and forth).</li></ul>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON62
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -183,7 +342,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4R
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -196,7 +355,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9J
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -208,8 +367,25 @@ begin localizable string
    string-text    : Display data using Javascript
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3IHEBP3IHEBKPY0
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : df742883-5f95-4c7c-99ea-d29860dfd6d7
+   owner-objects  : 17\6e572b11-6253-40c9-b36c-895fafbfbc12
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">[VC] Calling a specific process activity and getting its result</span></p><ul><li>This example shows how to call a speci&
+   string-text    : fic process activity (for example the connector activity) rather than calling a process and puttin the activity in a process.</li><li>This cas be useful&
+   string-text    :  if we want to return a Map of objects or simply call a specific activity.</li><li>In this example we are going to call the custom service we created "g&
+   string-text    : eneratePassword".</li><li>The custom view component is going to call a custom Rest Api. This Rest Api will trigger the "generatePassword" activity and r&
+   string-text    : eturn the object to the UI.</li></ul><p>&nbsp;</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3Z
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -221,8 +397,24 @@ begin localizable string
    string-text    : Save
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP30FXWP30FXWWXNA
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : dda14734-e07a-4903-992c-641b989b7e36
+   owner-objects  : 17\07811ee0-0644-42ce-aa09-48ff6b4adf05
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>We pass to the process an array of&nbsp;Objects (for example a Json object) with attributes, for example: [{"title":"Matrix","genre":"Sc&
+   string-text    : ience Fiction","releaseDate":"1999"},{"title":"Terminator","genre":"Science Fiction","releaseDate":"1984"}]</p><p>The process "use object as input - arr&
+   string-text    : ay of Objects" accepts the data as an Array of Objects and we loop through the movies and their&nbsp;attributes to generate a String which concatenates &
+   string-text    : the movies information.</p>
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYP4A6OYP4A637Q0
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -235,7 +427,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYOQWPFYOQWYVU1
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -247,8 +439,60 @@ begin localizable string
    string-text    : Modified Date
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3JUWZP3JUWZWNBL
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : db8e745f-91df-47d6-9a05-a9daddf68662
+   owner-objects  : 17\dba02006-5950-4e20-8ae0-9c67b0f64605
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Movie Object
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3JV9HP3JV9HWNRG
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : db8e6e2f-0fb3-4ee4-9ac1-e2e4c8365b6e
+   owner-objects  : 17\962e2d7b-624c-4169-be59-710ccfed40e1
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Generate Movie Information
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3J86RP3J86RW1P7
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : db76e27e-7227-49f5-a63c-9c207ac1080f
+   owner-objects  : 17\9eb8f688-38d2-4be1-903f-3fdd16932a10
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Imput movie list
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3HZN2P3HZN2K9EF
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : db25e355-acf1-4ed1-8a38-d4abdbaa83f1
+   owner-objects  : 17\1250bfbc-00f9-41b5-9adf-b04142c76b1b
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>In this example the button is visible, and can be called by Javascript code.</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON92
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -261,7 +505,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON95
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -274,7 +518,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYN5WPFYN5WYTI4
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -286,8 +530,21 @@ begin localizable string
    string-text    : Display ID
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3IHSNP3IHSNKQPW
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : d52337e1-7c42-4408-b344-4e8a4fde4689
+   owner-objects  : 17\a53269bc-6cea-4a79-9784-220c9ac58efa
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>&nbsp;</p>
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYP3NUOYP3NU37NL
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -300,7 +557,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7N
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -312,8 +569,21 @@ begin localizable string
    string-text    : exclamationCircle
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3IAB9P3IAB9K9OD
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : d3d96e57-fb8c-4c26-aa78-6cedb9a9a820
+   owner-objects  : 17\6fe179b5-5121-4047-9908-b1da7d83f970
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>In this example the button is NOT visible, and can NOT be called by Javascript code as the button object is not in the DOM.</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIDKUOTIDKUON2P
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -325,8 +595,24 @@ begin localizable string
    string-text    : <p>The VC is mapped to the field value.</p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3J81YP3J81YW1KC
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : d1c14827-224d-43ca-aa3f-5eb94065da45
+   owner-objects  : 17\d9abf43a-e2b3-4142-b823-2c2308e05af9
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">[Process] Passing an a list of strings (Object)&nbsp;to a process and using it</span></p><ul><li>In a process it is poss&
+   string-text    : ible to have as input parameters different data types (String, etc...). One of them is Object which allows you to pass any kind of data.</li><li>This ex&
+   string-text    : ample shows how to pass an array of Strings and use it in the process.</li><li>This cas be useful when you want to pass custom data which structure is n&
+   string-text    : ot known.</li></ul>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIF8SOTIF8SON7J
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -338,8 +624,21 @@ begin localizable string
    string-text    : Price with VAT
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3IAB9P3IAB9K9OF
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : d13bdcce-99df-46a7-aaf8-f38a13efa829
+   owner-objects  : 17\1250bfbc-00f9-41b5-9adf-b04142c76b1b
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>In this example the button is visible, and can be called by Javascript code.</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8W
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -351,8 +650,21 @@ begin localizable string
    string-text    : Call Java command
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3IIQYP3IIQYKRM0
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : ced1d633-ef14-4116-895a-e2e36b5bb914
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : New
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSK
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -364,8 +676,21 @@ begin localizable string
    string-text    : Assigned
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3HZN2P3HZN2K9EG
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : c78ea339-6f40-4d60-9243-c98c4fe37216
+   owner-objects  : 17\6811dd43-c179-4a20-ab0a-3bc145edb8d3
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>In this example the button is&nbsp;visible (but disabled), and can still&nbsp;be called by Javascript code.</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6K
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -377,8 +702,21 @@ begin localizable string
    string-text    : Description
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3HNI0P3HNI0KH7I
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : c6c96eb2-3c1b-4c91-a9ed-a2b6788e71c9
+   owner-objects  : 17\296e2190-8f29-466b-9827-a87a32e56e8b
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Get and Post Object with List to / from a Rest API
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTID43OTID43ON2G
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -390,8 +728,21 @@ begin localizable string
    string-text    : Fixed
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3HXHWP3HXHWK6T6
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : c6296e15-4ae9-4bc8-a5a3-181f1750bc73
+   owner-objects  : 17\673d4b69-21da-43d5-b400-29c77e50934b
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : {HIDDEN}
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYTQ0ROYTQ0R3VUG
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -404,7 +755,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYN5WPFYN5WYTI5
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -417,7 +768,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6H
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -430,7 +781,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6M
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -443,7 +794,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYOFLPFYOFLYUVO
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -456,7 +807,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON65
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -468,8 +819,21 @@ begin localizable string
    string-text    : Create New
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3IIQZP3IIQZKRM3
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : beffbd72-3875-4831-a4a0-028569d97c3d
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Rejected
+end
+begin localizable string
    name           : LSGADG1AANVNMAPANZP3PANZP3ME4L
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -482,7 +846,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTID43OTID43ON2E
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -494,8 +858,34 @@ begin localizable string
    string-text    : New
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP30FXVP30FXVWXMY
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : bae0c84c-a5ac-4bdb-9c1f-6879a8d23449
+   owner-objects  : 17\31d08bfe-583c-4c51-abd4-16d535c7ba38
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Array of Movie Objects
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3JV8DP3JV8DWNPO
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : badd79c5-263b-4840-8fc0-6ada5594fe35
+   owner-objects  : 17\760bc96e-e639-41a0-910d-11b8e9902f83
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Movie String
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIGMHOTIGMHON8X
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -509,7 +899,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6N
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -522,7 +912,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTQGYOYTQGY3VTN
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -535,7 +925,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6R
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -548,7 +938,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFTXOTIFTXON72
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -562,8 +952,21 @@ begin localizable string
    string-text    : MC,</li></ul>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3J84VP3J84VW1NF
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : b4d39c6c-3dc3-4d03-8d4a-34c436b59d13
+   owner-objects  : 17\9eb8f688-38d2-4be1-903f-3fdd16932a10
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Imput movie list
+end
+begin localizable string
    name           : LSGADG1AANVNMAPFYOQWPFYOQWYVU0
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -580,7 +983,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4T
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -593,7 +996,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON69
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -607,7 +1010,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTID43OTID43ON20
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -620,7 +1023,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8V
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -633,7 +1036,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSN
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -646,7 +1049,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEVUOTIEVUON5S
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -659,7 +1062,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIDKUOTIDKUON2N
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -671,8 +1074,21 @@ begin localizable string
    string-text    : <p>Fixed String passed as input parameter</p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3HXHWP3HXHWK6T9
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : aa2448ec-44ec-4a91-9d65-f3d0dfe5642a
+   owner-objects  : 17\61822880-696f-4b14-8932-56e640c34c23
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : {DISABLED}
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6P
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -685,7 +1101,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF8SOTIF8SON7H
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -698,7 +1114,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON64
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -711,7 +1127,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPANZNYPANZNYME3S
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -726,7 +1142,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUS
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -738,8 +1154,21 @@ begin localizable string
    string-text    : User Name
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3HZOVP3HZOVK9GV
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : a8be8668-1e2f-44fe-97ea-36b411252319
+   owner-objects  : 17\6fe179b5-5121-4047-9908-b1da7d83f970
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>In this example the button is NOT visible, and can NOT be called by Javascript code as the button object is not in the DOM.</p>
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYP3SUOYP3SU37P1
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -751,8 +1180,21 @@ begin localizable string
    string-text    : refresh
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3HZPJP3HZPJK9HS
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : a569c790-e02b-408f-be7e-2a0c57880e6f
+   owner-objects  : 17\1250bfbc-00f9-41b5-9adf-b04142c76b1b
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>In this example the button is visible, and can be called by Javascript code.</p>
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYP4A6OYP4A637Q1
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -766,7 +1208,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP4A6OYP4A637Q2
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -778,8 +1220,21 @@ begin localizable string
    string-text    : <p>The button has an "Action" type "Refresh" on the custom View Component. A method in the View Component will then be called and will update the Date / Time.</p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3HZOVP3HZOVK9GX
+   timestamp      : 1534025330
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : a089aa3e-3226-4195-83c9-946b5fa201dd
+   owner-objects  : 17\1250bfbc-00f9-41b5-9adf-b04142c76b1b
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>In this example the button is visible, and can be called by Javascript code.</p>
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYP3OJOYP3OJ37NY
-   timestamp      : 1524941410
+   timestamp      : 1534025330
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -791,8 +1246,21 @@ begin localizable string
    string-text    : refresh
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3IIQZP3IIQZKRM4
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 9d7f62e6-b063-42fa-b469-49879cb77e44
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Closed
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6L
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -805,7 +1273,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7O
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -817,8 +1285,21 @@ begin localizable string
    string-text    : Standard Javascript message
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3JUZ3P3JUZ3WNDX
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 98fcb5f8-383b-4ae8-924e-ec06ed37eae1
+   owner-objects  : 17\962e2d7b-624c-4169-be59-710ccfed40e1
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Generate Movie Information
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8T
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -831,7 +1312,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIDKUOTIDKUON2O
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -843,8 +1324,30 @@ begin localizable string
    string-text    : Me label, you?
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3I4NSP3I4NSBS1H
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 96f76433-ee68-4671-9e7d-d27180e67b35
+   owner-objects  : 17\beb79df3-9d02-4e19-90e2-0c6123f1698e
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">[VC] Using the BMC grid object to display custom data</span></p><ul><li>This example shows how to use the OOTB BMC grid &
+   string-text    : object but with your own custom data.</li><li>The grid is based on ui-grid.</li><li>It is indeed possible to inject a datapagequery inside the grid and &
+   string-text    : defined events, column list etc...</li><li>Here:<ul><li>We use a custom datapagequery "DvdDataPageQuery" (com.example.datapage.DvdDataPageQuery) (list o&
+   string-text    : f Dvds) and display them in the grid<ul><li>The datapagequery gets record instances from the record definition "com.example.samplelibrary:Dvd" and modif&
+   string-text    : y their price.</li></ul></li><li>We use the BMC Javascript directive "rx-record-grid" and provide a configuration object which contains<ul><li>How to ge&
+   string-text    : t the data, what fields to display, how to handle filtering and paging, how to handle events,</li></ul></li><li>You can also use the ui-grid OOTB attrib&
+   string-text    : utes to enable / disable select all for example.</li></ul></li><li>What this example shows:<ul><li>How to create a custom datapagequery,</li><li>How to &
+   string-text    : get record instances in Java code, with qualification, field list etc...,</li><li>How to use BMC grid object to gather datapagequery data,</li><li>How t&
+   string-text    : o allow filtering (external or internal to the grid through the grid input field),</li><li>How to trap the row selection event and make the values avail&
+   string-text    : able as an output parameter to be displayed in "Selected Title",</li></ul></li><li>The custom view component is "custom-grid"</li></ul>
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXW
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -857,7 +1360,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3V
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -869,8 +1372,21 @@ begin localizable string
    string-text    : <p>Create your own star record :)</p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3IAB9P3IAB9K9OG
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 950461aa-a608-4c60-8083-aed30033ab7c
+   owner-objects  : 17\6811dd43-c179-4a20-ab0a-3bc145edb8d3
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>In this example the button is&nbsp;visible (but disabled), and can still&nbsp;be called by Javascript code.</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON93
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -882,21 +1398,34 @@ begin localizable string
    string-text    : Star System :)
 end
 begin localizable string
-   name           : LSGA5FQGDU9FUAOYTPOHOYTPOH3V0D
-   timestamp      : 1524941410
+   name           : LSGADG1AANVNMAP3JV8DP3JV8DWNPR
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
    bundle         : com.example.samplelibrary
-   stringId       : 935a6c84-4730-4e88-81a3-c8900df5fef6
-   owner-objects  : 17\2c7f0219-cebd-4ef2-807c-ba48c05c7620
+   stringId       : 933b750c-9c55-4af8-abef-8b885b3ade75
+   owner-objects  : 17\dba02006-5950-4e20-8ae0-9c67b0f64605
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Test VC
+   string-text    : Movie Object
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3HZOVP3HZOVK9GY
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 931b0bdc-0037-4ac5-a009-7d51fa3f7369
+   owner-objects  : 17\6811dd43-c179-4a20-ab0a-3bc145edb8d3
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>In this example the button is&nbsp;visible (but disabled), and can still&nbsp;be called by Javascript code.</p>
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP3SUOYP3SU37P2
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -909,7 +1438,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIDSXOTIDSXON2S
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -922,7 +1451,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP83FOYP83F38DE
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -934,8 +1463,21 @@ begin localizable string
    string-text    : Calling a Custom Command and custom Rest API
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3J8KGP3J8KGW1T1
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 8f881d42-d0d0-4de4-9e36-c24bdbb374a8
+   owner-objects  : 17\9eb8f688-38d2-4be1-903f-3fdd16932a10
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Imput movie list
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7F
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -948,7 +1490,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP4ENOYP4EN37RI
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -964,8 +1506,21 @@ begin localizable string
    string-text    : ge.</li></ul></li><li>It also uses the loging method "rxLog".</li></ul>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3IIQYP3IIQYKRM2
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 8b9e87df-1ebe-4294-af87-39da3ed0197b
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Released
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYP3OJOYP3OJ37NZ
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -977,8 +1532,21 @@ begin localizable string
    string-text    : Refresh!
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3J8QVP3J8QVW2AR
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 8ac98e09-a7cd-4caa-b6b5-ff028c28600d
+   owner-objects  : 17\9eb8f688-38d2-4be1-903f-3fdd16932a10
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Imput movie list
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXU
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -990,8 +1558,59 @@ begin localizable string
    string-text    : <p><span contenteditable="false" rx-expression="${view.inputParams.for the message}" class="rx-expression"></span></p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP31INLP31INLXVX8
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 8a8e192d-59d4-4568-ac4b-841857f68496
+   owner-objects  : 17\5e6cbdac-b227-4cf8-940c-be509d7423f8
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">[tips &amp; tricks] Showcasing action chaining</span></p><ul><li>This is a question that someone asked me, how can I do &
+   string-text    : a confirmation window? (Yes/No) and how to know if the user clicked actually confirmed or not?</li><li>It is possible in an action button to set several&
+   string-text    :  Actions one after the one (for example several Set Property),</li><li>If one action fails (error or on purpose), the following actions will be skipped,&
+   string-text    :  this is what we showcase here.</li><li>This example shows how to use a View as a Confirmation window and how to know if a user confirmed or not.<ul><li&
+   string-text    : >In the first example you can use two buttons in the confimation window you create.<ul><li>One with Action "Close View" and "act as cancel" not checked &
+   string-text    : that will return "true" in a way,</li><li>One with Action "Close View" and "act as cancel" checked. It will act as a cancel and other actions will not e&
+   string-text    : xecute,</li></ul></li><li>In the second example we show how you can achieve the same "confirmation" or "cancel" effect inside a custom action.<ul><li>I &
+   string-text    : created a "test action" action (bundle/src/main/webapp/scripts/actions/test-action/),</li><li>The trick is to return in your code an angularJs&nbsp;prom&
+   string-text    : ise $q.when() that does not trigger the error code if you want to return a "confirm" message and a $q.reject() if you want to trigger the error path, wh&
+   string-text    : ich in our case is going to tell the action provider to skip following actions,</li></ul></li></ul></li><li>In this example the buttons here have severa&
+   string-text    : l actions. You will see that depending on the confirmation window result the following actions will be executed or not:​​​​​​​<ul><li>Empty the return f&
+   string-text    : ield "Test returned ...."</li><li>Call the confirmation window (codeless or using custom action)</li><li>Set the field "Test returned...."</li><li>Displ&
+   string-text    : ay a confirmation popup,</li></ul></li></ul>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3JV8DP3JV8DWNPQ
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 8909d883-e04a-4281-8d60-da8f87cd0ad4
+   owner-objects  : 17\962e2d7b-624c-4169-be59-710ccfed40e1
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Generate Movie Information
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3IACPP3IACPK9QC
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 88110307-541d-4250-8eee-7388dc8f03ab
+   owner-objects  : 17\6fe179b5-5121-4047-9908-b1da7d83f970
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>In this example the button is NOT visible, and can NOT be called by Javascript code as the button object is not in the DOM.</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTID43OTID43ON2H
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1004,7 +1623,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSO
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1017,7 +1636,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6I
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1030,7 +1649,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON67
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1043,7 +1662,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4V
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1056,7 +1675,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIDNAOTIDNAON2Q
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1071,8 +1690,34 @@ begin localizable string
    string-text    :  a color picker as an inspector to choose the star colors,</li></ul></li></ul>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3I7ZRP3I7ZRV5QG
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 82422658-a4f5-4e33-bf8f-8f694d5461fe
+   owner-objects  : 17\1810446d-1dcf-4ead-a71e-3bf87161cfe7
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>&nbsp;</p>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP31HMFP31HMFXUV3
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 821d371c-af2e-4ece-ac5e-518f37835c99
+   owner-objects  : 17\f763793d-d364-418e-8d76-d425bb5e671f
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Tips & Tricks
+end
+begin localizable string
    name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUI
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1084,8 +1729,21 @@ begin localizable string
    string-text    : row index
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3JKX1P3JKX1W4BR
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 80c6672f-c83a-456a-a247-fefd21b83e33
+   owner-objects  : 17\9eb8f688-38d2-4be1-903f-3fdd16932a10
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Imput movie list
+end
+begin localizable string
    name           : LSGADG1AANVNMAPFYOR6PFYOR6YVVU
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1098,7 +1756,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTID3VOTID3VON2C
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1112,7 +1770,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3R
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1125,7 +1783,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6Q
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1138,7 +1796,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8U
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1151,7 +1809,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4F
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1164,7 +1822,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4S
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1177,7 +1835,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYN5WPFYN5WYTI3
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1189,8 +1847,21 @@ begin localizable string
    string-text    : Description
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3JV9HP3JV9HWNRI
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 7958061f-11f0-451a-a273-6ea233fbeb98
+   owner-objects  : 17\760bc96e-e639-41a0-910d-11b8e9902f83
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Movie String
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIEJ4OTIEJ4ON4A
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1203,8 +1874,38 @@ begin localizable string
    string-text    : u can use for your view component (in config.js file),</li></ul>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3H65DP3H65DKBB3
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 775400cc-6498-41a0-b4bf-33c378bbb144
+   owner-objects  : 17\b1325779-b073-461d-bacf-8e7fd43a671c
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">VC - Get user session information (Js - Java)</span></p><ul><li>This is to address a question asked on the BMC community&
+   string-text    :  (https://communities.bmc.com/thread/181717) on how to get the currently logged in user information in the UI (Javascript) and in Java.</li><li>In the U&
+   string-text    : I BMC provides a rxCurrentUser object,</li><li>On the backend (Java) BMC provides a service userService that returns a User object.</li><li>This view co&
+   string-text    : mponent (user-infos) shows some of the data you can get from the UI (rxCurrentUser) and the backend (User object).</li><li>To get data from the backend &
+   string-text    : we created a Rest API "restUserInfos" that gets the user information, backend side.</li></ul>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP31HMFP31HMFXUV2
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 762c983f-37c3-4b44-92e0-e3202f77b321
+   owner-objects  : 17\1246b312-0f92-46c9-be51-d91795ae4fe9
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : How to pass objects or arrays in a process
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3X
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1216,8 +1917,21 @@ begin localizable string
    string-text    : stars
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP30FXVP30FXVWXMZ
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 75a2ed99-60f5-4b42-ba7f-52a780051093
+   owner-objects  : 17\9b3e2087-3dfc-47fa-bba2-ccdd96e48f17
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Movie String
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUR
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1230,7 +1944,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTID43OTID43ON2J
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1242,8 +1956,34 @@ begin localizable string
    string-text    : Not Listening
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3IHTUP3IHTUKQRH
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 7302b756-8927-4481-b7a8-109f70aaa174
+   owner-objects  : 17\45b74b81-897b-4cf2-b1f7-9f48db179f03
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Trigger a specific process activity
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3IIQZP3IIQZKRM6
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 72e413dc-8104-41bb-88db-53f1349c12a1
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Listening
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYP811OYP81138CQ
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1256,7 +1996,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3T
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1269,7 +2009,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7G
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1282,7 +2022,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMUOYQJMU3KUP
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1295,7 +2035,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTRJ7OYTRJ73VYQ
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1307,8 +2047,21 @@ begin localizable string
    string-text    : execute codeless confirm
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3HZN2P3HZN2K9EC
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 6d36ad7d-69a6-4f70-8418-4c2cc98a2349
+   owner-objects  : 17\6fe179b5-5121-4047-9908-b1da7d83f970
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>In this example the button is NOT visible, and can NOT be called by Javascript code as the button object is not in the DOM.</p>
+end
+begin localizable string
    name           : LSGADG1AANVNMAPFYOC0PFYOC0YUTQ
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1321,7 +2074,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTPKIOYTPKI3VJ5
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1333,8 +2086,21 @@ begin localizable string
    string-text    : Description
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3JUZ3P3JUZ3WNDY
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 6ad9fee6-7148-4961-9a21-9145b639f13f
+   owner-objects  : 17\dba02006-5950-4e20-8ae0-9c67b0f64605
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Movie Object
+end
+begin localizable string
    name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUG
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1347,7 +2113,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUQ
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1360,7 +2126,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3S
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1372,8 +2138,47 @@ begin localizable string
    string-text    : stars
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3IACPP3IACPK9QD
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 6858e4e7-41ee-46a4-ada2-e1d59425da6f
+   owner-objects  : 17\1250bfbc-00f9-41b5-9adf-b04142c76b1b
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>In this example the button is visible, and can be called by Javascript code.</p>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3IIQYP3IIQYKRM1
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 68389e04-6d14-4e17-bfcd-46d0bbe1cde5
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Assigned
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3HZXZP3HZXZK9KJ
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 67a45223-800b-411b-b441-dd4656af0007
+   owner-objects  : 17\1250bfbc-00f9-41b5-9adf-b04142c76b1b
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>In this example the button is visible, and can be called by Javascript code.</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4I
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1386,7 +2191,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP811OYP81138CR
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1399,7 +2204,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE6ROTIE6RON4B
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1412,7 +2217,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3U
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1424,8 +2229,21 @@ begin localizable string
    string-text    : stars
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3J8ZTP3J8ZTW22T
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 5d627421-1e17-4c7a-af06-c360968e7ad5
+   owner-objects  : 17\9eb8f688-38d2-4be1-903f-3fdd16932a10
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Imput movie list
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYTQ0ROYTQ0R3VUH
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1437,8 +2255,21 @@ begin localizable string
    string-text    : input
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3JKTYP3JKTYW3YL
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 5c1f5236-53a9-4953-b945-17422e8738f6
+   owner-objects  : 17\9eb8f688-38d2-4be1-903f-3fdd16932a10
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Imput movie list
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYTRK3OYTRK33VZS
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1451,7 +2282,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7E
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1463,8 +2294,21 @@ begin localizable string
    string-text    : Description
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3J8W3P3J8W3W2GS
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 587dbfca-1dee-40de-ae46-6ec9ed6a5efd
+   owner-objects  : 17\9eb8f688-38d2-4be1-903f-3fdd16932a10
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Imput movie list
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSL
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1477,7 +2321,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMUOYQJMU3KUN
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1490,7 +2334,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMUOYQJMU3KUO
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1509,7 +2353,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7L
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1522,7 +2366,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON60
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1534,8 +2378,21 @@ begin localizable string
    string-text    : stars
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP31IR7P31IR7XWC4
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 50f98641-cea7-4d9b-bf07-75c1681f971c
+   owner-objects  : 17\6f4f27fb-95f7-4a5c-9b62-a8c216a96382
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Chaining Actions and waiting for user input
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON90
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1547,8 +2404,81 @@ begin localizable string
    string-text    : Display a picture stored in an attachment field
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3J8OMP3J8OMW1YD
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 50404f12-fd1a-44dc-aac8-38837fa102a7
+   owner-objects  : 17\9eb8f688-38d2-4be1-903f-3fdd16932a10
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Imput movie list
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP313I1P313I1YADI
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 501a53a7-db05-4504-ad73-0b64634f0c76
+   owner-objects  : 17\6f4f27fb-95f7-4a5c-9b62-a8c216a96382
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Chaining Actions and waiting for user input
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP31I7YP31I7YXVRL
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 4f7ad26c-2bcb-4a5b-9150-15d78d2eea90
+   owner-objects  : 17\5e6cbdac-b227-4cf8-940c-be509d7423f8
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>[tips &amp; tricks] Showcasing action chaining</p><ul><li>It is possible in an action button to set several Actions one after the one (for example se&
+   string-text    : veral Set Property),</li><li>If one action fails (error or on purpose), the following actions will be skipped, this is what we showcase here.</li><li>Th&
+   string-text    : is example shows how to use a View as a Confirmation window and how to know if a user confirmed or not.<ul><li>In the first example you can use two butt&
+   string-text    : ons in the confimation window you create.<ul><li>One with Action "Close View" and "act as cancel" not checked that will return "true" in a way,</li><li>&
+   string-text    : One with Action "Close View" and "act as cancel" checked. It will act as a cancel and other actions will not execute,</li></ul></li><li>In the second ex&
+   string-text    : ample we show how you can achieve the same "confirmation" or "cancel" effect inside a custom action.<ul><li>I created a "test action" action (bundle/src&
+   string-text    : /main/webapp/scripts/actions/test-action/),</li><li>The trick is to return in your code an angularJs&nbsp;promise $q.when() that does not trigger the er&
+   string-text    : ror code if you want to return a "confirm" message and a $q.reject() if you want to trigger the error path, which in our case is going to tell the actio&
+   string-text    : n provider to skip following actions,</li></ul></li></ul></li></ul>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3HZS7P3HZS7K92B
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 4ec4e09e-b978-4501-8e27-ab3291bf68c0
+   owner-objects  : 17\1250bfbc-00f9-41b5-9adf-b04142c76b1b
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>In this example the button is visible, and can be called by Javascript code.</p>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3I4Z0P3I4Z0BSOE
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 4e61a0f8-58cd-4374-953e-5104559c6c39
+   owner-objects  : 17\6c5f8994-461c-4134-9884-83256feca928
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Selected Title
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTID43OTID43ON2F
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1560,8 +2490,21 @@ begin localizable string
    string-text    : Assigned
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3HZXZP3HZXZK9KH
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 4d4368d0-0e0a-4cb0-945c-6f6c6b31b66c
+   owner-objects  : 17\6fe179b5-5121-4047-9908-b1da7d83f970
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>In this example the button is NOT visible, and can NOT be called by Javascript code as the button object is not in the DOM.</p>
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYP3NUOYP3NU37NM
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1574,7 +2517,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSM
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1587,7 +2530,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQ1FXOYQ1FX3LBY
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1600,7 +2543,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6J
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1612,8 +2555,38 @@ begin localizable string
    string-text    : Description
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3I4NSP3I4NSBS1G
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 4517e479-574a-4f4f-ab37-bb4d2eb8db7c
+   owner-objects  : 17\eb318ddc-3258-41d6-a73c-e393564ea2df
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Filter by Title
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3HXHWP3HXHWK6T7
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 45032d22-3cb7-4f5a-bb53-2346b6d53ad2
+   owner-objects  : 17\406b9ffb-1c31-465c-9e7d-44c63d04670a
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">[VC] Calling a Custom Command and Custom Rest API</span></p><ul><li>This example shows how to trigger an OOTB Action But&
+   string-text    : ton through Javascript as if the user clicked on it.</li><li>This is based on a question on BMC Communities (https://communities.bmc.com/message/778238#&
+   string-text    : 778238).</li><li>You cannot trigger a button which is hidden.</li><li>Here the examples are using the custom view component "click-button" and you can t&
+   string-text    : rigger a button by its Guid (click on <strong>{} JSON</strong> in the View Designer to find the button Guid) or its Label.</li><li>You can search a butt&
+   string-text    : on by its label but it might not work if you localize it so you might have to modify the code to handle this case, it is also slower.</li></ul>
+end
+begin localizable string
    name           : LSGADG1AANVNMAPFYN9APFYN9AYT1B
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1625,8 +2598,23 @@ begin localizable string
    string-text    : Please enter row index to select
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3JUWZP3JUWZWNB8
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 4187c6dc-a516-465d-b66c-221054cd66b9
+   owner-objects  : 17\8174eff1-6989-4937-b8b6-e80fd023eff9
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>We pass to the process an Object (for example a Json object) with attributes, for example:&nbsp;{"title":"Matrix","genre":"Science Ficti&
+   string-text    : on","releaseDate":"1999"}</p><p>The process "use object as input - object with attributes" accepts the data as an Object and we access its attributes to&
+   string-text    :  generate a String which concatenates the movie information.</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7M
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1638,8 +2626,21 @@ begin localizable string
    string-text    : Message
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3IHJ5P3IHJ5KQEM
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 3f587545-0f2c-43c7-8cce-287cdcfa3d77
+   owner-objects  : 17\a53269bc-6cea-4a79-9784-220c9ac58efa
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>&nbsp;</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIGEKOTIGEKON7Q
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1654,7 +2655,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTQLJOYTQLJ3VV5
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1663,11 +2664,11 @@ begin localizable string
    owner-objects  : 17\b4c782e9-b969-4c61-8f2f-35db31d34801
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : Test Action
+   string-text    : Showcasing action chaining
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTQ2HOYTQ2H3VUN
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1676,11 +2677,24 @@ begin localizable string
    owner-objects  : 17\b1a21d3e-1207-42a5-b7aa-950a4ba9e2c7
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
-   string-text    : output
+   string-text    : Text returned here only if the popup is confirmed
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3I8C4P3I8C4V5TN
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 3860123d-1500-494a-ba0d-e123579fec1d
+   owner-objects  : 17\4d73ef7e-19f5-4edb-833f-5e0e4f32b866
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Using the BMC grid object to display custom data
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYN9APFYN9AYT1A
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1693,7 +2707,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION40
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1706,7 +2720,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3W
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1719,7 +2733,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6O
-   timestamp      : 1524941410
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1732,7 +2746,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP4B4OYP4B437QQ
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1745,7 +2759,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSP
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1757,8 +2771,36 @@ begin localizable string
    string-text    : Listening
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3JV8DP3JV8DWNPP
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 312c9cdb-8e85-468c-b35b-63e7b63db677
+   owner-objects  : 17\8174eff1-6989-4937-b8b6-e80fd023eff9
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>We pass to the process an Object (for example a Json object) with attributes, for example:&nbsp;{"title":"Matrix","genre":"Science Ficti&
+   string-text    : on","releaseDate":"1999"}</p><p>The process "use object as input - object with attributes" accepts the data as an Object and we access its attributes to&
+   string-text    :  generate a String which concatenates the movie information.</p>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3HZXZP3HZXZK9K0
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 2ded7ad9-3da3-460f-bf81-4065cfab7d4f
+   owner-objects  : 17\6811dd43-c179-4a20-ab0a-3bc145edb8d3
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>In this example the button is&nbsp;visible (but disabled), and can still&nbsp;be called by Javascript code.</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7P
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1770,8 +2812,34 @@ begin localizable string
    string-text    : BMC OOTB message
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3HXPRP3HXPRK71F
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 2b5f2f26-36ea-46a9-b1d6-c2bcacd911ad
+   owner-objects  : 17\cf5e2883-2416-456d-8ff2-bb4b3be90895
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Trigger an action button through Javascript
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3IIQZP3IIQZKRM5
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 2a7a845b-5b3a-4062-9473-65a23d44f673
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Not Listening
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9I
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1784,7 +2852,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF99OTIF99ON71
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1797,7 +2865,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4H
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1810,7 +2878,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON63
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1823,7 +2891,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KS9
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1835,8 +2903,21 @@ begin localizable string
    string-text    : New
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3H66CP3H66CKBCL
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 26430480-54ca-47ec-96b1-c588ecd0d6cf
+   owner-objects  : 17\cd8bea50-9225-452f-8de1-3a587e75aec9
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Get User information (Js/Java)
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON91
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1849,7 +2930,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4J
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1861,8 +2942,21 @@ begin localizable string
    string-text    : Not Listening
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3IACPP3IACPK9QE
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 2512f36b-dd62-46ef-8506-34656d321aca
+   owner-objects  : 17\6811dd43-c179-4a20-ab0a-3bc145edb8d3
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>In this example the button is&nbsp;visible (but disabled), and can still&nbsp;be called by Javascript code.</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON68
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1874,8 +2968,29 @@ begin localizable string
    string-text    : <p>Association displayed using Javascript APIs:</p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP31I81P31I81XVSP
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 22069d05-21ab-4a39-bce3-9d8e61acaffa
+   owner-objects  : 17\5e6cbdac-b227-4cf8-940c-be509d7423f8
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">[tips &amp; tricks] Showcasing action chaining</span></p><ul><li>It is possible in an action button to set several Actio&
+   string-text    : ns one after the one (for example several Set Property),</li><li>If one action fails (error or on purpose), the following actions will be skipped, this &
+   string-text    : is what we showcase here.</li><li>This example shows how to use a View as a Confirmation window and how to know if a user confirmed or not.<ul><li>In th&
+   string-text    : e first example you can use two buttons in the confimation window you create.<ul><li>One with Action "Close View" and "act as cancel" not checked that w&
+   string-text    : ill return "true" in a way,</li><li>One with Action "Close View" and "act as cancel" checked. It will act as a cancel and other actions will not execute&
+   string-text    : ,</li></ul></li><li>In the second example we show how you can achieve the same "confirmation" or "cancel" effect inside a custom action.<ul><li>I create&
+   string-text    : d a "test action" action (bundle/src/main/webapp/scripts/actions/test-action/),</li><li>The trick is to return in your code an angularJs&nbsp;promise $q&
+   string-text    : .when() that does not trigger the error code if you want to return a "confirm" message and a $q.reject() if you want to trigger the error path, which in&
+   string-text    :  our case is going to tell the action provider to skip following actions,</li></ul></li></ul></li></ul>
+end
+begin localizable string
    name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUJ
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1888,7 +3003,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP3MCOYP3MC37M4
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1901,7 +3016,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE8UOTIE8UON4C
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1914,8 +3029,34 @@ begin localizable string
    string-text    : tandard javascript APIs,</li></ul>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3JKY1P3JKY1W4E7
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 202ea1bb-25dd-4d2f-bb3c-30bae1a589e6
+   owner-objects  : 17\9eb8f688-38d2-4be1-903f-3fdd16932a10
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Imput movie list
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3JUZ3P3JUZ3WNDV
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 1f56a707-f636-4c42-8df8-7d07b15661b4
+   owner-objects  : 17\760bc96e-e639-41a0-910d-11b8e9902f83
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Movie String
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON61
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1928,7 +3069,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9H
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1940,8 +3081,21 @@ begin localizable string
    string-text    : Custom Label
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3JV9HP3JV9HWNRH
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 1d1e34ac-c505-4eea-b2e5-2704180c2951
+   owner-objects  : 17\dba02006-5950-4e20-8ae0-9c67b0f64605
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Movie Object
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON94
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1954,7 +3108,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF99OTIF99ON70
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1967,7 +3121,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYNFWPFYNFWYTCX
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1984,7 +3138,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4G
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1996,8 +3150,21 @@ begin localizable string
    string-text    : Fixed
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3HZPJP3HZPJK9HU
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 17dd19ee-60fa-40dd-a540-26405d6f8729
+   owner-objects  : 17\6811dd43-c179-4a20-ab0a-3bc145edb8d3
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>In this example the button is&nbsp;visible (but disabled), and can still&nbsp;be called by Javascript code.</p>
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYTRJ7OYTRJ73VYR
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2010,7 +3177,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON97
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2022,8 +3189,34 @@ begin localizable string
    string-text    : Custom Action
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3J81YP3J81YW1KB
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 158cab03-36e2-483a-afe5-a52b90c56e37
+   owner-objects  : 17\70ee751d-98df-4312-a1bf-541c773c223b
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Movie List
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3HZS7P3HZS7K91Z
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 15663651-802f-4493-a660-126f29cd98a2
+   owner-objects  : 17\6fe179b5-5121-4047-9908-b1da7d83f970
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>In this example the button is NOT visible, and can NOT be called by Javascript code as the button object is not in the DOM.</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIDSXOTIDSXON2R
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2036,7 +3229,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9G
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2049,7 +3242,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4E
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2061,8 +3254,34 @@ begin localizable string
    string-text    : New
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3J9AOP3J9AOW24Z
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 117a7182-899f-4c2a-adf8-384eaa393e4d
+   owner-objects  : 17\9eb8f688-38d2-4be1-903f-3fdd16932a10
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Imput movie list
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP30FXWP30FXWWXNB
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 103ee445-e333-4f09-bfd0-6da6490072bf
+   owner-objects  : 17\8de37e8a-47b8-4739-a6be-d72e1ffbfeea
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Generate Movie Information
+end
+begin localizable string
    name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUH
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2075,7 +3294,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXV
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2087,8 +3306,36 @@ begin localizable string
    string-text    : <p><span contenteditable="false" rx-expression="${view.inputParams.for the title}" class="rx-expression"></span></p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAP3JV9HP3JV9HWNRF
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 0a4d3061-f560-4c25-b957-def6d3327f2b
+   owner-objects  : 17\8174eff1-6989-4937-b8b6-e80fd023eff9
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>We pass to the process an Object (for example a Json object) with attributes, for example:&nbsp;{"title":"Matrix","genre":"Science Ficti&
+   string-text    : on","releaseDate":"1999"}</p><p>The process "use object as input - object with attributes" accepts the data as an Object and we access its attributes to&
+   string-text    :  generate a String which concatenates the movie information.</p>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAP3JKYCP3JKYCW4DU
+   timestamp      : 1534025331
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : ARSERVER
+   bundle         : com.example.samplelibrary
+   stringId       : 0926883d-3885-4fd7-a51a-eba24606f025
+   owner-objects  : 17\9eb8f688-38d2-4be1-903f-3fdd16932a10
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Imput movie list
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYP3N2OYP3N237N1
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2101,7 +3348,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON96
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2114,7 +3361,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON66
-   timestamp      : 1524941411
+   timestamp      : 1534025331
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER

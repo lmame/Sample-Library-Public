@@ -153,12 +153,12 @@
 		<dependency>
 			<groupId>com.bmc.rx.test</groupId>
 			<artifactId>automation-framework</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<version>${rx-sdk.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>com.bmc.arsys.automation.uiframework</groupId>
-			<artifactId>ui-test-framework</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<groupId>com.bmc.rx.test</groupId>
+			<artifactId>automation-framework-ui</artifactId>
+			<version>${rx-sdk.version}</version>
 		</dependency>		
 		<dependency>
 			<groupId>org.json</groupId>

@@ -6,7 +6,8 @@ module.exports = function (grunt, config) {
             cwd: '<%= bundle.src %>',
             src: [
                 'index.html',
-				'error.html',
+                'error.html',
+                'rsso-auth-error.html',
                 'bootstrap.js'
             ],
             dest: '<%= bundle.target %>',

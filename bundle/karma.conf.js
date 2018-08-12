@@ -1,13 +1,14 @@
 module.exports = function (karmaConfig) {
     var path = require('path'),
-        _ = require(path.join(process.cwd(), 'node_modules/lodash')),
-        grunt = require(path.join(process.cwd(), 'node_modules/grunt')),
+        bundleConfPath = './bundle.conf.json',
+        packagePath = './package.json',
         rxEnvironment = require('./grunt/rxEnvironment.js'),
-        bundleConfPath = './bundle.conf.json';
+        _ = require(path.join(process.cwd(), 'node_modules/lodash')),
+        grunt = require(path.join(process.cwd(), 'node_modules/grunt'));
 
     grunt.file.setBase(process.cwd());
 
-    var pkg = grunt.file.readJSON('./package.json');
+    var pkg = grunt.file.readJSON(packagePath);
 
     _.merge(pkg.config, grunt.file.readJSON(bundleConfPath));
 
@@ -32,13 +33,14 @@ module.exports = function (karmaConfig) {
         ])
         .concat(Array.prototype.concat.apply([], pkg.config.bundle.resources.map(function (resource) {
             return resource.bundle.packages.lib.scripts.map(function (file) {
-                return path.join(resource.dir, resource.bundle.target, file) + '.js';
+                return path.join(resource.dir, resource.bundle.src, file) + '.js';
             });
         })))
         .concat([
             '<%= standardlibTarget %>/lib/angular-1.4.7/angular-mocks.js',
             '<%= standardlibTarget %>/lib/jquery-simulate-1.0.1/jquery.simulate.js',
             '<%= standardlibTarget %>/lib/jasmine-jquery-2.0.5/jasmine-jquery.js',
+            '<%= standardlibTarget %>/bootstrap.js',
             '<%= standardlibTarget %>/resources/css/standardlib.css',
             '<%= standardlibTarget %>/scripts/standardlib.js',
             '<%= bundle.target %>/resources/css/<%= bundle.id %>.css'
@@ -64,7 +66,11 @@ module.exports = function (karmaConfig) {
     )).map(function (filepath) {
         var extname = path.extname(filepath);
 
-        if (['.js', '.html', '.css'].indexOf(extname) > -1) {
+        if ([
+                '.js',
+                '.html',
+                '.css'
+            ].indexOf(extname) > -1) {
             return filepath;
         } else {
             return {
@@ -98,23 +104,39 @@ module.exports = function (karmaConfig) {
             moduleName: 'templates'
         },
 
-        frameworks: ['jasmine'],
+        frameworks: [
+            'jasmine',
+            'jasmine-matchers'
+        ],
+
+        client: {
+            jasmine: {
+                random: false
+            }
+        },
 
         plugins: [
             'karma-jasmine',
-            'karma-firefox-launcher',
+            'karma-jasmine-matchers',
+            // 'karma-firefox-launcher',
             'karma-chrome-launcher',
             'karma-coverage',
-            'karma-phantomjs-launcher',
-            'karma-ng-html2js-preprocessor'
+            'karma-ng-html2js-preprocessor',
+            'karma-spec-reporter'
         ],
 
         logLevel: 'WARN',
 
         reporters: [
-            'dots',
+            // 'dots',
+            'spec',
             'coverage'
         ],
+
+        // https://github.com/mlex/karma-spec-reporter
+        specReporter: {
+            suppressErrorSummary: false
+        },
 
         coverageReporter: {
             type: 'html',
@@ -124,7 +146,18 @@ module.exports = function (karmaConfig) {
         port: 9090,
         urlRoot: '/',
         autoWatch: false,
-        browsers: ['PhantomJS'],
+        browsers: ['ChromeHeadless'],
+        customLaunchers: {
+            ChromeHeadless: {
+                base: 'Chrome',
+                flags: [
+                    '--headless',
+                    '--disable-gpu',
+                    // Without a remote debugging port, Google Chrome exits immediately.
+                    '--remote-debugging-port=9222'
+                ]
+            }
+        },
 
         captureTimeout: 90000,
         browserDisconnectTimeout: 10000,

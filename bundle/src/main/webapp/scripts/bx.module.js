@@ -4,13 +4,7 @@
     angular.module('com.example.samplelibrary', [
         'ngSanitize',
         'ui.router',
-		'com.bmc.arsys.rx.standardlib.application',
-        'com.bmc.arsys.rx.standardlib.error-handling',
-        'com.bmc.arsys.rx.standardlib.login',
-        'com.bmc.arsys.rx.standardlib.view.runtime',
-        'com.bmc.arsys.rx.standardlib.search',
-        'com.bmc.arsys.rx.standardlib.administration-settings',
-        //  all modules that provide non-abstract navigation routes
+        // all modules that provide non-abstract navigation routes
         'com.example.samplelibrary.home',
         'com.example.samplelibrary-ext',
         // Actions,
@@ -32,6 +26,11 @@
         'com.example.samplelibrary.view-components.get-date',                    // Handling Refresh Action and integration in a Record Editor.
         'com.example.samplelibrary.view-components.test-vc',                    // View Component used in a video on how to create a view component.
         'com.example.samplelibrary.view-components.call-action',                 // Calling a custom javascript action from javascript.
-        'com.example.samplelibrary.view-components.access-grid'                 // Accessing grid core api object (ui-grid).
+        'com.example.samplelibrary.view-components.access-grid',                 // Accessing grid core api object (ui-grid).
+        'com.example.samplelibrary.view-components.user-infos',                  // Getting session user information from UI and backend.
+        'com.example.samplelibrary.view-components.send-list',                   // Show how to get and send data (with a list of data) from a rest api, the data being a Java class.
+        'com.example.samplelibrary.view-components.click-button',                 // Shows how to trigger an OOTB BMC button through javascript code.
+        'com.example.samplelibrary.view-components.trigger-activity',              // Shows how to trigger a specific process activity and getting its result in Java and Javascript.
+        'com.example.samplelibrary.view-components.custom-grid'                     // Shows how to use BMC grid object and inject a custom datapagequery as datasource.
     ]);
 })();

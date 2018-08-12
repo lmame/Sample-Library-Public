@@ -6,7 +6,7 @@ module.exports = function (grunt, config) {
         app: {
             proxies: [
                 {
-                    context: '/api',
+                    context: ['/', '/api', '!/standardlib', '!/innovationsuite', '!/' + config.bundle.id],
                     host: grunt.option('api-host'),
                     port: grunt.option('api-port'),
                     https: grunt.option('api-https')
@@ -22,21 +22,23 @@ module.exports = function (grunt, config) {
             options: {
                 hostname: grunt.option('host'),
                 port: grunt.option('port'),
+                // LMA:: Adding protocol to debug on Aws instances.
+                protocol: grunt.option('api-https') ? 'https' : 'http',
                 middleware: function (connect, options, middlewares) {
                     return grunt.config.process([
-                        // Path concated with process working directory as workaround to grunt-cinnect-proxy bug
+                        // Path concated with process working directory as workaround to grunt-connect-proxy bug
                         require(path.join(process.cwd(), 'node_modules/grunt-connect-proxy2/lib/utils')).proxyRequest,
                         require('connect-livereload')({port: parseInt(grunt.option('livereload-port'))})
                     ])
                         .concat(config.bundle.resources.map(function (dep) {
-                            return ['/' + dep.bundle.id, serveStatic(path.join(dep.dir, dep.bundle.target))]
+                            return ['/' + dep.bundle.id, serveStatic(path.join(dep.dir, dep.bundle.target))];
                         }))
                         .concat(config.bundle.resources.map(function (dep) {
-                            return ['/' + dep.bundle.id, serveStatic(path.join(dep.dir, dep.bundle.src))]
+                            return ['/' + dep.bundle.id, serveStatic(path.join(dep.dir, dep.bundle.src))];
                         }))
                         .concat(middlewares);
                 }
             }
         }
-    }
+    };
 };

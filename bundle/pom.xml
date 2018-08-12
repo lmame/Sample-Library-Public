@@ -154,118 +154,40 @@
         <finalName>${rx-sdk.bundleId}-${project.version}</finalName>
         <plugins>
             <plugin>
-                <artifactId>maven-antrun-plugin</artifactId>
-                <version>1.7</version>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <version>1.3.2</version>
                 <executions>
                     <execution>
-                        <id>grunt-build</id>
+                        <id>run-yarn-install</id>
                         <phase>generate-sources</phase>
-                        <configuration>
-                            <target>
-                                <condition property="npm.root.module.isWindows">
-                                    <os family="windows" />
-                                </condition>
-                                <taskdef resource="net/sf/antcontrib/antcontrib.properties" classpathref="maven.plugin.classpath" />
-                                <echo>NPM INSTALL</echo>
-                                <!-- Make sure the npm node-module folder exists and create a soft
-                                    link for unix based systems or copy for windows. -->
-                                <if>
-                                    <isset property="npm.root.module.dir" />
-                                    <then>
-                                        <mkdir dir="${npm.root.module.dir}/${project.name}/node_modules" />
-                                        <if>
-                                            <isset property="npm.root.module.isWindows" />
-                                            <then>
-                                                <echo message="Copying the node_modules from share folder." />
-                                                <copy todir="${basedir}/node_modules" failonerror="false">
-                                                    <fileset dir="${npm.root.module.dir}/${project.name}/node_modules" />
-                                                </copy>
-                                            </then>
-                                            <else>
-                                                <echo message="Creating the Symbolic Link to the shared node_modules folder." />
-                                                <symlink link="${basedir}/node_modules" resource="${npm.root.module.dir}/${project.name}/node_modules" overwrite="true" />
-                                            </else>
-                                        </if>
-                                    </then>
-                                </if>
-                                <!-- ensure npm_cache is on the local file system to avoid race condition issues -->
-                                <exec executable="npm" dir="${project.basedir}" osfamily="unix" failonerror="true">
-                                    <arg line="config set cache ${project.build.directory}/npm_cache" />
-                                </exec>
-                                <exec executable="cmd" dir="${project.basedir}" osfamily="windows" failonerror="true">
-                                    <arg line="/c npm config set color false" />
-                                </exec>
-                                <exec executable="npm" dir="${project.basedir}" osfamily="unix" failonerror="true">
-                                    <arg line="config set color false" />
-                                </exec>
-                                <exec executable="cmd" dir="${project.basedir}" osfamily="windows" failonerror="true">
-                                    <arg line="/c npm install" />
-                                </exec>
-                                <exec executable="npm" dir="${project.basedir}" osfamily="unix" failonerror="true">
-                                    <arg line="install" />
-                                </exec>
-
-                                <!-- If required make sure the backup node-module is updated -->
-                                <!-- We only allow this on a Windows based system -->
-                                <if>
-                                    <and>
-                                        <isset property="npm.root.module.isWindows" />
-                                        <isset property="npm.root.module.dir" />
-                                    </and>
-                                    <then>
-                                        <echo message="Copying the node_modules to the share folder" />
-                                        <mkdir dir="${npm.root.module.dir}/${project.name}/node_modules" />
-                                        <copy todir="${npm.root.module.dir}/${project.name}/node_modules" failonerror="false">
-                                            <fileset dir="${basedir}/node_modules" />
-                                        </copy>
-                                    </then>
-                                </if>
-
-                                <echo>Executing GRUNT</echo>
-                                <exec executable="cmd" dir="${project.basedir}" osfamily="windows" resultproperty="cmdresult" output="grunt.status">
-                                    <arg line="/c grunt release --no-color" />
-                                </exec>
-                                <exec executable="grunt" dir="${project.basedir}" osfamily="unix" resultproperty="cmdresult" output="grunt.status">
-                                    <arg line="release --no-color" />
-                                </exec>
-                                <loadfile property="grunt.status" srcFile="${project.basedir}${file.separator}grunt.status" />
-                                <echo>${grunt.status}</echo>
-                                <delete file="${project.basedir}${file.separator}grunt.status" quiet="true" />
-                                <condition property="cmdsuccess">
-                                    <equals arg1="${cmdresult}" arg2="0" />
-                                </condition>
-
-                                <!-- Make sure we remove the soft link so deletion does not take
-                                    out the original backup -->
-                                <!-- We only allow this on a Unix based system -->
-                                <if>
-                                    <and>
-                                        <not>
-                                            <isset property="npm.root.module.isWindows" />
-                                        </not>
-                                        <isset property="npm.root.module.dir" />
-                                    </and>
-                                    <then>
-                                        <echo message="Removing the Symbolic Link to the shared node_modules folder." />
-                                        <symlink action="delete" link="${basedir}/node_modules" failonerror="false" />
-                                    </then>
-                                </if>
-
-                                <fail unless="cmdsuccess" />
-                            </target>
-                        </configuration>
                         <goals>
-                            <goal>run</goal>
+                            <goal>exec</goal>
                         </goals>
+                        <configuration>
+                            <executable>yarn</executable>
+                            <arguments>
+                                <argument>install</argument>
+                                <argument>--prefer-offline</argument>
+                                <argument>--frozen-lockfile</argument>
+                                <argument>--non-interactive</argument>
+                            </arguments>
+                        </configuration>
+                    </execution>
+                    <execution>
+                        <id>run-grunt</id>
+                        <phase>generate-sources</phase>
+                        <goals>
+                            <goal>exec</goal>
+                        </goals>
+                        <configuration>
+                            <executable>grunt</executable>
+                            <arguments>
+                                <argument>release</argument>
+                            </arguments>
+                        </configuration>
                     </execution>
                 </executions>
-                <dependencies>
-                    <dependency>
-                        <groupId>ant-contrib</groupId>
-                        <artifactId>ant-contrib</artifactId>
-                        <version>20020829</version>
-                    </dependency>
-                </dependencies>
             </plugin>
 
             <plugin>

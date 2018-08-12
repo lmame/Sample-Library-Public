@@ -38,7 +38,7 @@
 		<maven-bundle-plugin.version>2.5.0</maven-bundle-plugin.version>
 		<equinox.framework.version>3.9.1-v20130814-1242</equinox.framework.version>
 		<jersey.version>2.22.2</jersey.version>
-		<jackson.version>2.7.5</jackson.version>
+		<jackson.version>2.8.6</jackson.version>
 		<aspectj.version>1.8.4</aspectj.version>
 		<spring.version>4.1.2.RELEASE</spring.version>
 		<javax.validation.api.version>1.1.0.Final</javax.validation.api.version>
@@ -46,19 +46,20 @@
 		<testng.version>6.9.10</testng.version>
 		<joda-time.version>1.6.2</joda-time.version>
 		<rx-sdk.groupId>com.bmc.arsys</rx-sdk.groupId>
-		<rx-sdk.version>18.5.0-SNAPSHOT</rx-sdk.version>
+		<rx-sdk.version>18.5.1-SNAPSHOT</rx-sdk.version>
 	</properties>
 	
 	
-  <!--START: Sample mvn commands for Bundle Deployment Operations -->
+<!--START: Sample mvn commands for Bundle Deployment Operations -->
 	<!-- mvn clean install -Pdeploy -->
 	<!-- mvn clean install -Pexport -->
 	<!-- mvn clean install -Pexport -Pdeploy -->
 	<!-- mvn clean install -Plocalization -->
 	<!-- mvn com.bmc.arsys:rx-sdk-maven-plugin:undeploy -N  -->
-	<!-- mvn com.bmc.arsys:rx-sdk-maven-plugin:license -N  -->
-  <!--END: Sample mvn commands for Bundle Deployment Operations -->
-	
+	<!-- mvn com.bmc.arsys:rx-sdk-maven-plugin:license -N -DappAuthorType=<Number> BMC 1, Partner 2, Custom 3 -DenforceEndUserLicenses=<true|false> true=Limited licenses , false=Unlimited Licenses -->
+	<!-- Export : output in manifest file: EnforceEndUserLicenseCheck=0 means false & 1 means true -->
+	<!-- Flag -DenforceEndUserLicenses: value=false & appAuthorType=Custom is not a valid combination -->
+<!--END: Sample mvn commands for Bundle Deployment Operations -->
 	
   <modules>
     <!-- <module>automation</module>

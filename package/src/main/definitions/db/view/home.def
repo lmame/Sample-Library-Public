@@ -2,7 +2,7 @@ begin view definition
    name           : com.example.samplelibrary:home
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1526421103000,
+   definition     :   "lastUpdateTime" : 1534025329708,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:home",
@@ -18,14 +18,14 @@ begin view definition
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1526421103000,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1534025329708,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "ce49ff26-88f9-4a28-a1ca-eac3f3d4425f",
    definition     :     "tags" : null,
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : "1",
-   definition     :     "developerId" : null,
+   definition     :     "developerId" : "com.example",
    definition     :     "guid" : "ce49ff26-88f9-4a28-a1ca-eac3f3d4425f",
    definition     :     "type" : "rx-rich-text",
    definition     :     "propertiesByName" : {

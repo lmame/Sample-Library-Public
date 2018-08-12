@@ -2,7 +2,8 @@ module.exports = {
     options: {
         dest: '<%= bundle.docs.target %>',
         styles: ['./grunt/ngdocs.css'],
-        template: './grunt/ngdocs.tmpl'
+        template: './grunt/ngdocs.tmpl',
+        inlinePartials: true
     },
 
     api: {

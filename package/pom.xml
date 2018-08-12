@@ -28,8 +28,15 @@
 				<version>${rx-sdk.version}</version>
 				<executions>
 					<execution>
+						<id>update-def-file</id>
+						<phase>generate-sources</phase>
+						<goals>
+							<goal>update-def-file</goal>
+						</goals>
+					</execution>				
+					<execution>
 						<id>add-manifest</id>
-						<phase>generate-resources</phase>
+						<phase>process-resources</phase>
 						<goals>
 							<goal>add-manifest</goal>
 						</goals>
@@ -41,7 +48,7 @@
 							<goal>undeploy</goal>
 						</goals>
 					</execution>
-					<!-- mvn com.bmc.arsys:rx-sdk-maven-plugin:license -N   -->
+					<!-- mvn com.bmc.arsys:rx-sdk-maven-plugin:license -N -DappAuthorType=<Number> BMC 1, Partner 2, Custom 3  -->
 					<execution>
 						<id>license</id>
 						<goals>

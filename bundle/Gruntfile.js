@@ -57,13 +57,11 @@ module.exports = function (grunt) {
 
     // Register all the tasks that can be executed on the command line
     grunt.registerTask('server-debug', function () {
-        if (grunt.file.exists(path.join(pkg.config.bundle.target, 'index.html'))) {
-            grunt.task.run([
-                'configureProxies:app',
-                'connect:app',
-                'open'
-            ]);
-        }
+        grunt.task.run([
+            'configureProxies:app',
+            'connect:app',
+            'open'
+        ]);
     });
 
     grunt.registerTask('blocker', function () {

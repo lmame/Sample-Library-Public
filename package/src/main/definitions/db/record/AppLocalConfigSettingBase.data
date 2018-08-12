@@ -1,6 +1,6 @@
 begin schema data
    name           : AppLocalConfigSettingBase
-   data-mapping   : <?xml version="1.0" encoding="UTF-8"?><arDocMapping xmlns="urn:remedy:schemas:ars" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+   data-mapping   : <?xml version="1.0" encoding="utf-8"?><arDocMapping xmlns="urn:remedy:schemas:ars" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
    data-mapping   :     <element name="entryList">        <formMapping>            <form foreignKeyId="1" formName="AppLocalConfigSettingBase" mapType="embedded" primaryK
    data-mapping   : eyId="1"/>            <element name="entryItem">                <element dataType="string" name="f1_Request_ID">                    <fieldMapping arF
    data-mapping   : ieldId="1"/>                </element>                <element dataType="string" name="f2_Submitter">                    <fieldMapping arFieldId="2"/
@@ -39,7 +39,7 @@ begin schema data
    data-mapping   :        <fieldMapping arFieldId="60006"/>                </element>                <element dataType="string" name="f60_8__ParentAssigneeGroup">      
    data-mapping   :               <fieldMapping arFieldId="60989"/>                </element>                <element dataType="string" name="f61001_Application">       
    data-mapping   :              <fieldMapping arFieldId="61001"/>                </element>            </element>        </formMapping>    </element></arDocMapping>
-   data           : <?xml version="1.0" encoding="UTF-8"?><entryList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">   
+   data           : <?xml version="1.0" encoding="utf-8"?><entryList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">   
    data           :  <entryItem>        <f1_Request_ID>000000000010009</f1_Request_ID>        <f2_Submitter>ARSERVER</f2_Submitter>        <f3_Create_Date>2018-06-09T13:
    data           : 36:31+00:00</f3_Create_Date>        <f4_Assigned_To/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_Date>2018-06-09T
    data           : 13:36:31+00:00</f6_Modified_Date>        <f7_Status>Active</f7_Status>        <f8_Short_Description>fileName</f8_Short_Description>        <f15_Statu
@@ -68,33 +68,32 @@ begin schema data
    data           : ue/>            <valueByLocale>{"en-US":null}</valueByLocale>        </f3267_Setting_Description>        <f3270_RequiredSetting>No</f3270_RequiredSet
    data           : ting>        <f60005_Shared_Settings_Write>8;</f60005_Shared_Settings_Write>        <f60006_Shared_Settings_Read>8;</f60006_Shared_Settings_Read>    
    data           :     <f60_8__ParentAssigneeGroup/>        <f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem>    <entryItem>        <f
-   data           : 1_Request_ID>000000000010016</f1_Request_ID>        <f2_Submitter>Demo</f2_Submitter>        <f3_Create_Date>2018-06-09T13:36:31+00:00</f3_Create_Date
-   data           : >        <f4_Assigned_To/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_Date>2018-06-09T13:36:31+00:00</f6_Modified
-   data           : _Date>        <f7_Status>Active</f7_Status>        <f8_Short_Description>fileName</f8_Short_Description>        <f15_Status_History/>        <f16_No
-   data           : tifier_Listening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group>0;</f112_Assignee_Group>        <f17__SettingGUID>AGGIXIUWC3XSKAOT
-   data           : IBSFOS1WH0ON13</f17__SettingGUID>        <f37__Record_ID>AGGIXIUWC3XSKAOTIBSFOS1WH0ON13</f37__Record_ID>        <f3200_Component_Name>Logger Configura
-   data           : tion</f3200_Component_Name>        <f3204_Setting_Name>fileName</f3204_Setting_Name>        <f3257_SettingDataType>Character</f3257_SettingDataType> 
-   data           :        <f3258_Character_Menu/>        <f325__Limits/>        <f3260_FieldGrouping>            <value>Logger Configuration Settings</value>          
-   data           :   <valueByLocale>{"en-US":"Logger Configuration Settings"}</valueByLocale>        </f3260_FieldGrouping>        <f3261_Field_Order>0</f3261_Field_Orde
-   data           : r>        <f3262_KeySetting>No</f3262_KeySetting>        <f3263_Default_Setting_Value>samplelibrary.log</f3263_Default_Setting_Value>        <f3264_S
-   data           : ettingDependencies/>        <f3265_BooleanType/>        <f3266_SettingLabel>            <value>fileName</value>            <valueByLocale>{"en-US":"
-   data           : fileName"}</valueByLocale>        </f3266_SettingLabel>        <f3267_Setting_Description>            <value/>            <valueByLocale>{"en-US":nu
-   data           : ll}</valueByLocale>        </f3267_Setting_Description>        <f3270_RequiredSetting>No</f3270_RequiredSetting>        <f60005_Shared_Settings_Write
-   data           : >8;</f60005_Shared_Settings_Write>        <f60006_Shared_Settings_Read>8;</f60006_Shared_Settings_Read>        <f60_8__ParentAssigneeGroup/>        <
-   data           : f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem>    <entryItem>        <f1_Request_ID>000000000010027</f1_Request_ID
-   data           : >        <f2_Submitter>Demo</f2_Submitter>        <f3_Create_Date>2018-06-09T13:36:31+00:00</f3_Create_Date>        <f4_Assigned_To/>        <f5_Las
-   data           : t_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_Date>2018-06-09T13:36:31+00:00</f6_Modified_Date>        <f7_Status>Active</f7_Status
-   data           : >        <f8_Short_Description>level</f8_Short_Description>        <f15_Status_History/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_L
-   data           : istening>        <f112_Assignee_Group>0;</f112_Assignee_Group>        <f17__SettingGUID>AGGIXIUWC3XSKAOTIBSFOS1WH0ON14</f17__SettingGUID>        <f37
-   data           : __Record_ID>AGGIXIUWC3XSKAOTIBSFOS1WH0ON14</f37__Record_ID>        <f3200_Component_Name>Logger Configuration</f3200_Component_Name>        <f3204_Set
-   data           : ting_Name>level</f3204_Setting_Name>        <f3257_SettingDataType>Selection</f3257_SettingDataType>        <f3258_Character_Menu>1=TRACE,2=DEBUG,3=IN
-   data           : FO,4=WARN,5=ERROR</f3258_Character_Menu>        <f325__Limits/>        <f3260_FieldGrouping>            <value>Logger Configuration Settings</value>
-   data           :             <valueByLocale>{"en-US":"Logger Configuration Settings"}</valueByLocale>        </f3260_FieldGrouping>        <f3261_Field_Order>0</f3261_
-   data           : Field_Order>        <f3262_KeySetting>No</f3262_KeySetting>        <f3263_Default_Setting_Value>5</f3263_Default_Setting_Value>        <f3264_Setting
-   data           : Dependencies/>        <f3265_BooleanType/>        <f3266_SettingLabel>            <value>level</value>            <valueByLocale>{"en-US":"level"}</
-   data           : valueByLocale>        </f3266_SettingLabel>        <f3267_Setting_Description>            <value/>            <valueByLocale>{"en-US":null}</valueBy
-   data           : Locale>        </f3267_Setting_Description>        <f3270_RequiredSetting>No</f3270_RequiredSetting>        <f60005_Shared_Settings_Write>8;</f60005_
-   data           : Shared_Settings_Write>        <f60006_Shared_Settings_Read>8;</f60006_Shared_Settings_Read>        <f60_8__ParentAssigneeGroup/>        <f61001_Appli
-   data           : cation>com.example.samplelibrary</f61001_Application>    </entryItem></entryList>
+   data           : 1_Request_ID>000000000010301</f1_Request_ID>        <f2_Submitter>ARSERVER</f2_Submitter>        <f3_Create_Date>2018-08-08T23:49:19+00:00</f3_Create_
+   data           : Date>        <f4_Assigned_To/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-08T23:49:19+00:00</f6_Modi
+   data           : fied_Date>        <f7_Status>Active</f7_Status>        <f8_Short_Description>fileName</f8_Short_Description>        <f15_Status_History/>        <f1
+   data           : 6_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group/>        <f17__SettingGUID>AGGADG1AANVNMAP3GCG3P2JH0E8S98</f17
+   data           : __SettingGUID>        <f37__Record_ID>AGGADG1AANVNMAP3GCG3P2JH0E8S98</f37__Record_ID>        <f3200_Component_Name>Logger Configuration</f3200_Compone
+   data           : nt_Name>        <f3204_Setting_Name>fileName</f3204_Setting_Name>        <f3257_SettingDataType>Character</f3257_SettingDataType>        <f3258_Chara
+   data           : cter_Menu/>        <f325__Limits/>        <f3260_FieldGrouping>            <value>Logger Configuration Settings</value>            <valueByLocale>{"
+   data           : en-US":"Logger Configuration Settings"}</valueByLocale>        </f3260_FieldGrouping>        <f3261_Field_Order>0</f3261_Field_Order>        <f3262_K
+   data           : eySetting>No</f3262_KeySetting>        <f3263_Default_Setting_Value>com.example.samplelibrary.log</f3263_Default_Setting_Value>        <f3264_SettingD
+   data           : ependencies/>        <f3265_BooleanType/>        <f3266_SettingLabel>            <value>fileName</value>            <valueByLocale>{"en-US":"fileNam
+   data           : e"}</valueByLocale>        </f3266_SettingLabel>        <f3267_Setting_Description>            <value/>            <valueByLocale>{"en-US":null}</va
+   data           : lueByLocale>        </f3267_Setting_Description>        <f3270_RequiredSetting>No</f3270_RequiredSetting>        <f60005_Shared_Settings_Write/>    
+   data           :     <f60006_Shared_Settings_Read/>        <f60_8__ParentAssigneeGroup/>        <f61001_Application>com.example.samplelibrary</f61001_Application>    
+   data           : </entryItem>    <entryItem>        <f1_Request_ID>000000000010302</f1_Request_ID>        <f2_Submitter>ARSERVER</f2_Submitter>        <f3_Create_Dat
+   data           : e>2018-08-08T23:49:19+00:00</f3_Create_Date>        <f4_Assigned_To/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_
+   data           : Date>2018-08-08T23:49:19+00:00</f6_Modified_Date>        <f7_Status>Active</f7_Status>        <f8_Short_Description>level</f8_Short_Description>     
+   data           :    <f15_Status_History/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group/>        <f17__SettingGUID
+   data           : >AGGADG1AANVNMAP3GCG3P2JH0E8S99</f17__SettingGUID>        <f37__Record_ID>AGGADG1AANVNMAP3GCG3P2JH0E8S99</f37__Record_ID>        <f3200_Component_Name
+   data           : >Logger Configuration</f3200_Component_Name>        <f3204_Setting_Name>level</f3204_Setting_Name>        <f3257_SettingDataType>Selection</f3257_Sett
+   data           : ingDataType>        <f3258_Character_Menu>1=TRACE,2=DEBUG,3=INFO,4=WARN,5=ERROR,6=FATAL,7=NOLOGERROR,8=NOLOGFATAL</f3258_Character_Menu>        <f325_
+   data           : _Limits/>        <f3260_FieldGrouping>            <value>Logger Configuration Settings</value>            <valueByLocale>{"en-US":"Logger Configurati
+   data           : on Settings"}</valueByLocale>        </f3260_FieldGrouping>        <f3261_Field_Order>0</f3261_Field_Order>        <f3262_KeySetting>No</f3262_KeySet
+   data           : ting>        <f3263_Default_Setting_Value>5</f3263_Default_Setting_Value>        <f3264_SettingDependencies/>        <f3265_BooleanType/>        <f3
+   data           : 266_SettingLabel>            <value>level</value>            <valueByLocale>{"en-US":"level"}</valueByLocale>        </f3266_SettingLabel>        <f
+   data           : 3267_Setting_Description>            <value/>            <valueByLocale>{"en-US":null}</valueByLocale>        </f3267_Setting_Description>        <f
+   data           : 3270_RequiredSetting>No</f3270_RequiredSetting>        <f60005_Shared_Settings_Write/>        <f60006_Shared_Settings_Read/>        <f60_8__ParentAss
+   data           : igneeGroup/>        <f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem></entryList>
 end
 
