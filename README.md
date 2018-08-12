@@ -1,7 +1,8 @@
 # Sample-Library-Public
 History:
 * Version:
-* 0.5, 2018/06/18, Converting the project to 18-5.
+* 0.6, 2018/08/11, Converting the project to 18-5.1 and adding new examples (https://github.com/lmame/Sample-Library-Public/commit/5776c28d9f56cfc28f04a6209fc0aaeba3b356e9).
+* 0.5, 2018/06/18, Converting the project to 18-5.\
 * 0.4, 2018/04/28, Converting the project to 18-2.
 * 0.3, 2018/03/21, Adding a new view component to access grid native apis and changing moment.js version.
 * 0.2, 2017/12/08, Converting the project to 17-11.
@@ -33,11 +34,18 @@ Javascript View Components:
 * Calling a Custom Command and Custom Rest API using BMC OOTB resources objects,
 * Calling a Javascript Action from Javascript Code using "rxAction" method.
 * Accessing a grid native apis (ui-grid).
+* Accessing a grid object
+* Get user session information on javascript and backend
+* Use class objects and list of objects to / from get and post rest apis
+* Trigger an action bouton through javascript
+* Trigger specific process activity through Java / Javascript
+* Use BMC grid rx-record-grid object  to display custom data (datapagequery), also shows how to query data from backend,
 
 
 Javascript Actions:
 * Calling a javascript custom Action and using rxNotification to display messages popups,
 * Calling a Custom Java command using $http to get result from it,
+* Confirm window. How actions can be chained and how to "break" the chain if needed. We show also how to synchronous custom javascript actions.
 
 
 Java Service:
@@ -52,6 +60,10 @@ Java Commands:
 * Custom Java commands delivered as examples,
 
 
+Tips & tricks
+* How to pass custom objects in a process and access its properties (list of strings, object, list of objects)
+
+
 # Installation (using the zip file):
 You can Just deploy the file "com.example.samplelibrary-1.0-SNAPSHOT.zip" on your development environment.
 https://docs.bmc.com/docs/innovationsuite/cloud/importing-the-export-packages-to-deploy-tailoring-changes-of-applications-747679337.html
@@ -61,7 +73,7 @@ https://docs.bmc.com/docs/innovationsuite/cloud/importing-the-export-packages-to
 Please follow those steps:
 * Create your developer environment:
 * https://docs.bmc.com/docs/innovationsuite/cloud/setting-up-your-ide-and-installing-innovation-sdk-679716356.html
-* You will need nodeJs, maven and Java.
+* You will need nodeJs, maven, Yarn and Java.
 
 To deploy:
 * https://docs.bmc.com/docs/innovationsuite/cloud/creating-a-project-using-maven-and-the-archetype-679717111.html
