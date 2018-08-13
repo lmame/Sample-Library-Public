@@ -34,6 +34,7 @@
 
                         // Getting the attachment using BMC OOTB Javascript APIs
                         var attachmentsResource = rxRecordInstanceAttachmentResource.withName($scope.recordDefinitionFullName);
+
                         attachmentsResource.get($scope.recordId, ($scope.fieldId).toString()).then(function (fileStream) {
                             if (fileStream) {
                                 //  reference: https:// developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array

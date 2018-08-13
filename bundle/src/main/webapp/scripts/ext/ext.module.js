@@ -2,8 +2,9 @@ angular.module('com.example.samplelibrary-ext', [
     // Actions,
     'com.example.samplelibrary.actions.show-alert',                     // Displaying an alert popup
     'com.example.samplelibrary.actions.use-rx-messages',                // Displaying a BMC message
-    'com.example.samplelibrary.actions.run-java-command',               // Runnind a Java Command on the Server
-    'com.example.samplelibrary.actions.test-action',
+    'com.example.samplelibrary.actions.run-java-command',               // Running a Java Command on the Server
+    'com.example.samplelibrary.actions.test-action',                    // Example of a confirm dialog and synchronous action return
+    'com.example.samplelibrary.actions.download-file',                  // Download a file from an Action Button
     // View components
     'com.example.samplelibrary.view-components.custom-label',           // custom label.
     'com.example.samplelibrary.view-components.price-calculator',       // Price calculator.

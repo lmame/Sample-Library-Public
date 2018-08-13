@@ -2,7 +2,7 @@ begin view definition
    name           : com.example.samplelibrary:test 1234
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1534032003732,
+   definition     :   "lastUpdateTime" : 1534115867424,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:test 1234",
