@@ -3,7 +3,7 @@ History:
 * Version:
 * 0.7, 2018/08/12, adding one new example (https://github.com/lmame/Sample-Library-Public/commit/2116f63828f635b2ba02b58fe4595370fdb2f00c),
 * 0.6, 2018/08/11, Converting the project to 18-5.1 and adding new examples (https://github.com/lmame/Sample-Library-Public/commit/5776c28d9f56cfc28f04a6209fc0aaeba3b356e9).
-* 0.5, 2018/06/18, Converting the project to 18-5.\
+* 0.5, 2018/06/18, Converting the project to 18-5.
 * 0.4, 2018/04/28, Converting the project to 18-2.
 * 0.3, 2018/03/21, Adding a new view component to access grid native apis and changing moment.js version.
 * 0.2, 2017/12/08, Converting the project to 17-11.
@@ -104,7 +104,7 @@ Please find support on the Developer BMC Community if you have any questions or 
 
 
 # Credits:
-With the invaluable help from Dave Sulcer :)
+With the invaluable help from Dave Sulcer and Ranjit :)
 
 
 # Links:
