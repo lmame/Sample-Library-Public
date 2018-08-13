@@ -47,6 +47,7 @@ Javascript Actions:
 * Calling a javascript custom Action and using rxNotification to display messages popups,
 * Calling a Custom Java command using $http to get result from it,
 * Confirm window. How actions can be chained and how to "break" the chain if needed. We show also how to synchronous custom javascript actions.
+* Downloading a file, can be used to download a file from a grid for example,
 
 
 Java Service:
