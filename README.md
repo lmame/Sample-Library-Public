@@ -1,6 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
+* 0.7, 2018/08/12, adding one new example (https://github.com/lmame/Sample-Library-Public/commit/2116f63828f635b2ba02b58fe4595370fdb2f00c),
 * 0.6, 2018/08/11, Converting the project to 18-5.1 and adding new examples (https://github.com/lmame/Sample-Library-Public/commit/5776c28d9f56cfc28f04a6209fc0aaeba3b356e9).
 * 0.5, 2018/06/18, Converting the project to 18-5.\
 * 0.4, 2018/04/28, Converting the project to 18-2.
