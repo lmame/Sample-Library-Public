@@ -1,7 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
-* 0.8, 2018/08/18, adding two new examples (),
+* 0.8, 2018/08/18, adding two new examples (https://github.com/lmame/Sample-Library-Public/commit/b6cb60467f896cf69f77b12519eef57d056c30d7),
 * 0.7, 2018/08/12, adding one new example (https://github.com/lmame/Sample-Library-Public/commit/2116f63828f635b2ba02b58fe4595370fdb2f00c),
 * 0.6, 2018/08/11, Converting the project to 18-5.1 and adding new examples (https://github.com/lmame/Sample-Library-Public/commit/5776c28d9f56cfc28f04a6209fc0aaeba3b356e9).
 * 0.5, 2018/06/18, Converting the project to 18-5.
@@ -42,6 +42,7 @@ Javascript View Components:
 * Trigger an action bouton through javascript
 * Trigger specific process activity through Java / Javascript
 * Use BMC grid rx-record-grid object  to display custom data (datapagequery), also shows how to query data from backend,
+* Create Admin Settings for your application and get the values in Java and Javascript,
 
 
 Javascript Actions:
@@ -65,6 +66,10 @@ Java Commands:
 
 Tips & tricks
 * How to pass custom objects in a process and access its properties (list of strings, object, list of objects)
+
+
+Apis description:
+* How to use rxNotificationMessage in UI to display notification, modify the Ttl and display the message as Html (bonus, using picture),
 
 
 # Installation (using the zip file):
