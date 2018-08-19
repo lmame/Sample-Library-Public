@@ -11,10 +11,7 @@ import com.bmc.arsys.rx.services.common.RxBundle;
 import com.bmc.arsys.rx.services.common.domain.WebResourceDefinition;
 import com.example.command.TestCommand;
 import com.example.command.SimpleCommand;
-import com.example.rest.RestGetUserInfos;
-import com.example.rest.RestTicket;
-import com.example.rest.RestTriggerActivity;
-import com.example.rest.SimpleRest;
+import com.example.rest.*;
 import com.example.service.SimpleService;
 import com.example.datapage.DvdDataPageQuery;
 
@@ -45,6 +42,7 @@ public class MyApplication extends RxBundle {
         registerRestfulResource(new RestTicket());
         registerRestfulResource(new RestGetUserInfos());
         registerRestfulResource(new RestTriggerActivity());
+        registerRestfulResource(new RestAdminSettings());
 
         // Registering Services.
         registerService(new SimpleService());

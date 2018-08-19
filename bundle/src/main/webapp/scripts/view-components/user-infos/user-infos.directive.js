@@ -28,7 +28,7 @@
                             developerId: rxCurrentUser.get().developerId,
                             developerMode: rxCurrentUser.get().developerMode,
                             isAdministrator: rxCurrentUser.isAdministrator(),
-                            name: rxCurrentUser.getName(),
+                            name: rxCurrentUser.getName()
                         });
 
                         // Getting the user session information from the backend.

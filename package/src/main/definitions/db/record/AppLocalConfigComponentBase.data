@@ -66,6 +66,19 @@ begin schema data
    data           : on_Field>In Bundle</f3258_Radio_Button_Field>        <f325__Location/>        <f3260_Registered_Module_Name/>        <f3261_Is_View>No</f3261_Is_View
    data           : >        <f3265_Show_In>InnovationStudio</f3265_Show_In>        <f60005_Shared_Settings_Write/>        <f60006_Shared_Settings_Read/>        <f60_8_
    data           : _ParentAssigneeGroup/>        <f61001_Application>com.example.samplelibrary</f61001_Application>        <f61002_ImpactRowVisibility>None</f61002_Impac
-   data           : tRowVisibility>    </entryItem></entryList>
+   data           : tRowVisibility>    </entryItem>    <entryItem>        <f1_Request_ID>000000000010401</f1_Request_ID>        <f2_Submitter>developer</f2_Submitter> 
+   data           :        <f3_Create_Date>2018-08-13T21:21:02+00:00</f3_Create_Date>        <f4_Assigned_To/>        <f5_Last_Modified_By>developer</f5_Last_Modified_By>
+   data           :         <f6_Modified_Date>2018-08-14T02:00:42+00:00</f6_Modified_Date>        <f7_Status>Active</f7_Status>        <f8_Short_Description>bookWorm</f8
+   data           : _Short_Description>        <f15_Status_History/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group/>
+   data           :         <f17__ComponentGUID>AGGADG1AANVNMAP35ENCP28JDFB1L2</f17__ComponentGUID>        <f37__Record_ID>AGGADG1AANVNMAP35ENCP28JDFB1L2</f37__Record_ID>
+   data           :         <f3200_Component_Name>bookWorm</f3200_Component_Name>        <f3250_ShowInNAVBar>Yes</f3250_ShowInNAVBar>        <f3251_Multiples>No</f3251_Mu
+   data           : ltiples>        <f3252_ViewToOpen>Common Settings</f3252_ViewToOpen>        <f3253_Group1>            <value>Sample Library</value>            <valu
+   data           : eByLocale>{"en-US":"Sample Library"}</valueByLocale>        </f3253_Group1>        <f3254_Group2>            <value/>            <valueByLocale>{"en
+   data           : -US":null}</valueByLocale>        </f3254_Group2>        <f3255_ComponentTitle>            <value>bookWorm</value>            <valueByLocale>{"en-US
+   data           : ":"bookWorm"}</valueByLocale>        </f3255_ComponentTitle>        <f3257_ParentComponentName/>        <f3258_Radio_Button_Field>In Bundle</f3258_Ra
+   data           : dio_Button_Field>        <f325__Location/>        <f3260_Registered_Module_Name/>        <f3261_Is_View>No</f3261_Is_View>        <f3265_Show_In>Bot
+   data           : h</f3265_Show_In>        <f60005_Shared_Settings_Write/>        <f60006_Shared_Settings_Read/>        <f60_8__ParentAssigneeGroup/>        <f61001_A
+   data           : pplication>com.example.samplelibrary</f61001_Application>        <f61002_ImpactRowVisibility>None</f61002_ImpactRowVisibility>    </entryItem></entry
+   data           : List>
 end
 

@@ -32,6 +32,9 @@
         'com.example.samplelibrary.view-components.send-list',                   // Show how to get and send data (with a list of data) from a rest api, the data being a Java class.
         'com.example.samplelibrary.view-components.click-button',                 // Shows how to trigger an OOTB BMC button through javascript code.
         'com.example.samplelibrary.view-components.trigger-activity',              // Shows how to trigger a specific process activity and getting its result in Java and Javascript.
-        'com.example.samplelibrary.view-components.custom-grid'                     // Shows how to use BMC grid object and inject a custom datapagequery as datasource.
+        'com.example.samplelibrary.view-components.custom-grid',                     // Shows how to use BMC grid object and inject a custom datapagequery as datasource.
+        'com.example.samplelibrary.view-components.admin-settings',                  // Shows how to access "Shared Settings" defined in your bundle.
+        // APIs examples
+        'com.example.samplelibrary.view-components.api-rxnotificationmessage'      // Some tips and tricks about notification
     ]);
 })();

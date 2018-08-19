@@ -94,6 +94,32 @@ begin schema data
    data           : 266_SettingLabel>            <value>level</value>            <valueByLocale>{"en-US":"level"}</valueByLocale>        </f3266_SettingLabel>        <f
    data           : 3267_Setting_Description>            <value/>            <valueByLocale>{"en-US":null}</valueByLocale>        </f3267_Setting_Description>        <f
    data           : 3270_RequiredSetting>No</f3270_RequiredSetting>        <f60005_Shared_Settings_Write/>        <f60006_Shared_Settings_Read/>        <f60_8__ParentAss
-   data           : igneeGroup/>        <f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem></entryList>
+   data           : igneeGroup/>        <f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem>    <entryItem>        <f1_Request_ID>00000000
+   data           : 0010401</f1_Request_ID>        <f2_Submitter>developer</f2_Submitter>        <f3_Create_Date>2018-08-13T21:21:02+00:00</f3_Create_Date>        <f4_As
+   data           : signed_To/>        <f5_Last_Modified_By>developer</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-14T02:00:42+00:00</f6_Modified_Date>        
+   data           : <f7_Status>Active</f7_Status>        <f8_Short_Description>preferred Book</f8_Short_Description>        <f15_Status_History/>        <f16_Notifier_Li
+   data           : stening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group/>        <f17__SettingGUID>AGGADG1AANVNMAP35ENCP28JDFB1L3</f17__SettingGUID
+   data           : >        <f37__Record_ID>AGGADG1AANVNMAP35ENCP28JDFB1L3</f37__Record_ID>        <f3200_Component_Name>bookWorm</f3200_Component_Name>        <f3204_S
+   data           : etting_Name>preferred Book</f3204_Setting_Name>        <f3257_SettingDataType>Character</f3257_SettingDataType>        <f3258_Character_Menu/>       
+   data           :  <f325__Limits/>        <f3260_FieldGrouping>            <value>General</value>            <valueByLocale>{"en-US":"General"}</valueByLocale>       
+   data           :  </f3260_FieldGrouping>        <f3261_Field_Order>0</f3261_Field_Order>        <f3262_KeySetting>No</f3262_KeySetting>        <f3263_Default_Setting_
+   data           : Value>Dune</f3263_Default_Setting_Value>        <f3264_SettingDependencies/>        <f3265_BooleanType/>        <f3266_SettingLabel>            <val
+   data           : ue>preferred Book</value>            <valueByLocale>{"en-US":"preferred Book"}</valueByLocale>        </f3266_SettingLabel>        <f3267_Setting_Des
+   data           : cription>            <value/>            <valueByLocale>{"en-US":null}</valueByLocale>        </f3267_Setting_Description>        <f3270_RequiredSet
+   data           : ting>No</f3270_RequiredSetting>        <f60005_Shared_Settings_Write/>        <f60006_Shared_Settings_Read/>        <f60_8__ParentAssigneeGroup/>   
+   data           :      <f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem>    <entryItem>        <f1_Request_ID>000000000010402</f1_Requ
+   data           : est_ID>        <f2_Submitter>developer</f2_Submitter>        <f3_Create_Date>2018-08-13T21:21:02+00:00</f3_Create_Date>        <f4_Assigned_To/>    
+   data           :     <f5_Last_Modified_By>developer</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-14T02:00:42+00:00</f6_Modified_Date>        <f7_Status>Activ
+   data           : e</f7_Status>        <f8_Short_Description>preferred author</f8_Short_Description>        <f15_Status_History/>        <f16_Notifier_Listening>Not Li
+   data           : stening</f16_Notifier_Listening>        <f112_Assignee_Group/>        <f17__SettingGUID>AGGADG1AANVNMAP35ENCP28JDFB1L4</f17__SettingGUID>        <f37
+   data           : __Record_ID>AGGADG1AANVNMAP35ENCP28JDFB1L4</f37__Record_ID>        <f3200_Component_Name>bookWorm</f3200_Component_Name>        <f3204_Setting_Name>pr
+   data           : eferred author</f3204_Setting_Name>        <f3257_SettingDataType>Character</f3257_SettingDataType>        <f3258_Character_Menu/>        <f325__Limi
+   data           : ts/>        <f3260_FieldGrouping>            <value>General</value>            <valueByLocale>{"en-US":"General"}</valueByLocale>        </f3260_Fie
+   data           : ldGrouping>        <f3261_Field_Order>0</f3261_Field_Order>        <f3262_KeySetting>No</f3262_KeySetting>        <f3263_Default_Setting_Value>Frank 
+   data           : Herbert</f3263_Default_Setting_Value>        <f3264_SettingDependencies/>        <f3265_BooleanType/>        <f3266_SettingLabel>            <value>
+   data           : preferred author</value>            <valueByLocale>{"en-US":"preferred author"}</valueByLocale>        </f3266_SettingLabel>        <f3267_Setting_De
+   data           : scription>            <value/>            <valueByLocale>{"en-US":null}</valueByLocale>        </f3267_Setting_Description>        <f3270_RequiredSe
+   data           : tting>No</f3270_RequiredSetting>        <f60005_Shared_Settings_Write/>        <f60006_Shared_Settings_Read/>        <f60_8__ParentAssigneeGroup/>  
+   data           :       <f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem></entryList>
 end
 
