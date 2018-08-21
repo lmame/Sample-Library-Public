@@ -18,11 +18,11 @@ The Resources return a promise.
         });
 
         function getNote(noteId) {
-            return _resource.get(rxString.format('/note/%s', noteId));
+            return _resource.get(rxString.format('note/%s', noteId));
         }
 
         function getTicket(ticketId) {
-            return _resource.get(rxString.format('/ticket/%s', ticketId));
+            return _resource.get(rxString.format('ticket/%s', ticketId));
         }
 
         function createTicket(ticket) {
