@@ -12,7 +12,7 @@
 		<developerUserName>developer</developerUserName>
 		<developerPassword>password</developerPassword>
 		<!-- Server name with Jetty port. -->
-		<webUrl>https://developerXXXX.innovate.bmc.com</webUrl>
+		<webUrl>https://developerxxxx.innovate.bmc.com</webUrl>
 		<!-- END: Bundle specific configuration.-->
 		
 		<!-- The application will be visible with this name on innovation studio -->
@@ -46,7 +46,7 @@
 		<testng.version>6.9.10</testng.version>
 		<joda-time.version>1.6.2</joda-time.version>
 		<rx-sdk.groupId>com.bmc.arsys</rx-sdk.groupId>
-		<rx-sdk.version>18.5.1-SNAPSHOT</rx-sdk.version>
+		<rx-sdk.version>18.8.0-SNAPSHOT</rx-sdk.version>
 	</properties>
 	
 	

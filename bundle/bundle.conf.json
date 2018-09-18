@@ -12,7 +12,7 @@
             "livereload-port": 39005,
             "skip-tests": true,
             "skip-validation": true,
-            "api-host": "developerXXXX.innovate.bmc.com",
+            "api-host": "developerxxxx.innovate.bmc.com",
             "api-port": 443,
 			"api-https": true,
             "host": "localhost",

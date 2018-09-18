@@ -2,7 +2,7 @@ begin view definition
    name           : com.example.samplelibrary:VC - List available Icons
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1534649802704,
+   definition     :   "lastUpdateTime" : 1534657480000,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:VC - List available Icons",
@@ -18,14 +18,14 @@ begin view definition
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1534649802704,
+   definition     :     "lastUpdateTime" : 1534657480000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "1252092c-c85a-436b-a4d5-6abc99877abc",
    definition     :     "tags" : null,
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : "1",
-   definition     :     "developerId" : "com.example",
+   definition     :     "developerId" : null,
    definition     :     "guid" : "1252092c-c85a-436b-a4d5-6abc99877abc",
    definition     :     "type" : "com-example-samplelibrary-bmc-css-icons",
    definition     :     "propertiesByName" : null,
@@ -40,14 +40,14 @@ begin view definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1534649802704,
+   definition     :     "lastUpdateTime" : 1534657480000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "feedb5e9-9d77-4a53-ba2d-7b08a5bd4545",
    definition     :     "tags" : null,
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : "1",
-   definition     :     "developerId" : "com.example",
+   definition     :     "developerId" : null,
    definition     :     "guid" : "feedb5e9-9d77-4a53-ba2d-7b08a5bd4545",
    definition     :     "type" : "rx-rich-text",
    definition     :     "propertiesByName" : {
@@ -78,6 +78,8 @@ begin view definition
    definition     :   },
    definition     :   "allowOverlay" : false,
    definition     :   "type" : "REGULAR",
-   definition     :   "styles" : null
+   definition     :   "styles" : null,
+   definition     :   "targetViewDefinitionName" : null,
+   definition     :   "targetExtensionContainerGuid" : null
    definition     : }
 end

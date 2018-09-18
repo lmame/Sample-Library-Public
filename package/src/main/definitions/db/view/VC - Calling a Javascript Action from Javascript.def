@@ -2,7 +2,7 @@ begin view definition
    name           : com.example.samplelibrary:VC - Calling a Javascript Action from Javascript
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1534649802993,
+   definition     :   "lastUpdateTime" : 1534657481000,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:VC - Calling a Javascript Action from Javascript",
@@ -18,14 +18,14 @@ begin view definition
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1534649802993,
+   definition     :     "lastUpdateTime" : 1534657481000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "8bd33db8-989d-47a0-b043-a53c1ea3600d",
    definition     :     "tags" : null,
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : "1",
-   definition     :     "developerId" : "com.example",
+   definition     :     "developerId" : null,
    definition     :     "guid" : "8bd33db8-989d-47a0-b043-a53c1ea3600d",
    definition     :     "type" : "rx-rich-text",
    definition     :     "propertiesByName" : {
@@ -43,14 +43,14 @@ begin view definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1534649802993,
+   definition     :     "lastUpdateTime" : 1534657481000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "9dcaf0e0-eeb2-4907-8c30-123f9cc7d860",
    definition     :     "tags" : null,
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : "1",
-   definition     :     "developerId" : "com.example",
+   definition     :     "developerId" : null,
    definition     :     "guid" : "9dcaf0e0-eeb2-4907-8c30-123f9cc7d860",
    definition     :     "type" : "com-example-samplelibrary-call-action",
    definition     :     "propertiesByName" : null,
@@ -77,6 +77,8 @@ begin view definition
    definition     :   },
    definition     :   "allowOverlay" : false,
    definition     :   "type" : "REGULAR",
-   definition     :   "styles" : null
+   definition     :   "styles" : null,
+   definition     :   "targetViewDefinitionName" : null,
+   definition     :   "targetExtensionContainerGuid" : null
    definition     : }
 end

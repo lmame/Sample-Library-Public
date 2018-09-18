@@ -1,6 +1,6 @@
 #
-#Sun Aug 19 05:44:02 UTC 2018
+#Tue Sep 18 16:05:10 UTC 2018
 Name=com.example.samplelibrary\:Dvd
 IgnoreRuleExecution=false
-DuplicateDataActionType=THROW_ERROR
+DuplicateDataActionType=MERGE
 ImportOrder=null
