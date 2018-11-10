@@ -1,6 +1,6 @@
 begin schema data
    name           : AppLocalConfigSettingBase
-   data-mapping   : <?xml version="1.0" encoding="UTF-8"?><arDocMapping xmlns="urn:remedy:schemas:ars" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+   data-mapping   : <?xml version="1.0" encoding="utf-8"?><arDocMapping xmlns="urn:remedy:schemas:ars" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
    data-mapping   :     <element name="entryList">        <formMapping>            <form foreignKeyId="1" formName="AppLocalConfigSettingBase" mapType="embedded" primaryK
    data-mapping   : eyId="1"/>            <element name="entryItem">                <element dataType="string" name="f1_Request_ID">                    <fieldMapping arF
    data-mapping   : ieldId="1"/>                </element>                <element dataType="string" name="f2_Submitter">                    <fieldMapping arFieldId="2"/
@@ -39,7 +39,7 @@ begin schema data
    data-mapping   :        <fieldMapping arFieldId="60006"/>                </element>                <element dataType="string" name="f60_8__ParentAssigneeGroup">      
    data-mapping   :               <fieldMapping arFieldId="60989"/>                </element>                <element dataType="string" name="f61001_Application">       
    data-mapping   :              <fieldMapping arFieldId="61001"/>                </element>            </element>        </formMapping>    </element></arDocMapping>
-   data           : <?xml version="1.0" encoding="UTF-8"?><entryList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">   
+   data           : <?xml version="1.0" encoding="utf-8"?><entryList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">   
    data           :  <entryItem>        <f1_Request_ID>000000000010009</f1_Request_ID>        <f2_Submitter>ARSERVER</f2_Submitter>        <f3_Create_Date>2018-06-09T13:
    data           : 36:31+00:00</f3_Create_Date>        <f4_Assigned_To/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_Date>2018-06-09T
    data           : 13:36:31+00:00</f6_Modified_Date>        <f7_Status>Active</f7_Status>        <f8_Short_Description>fileName</f8_Short_Description>        <f15_Statu
