@@ -1,6 +1,8 @@
 # Sample-Library-Public
 History:
 * Version:
+* 1.1, 2018/12/22, Converting the project to 18-11.1. This project uses now the new SDK archetype structure as well as new nodeJS / Yarn versions (https://docs.bmc.com/docs/display/innovationsuite/Upgrading+BMC+Helix+Innovation+Suite+SDK+to+18.11.01:+Patch+01). It also fixes a problem using grunt and latest BMC SSL certificate. If you cannot export or deploy your application / library due to this error "PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target" please check this thread (https://communities.bmc.com/message/801070#801070).
+
 * 1.0, 2018/11/10, Converting the project to 18-8.1. WARNING! You still need nodeJs 6.11.2 and Yarn 0.27.5. Instructions on BMC Documentation are not totally correct for now so keep those versions to build this example for now...
 * 0.9, 2018/09/18, Converting the project to 18-8.
 * 0.8, 2018/08/18, adding two new examples (https://github.com/lmame/Sample-Library-Public/commit/b6cb60467f896cf69f77b12519eef57d056c30d7),
