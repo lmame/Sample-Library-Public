@@ -37,7 +37,7 @@ module.exports = function (karmaConfig) {
             });
         })))
         .concat([
-            '<%= standardlibTarget %>/lib/angular-1.4.7/angular-mocks.js',
+            '<%= standardlibTarget %>/lib/angular-1.7.3/angular-mocks.js',
             '<%= standardlibTarget %>/lib/jquery-simulate-1.0.1/jquery.simulate.js',
             '<%= standardlibTarget %>/lib/jasmine-jquery-2.0.5/jasmine-jquery.js',
             '<%= standardlibTarget %>/bootstrap.js',
@@ -118,25 +118,17 @@ module.exports = function (karmaConfig) {
         plugins: [
             'karma-jasmine',
             'karma-jasmine-matchers',
-            // 'karma-firefox-launcher',
             'karma-chrome-launcher',
             'karma-coverage',
-            'karma-ng-html2js-preprocessor',
-            'karma-spec-reporter'
+            'karma-ng-html2js-preprocessor'
         ],
 
         logLevel: 'WARN',
 
         reporters: [
-            // 'dots',
-            'spec',
+            'dots',
             'coverage'
         ],
-
-        // https://github.com/mlex/karma-spec-reporter
-        specReporter: {
-            suppressErrorSummary: false
-        },
 
         coverageReporter: {
             type: 'html',

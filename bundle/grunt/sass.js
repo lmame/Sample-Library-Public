@@ -1,3 +1,5 @@
+var sass = require('node-sass');
+
 module.exports = function (grunt, config) {
     var path = require('path'),
         _ = require(path.join(process.cwd(), 'node_modules/lodash'));
@@ -36,16 +38,19 @@ module.exports = function (grunt, config) {
 
     return _.mapValues({
         options: {
+            implementation: sass,
             sourceMap: true,
             importer: resolvePath
         },
         debug: {
             options: {
+                implementation: sass,
                 outputStyle: 'expanded'
             }
         },
         release: {
             options: {
+                implementation: sass,
                 outputStyle: 'compressed'
             }
         }

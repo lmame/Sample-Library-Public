@@ -9,7 +9,9 @@ module.exports = function (grunt, config) {
                     context: ['/', '/api', '!/standardlib', '!/innovationsuite', '!/' + config.bundle.id],
                     host: grunt.option('api-host'),
                     port: grunt.option('api-port'),
-                    https: grunt.option('api-https')
+                    https: grunt.option('api-https'),
+                    // LMA:: Adding this new parameter after new SSL Certificate
+                    secure: grunt.option('api-https') ? false : true
                 }, {
                     context: '/innovationsuite',
                     host: grunt.option('host'),

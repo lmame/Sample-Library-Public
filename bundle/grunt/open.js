@@ -1,6 +1,6 @@
 module.exports = function (grunt, config) {
     var path = require('path'),
-        // LMA:: We need https to debug Qws instances.
+        // LMA:: We need https to debug Aws instances.
         // url = 'http://' + grunt.option('host') + ':' + grunt.option('port');
         protocol = grunt.option('api-https') ? 'https' : 'http',
         url = protocol + '://' + grunt.option('host') + ':' + grunt.option('port');
@@ -14,6 +14,8 @@ module.exports = function (grunt, config) {
     if (config.bundle.id === 'standardlib' && grunt.option('application-id')) {
         url += '#/' + grunt.option('application-id');
     }
+
+    console.log(url);
 
     return {
         app: {

@@ -30,7 +30,12 @@ module.exports = function (grunt) {
         for (var option in options) {
             var value = options[option];
 
-            if (grunt.option(option) === undefined) {
+            if (option === 'skip-tests') {
+                if (grunt.option(option) !== true) {
+                    grunt.option(option, value);
+                }
+                continue;
+            } else if (grunt.option(option) === undefined) {
                 grunt.option(option, value);
             }
         }
@@ -94,7 +99,7 @@ module.exports = function (grunt) {
         'tests-wrapper',
 
         'server-debug',
-        'watch'
+        'chokidar'
     ]);
 
     grunt.registerTask('dev', 'Fastest development task skips tests, jshint and js validation', function () {
