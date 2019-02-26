@@ -24,16 +24,12 @@ module.exports = function (karmaConfig) {
         grunt.config(key, expandedValue);
     });
 
-    var standardlibProxyPath = '/' + path.join('base', pkg.config.standardlibTarget).split(path.sep).join('/').replace(/\.\.\//g, '') + '/';
+    var proxyPath = pkg.config.standardlibTarget + '/';
 
     var allFiles = grunt.file.expand(grunt.config.process([]
-        .concat([
-            '<%= standardlibTarget %>/lib/classlist/classlist.js',
-            '<%= standardlibTarget %>/resources/css/standardlib-deps.min.css'
-        ])
         .concat(Array.prototype.concat.apply([], pkg.config.bundle.resources.map(function (resource) {
             return resource.bundle.packages.lib.scripts.map(function (file) {
-                return path.join(resource.dir, resource.bundle.src, file) + '.js';
+                return path.join(resource.dir, resource.bundle.target, file) + '.js';
             });
         })))
         .concat([
@@ -41,8 +37,11 @@ module.exports = function (karmaConfig) {
             '<%= standardlibTarget %>/lib/jquery-simulate-1.0.1/jquery.simulate.js',
             '<%= standardlibTarget %>/lib/jasmine-jquery-2.0.5/jasmine-jquery.js',
             '<%= standardlibTarget %>/bootstrap.js',
+            '<%= standardlibTarget %>/resources/css/standardlib-deps.min.css',
             '<%= standardlibTarget %>/resources/css/standardlib.css',
+            '<%= standardlibTarget %>/resources/css/theme/*.css',
             '<%= standardlibTarget %>/scripts/standardlib.js',
+            '<%= standardlibTarget %>/view-loader.js',
             '<%= bundle.target %>/resources/css/<%= bundle.id %>.css'
         ])
         .concat(pkg.config.bundle.packages.app.scripts.map(function (file) {
@@ -57,10 +56,11 @@ module.exports = function (karmaConfig) {
         }))
         .concat([
             '<%= bundle.target %>/scripts/**/<%= bundle.id %>-templates.min.js',
-            '<%= standardlibTarget %>/**/*.+(jpg|svg|ttf|png|woff)',
+            '<%= standardlibTarget %>/**/*.+(jpg|svg|ttf|png|woff|woff2)',
             '<%= bundle.src %>/**/*.+(jpg|svg|ttf|png|woff)',
             '<%= bundle.src %>/scripts/**/*.html',
             '<%= standardlibTarget %>/scripts/**/*.html',
+            '<%= bundle.src %>/view-loader.test.js',
             '<%= bundle.src %>/scripts/**/*.test.js'
         ])
     )).map(function (filepath) {
@@ -92,9 +92,11 @@ module.exports = function (karmaConfig) {
         }),
 
         proxies: _.mapKeys({
-            // Proxies /standardlib to fix unit test warnings due to invalid paths to standardlib static resources
-            '/standardlib/resources/': standardlibProxyPath + 'resources/',
-            '/standardlib/lib/': standardlibProxyPath + 'lib/'
+            // Proxies /standardlib and /innovation-studio to fix unit test warnings due to invalid paths to static resources
+            '/standardlib/resources/': proxyPath + 'resources/',
+            '/standardlib/lib/': proxyPath + 'lib/',
+            '/api/rx/application/': 'api/rx/application/',
+            '/default-image.png': 'default-image.png'
         }, function (value, key) {
             return grunt.config.process(key);
         }),
@@ -131,8 +133,10 @@ module.exports = function (karmaConfig) {
         ],
 
         coverageReporter: {
-            type: 'html',
-            dir: path.join(process.cwd(), 'target/coverage/')
+            dir: path.join(process.cwd(), 'target/coverage/'),
+            file: 'full.json',
+            subdir: 'full',
+            type: 'json'
         },
 
         port: 9090,

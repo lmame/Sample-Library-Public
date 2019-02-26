@@ -1,6 +1,6 @@
 begin schema data
    name           : IndirectAssociationRecordDefinition
-   data-mapping   : <?xml version="1.0" encoding="UTF-8"?><arDocMapping xmlns="urn:remedy:schemas:ars" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+   data-mapping   : <?xml version="1.0" encoding="utf-8"?><arDocMapping xmlns="urn:remedy:schemas:ars" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
    data-mapping   :     <element name="entryList">        <formMapping>            <form foreignKeyId="1" formName="IndirectAssociationRecordDefinition" mapType="embedded
    data-mapping   : " primaryKeyId="1"/>            <element name="entryItem">                <element dataType="string" name="f1_Request_ID">                    <fieldM
    data-mapping   : apping arFieldId="1"/>                </element>                <element dataType="string" name="f2_Submitter">                    <fieldMapping arFi
@@ -19,13 +19,13 @@ begin schema data
    data-mapping   :    <element dataType="int" name="f305506063_associationId">                    <fieldMapping arFieldId="305506063"/>                </element>       
    data-mapping   :          <element dataType="string" name="f305506064_associationGuid">                    <fieldMapping arFieldId="305506064"/>                </eleme
    data-mapping   : nt>            </element>        </formMapping>    </element></arDocMapping>
-   data           : <?xml version="1.0" encoding="UTF-8"?><entryList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">   
+   data           : <?xml version="1.0" encoding="utf-8"?><entryList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">   
    data           :  <entryItem>        <f1_Request_ID>000000000000301</f1_Request_ID>        <f2_Submitter>developer</f2_Submitter>        <f3_Create_Date>2017-07-17T07
-   data           : :29:59+00:00</f3_Create_Date>        <f4_Assigned_To/>        <f5_Last_Modified_By>developer</f5_Last_Modified_By>        <f6_Modified_Date>2017-07-1
-   data           : 7T07:29:59+00:00</f6_Modified_Date>        <f7_Status>New</f7_Status>        <f8_Short_Description>-</f8_Short_Description>        <f15_Status_Histor
-   data           : y/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f17__Record_GUID>AGGIXIUWC3XSKAOTIETZOS1ZJDON54</f17__Record_GUID> 
-   data           :        <f37__Record_ID>AGGIXIUWC3XSKAOTIETZOS1ZJDON54</f37__Record_ID>        <f305506061_nodeAId>AGGIXIUWC3XSKAOTIETZOS1ZJDON53</f305506061_nodeAId> 
-   data           :        <f305506062_nodeBId>AGGIXIUWC3XSKAOTIETXOS1ZJCON52</f305506062_nodeBId>        <f305506063_associationId>77</f305506063_associationId>        <
-   data           : f305506064_associationGuid>IDGIXIUWC3XSKAOTIEKAOS1YZFON41</f305506064_associationGuid>    </entryItem></entryList>
+   data           : :29:59+00:00</f3_Create_Date>        <f4_Assigned_To xsi:nil="true"/>        <f5_Last_Modified_By>developer</f5_Last_Modified_By>        <f6_Modified
+   data           : _Date>2017-07-17T07:29:59+00:00</f6_Modified_Date>        <f7_Status>New</f7_Status>        <f8_Short_Description>-</f8_Short_Description>        <f1
+   data           : 5_Status_History xsi:nil="true"/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f17__Record_GUID>AGGIXIUWC3XSKAOTIETZO
+   data           : S1ZJDON54</f17__Record_GUID>        <f37__Record_ID>AGGIXIUWC3XSKAOTIETZOS1ZJDON54</f37__Record_ID>        <f305506061_nodeAId>AGGIXIUWC3XSKAOTIETZOS1
+   data           : ZJDON53</f305506061_nodeAId>        <f305506062_nodeBId>AGGIXIUWC3XSKAOTIETXOS1ZJCON52</f305506062_nodeBId>        <f305506063_associationId>77</f3055
+   data           : 06063_associationId>        <f305506064_associationGuid>IDGIXIUWC3XSKAOTIEKAOS1YZFON41</f305506064_associationGuid>    </entryItem></entryList>
 end
 

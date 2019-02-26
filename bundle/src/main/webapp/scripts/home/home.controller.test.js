@@ -1,4 +1,6 @@
 describe('HomeController', function () {
+    'use strict';
+
     beforeEach(module('com.example.samplelibrary.home'));
 
     beforeEach(inject(function ($controller, $rootScope) {

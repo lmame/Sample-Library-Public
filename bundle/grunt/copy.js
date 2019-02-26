@@ -8,7 +8,8 @@ module.exports = function (grunt, config) {
                 'index.html',
                 'error.html',
                 'rsso-auth-error.html',
-                'bootstrap.js'
+                'bootstrap.js',
+                'view-loader.js'
             ],
             dest: '<%= bundle.target %>',
             options: {

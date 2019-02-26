@@ -4,17 +4,18 @@
         "version": "0.0.1",
         "src": "./src/main/webapp",
         "target": "./target/web-build/webapp",
+        "coverage": "./target/coverage",
         "resources": [
             "./",
-			"$RX_SDK_HOME/standardlib"
+            "$RX_SDK_HOME/standardlib"
         ],
         "options": {
             "livereload-port": 39005,
             "skip-tests": true,
             "skip-validation": true,
-            "api-host": "developerxxxx.innovate.bmc.com",
-            "api-port": 443,
-			"api-https": true,
+            "api-host": "localhost",
+            "api-port": 8008,
+            "api-https": false,
             "host": "localhost",
             "port": 9005
         },
@@ -26,7 +27,7 @@
 
             "app": {
                 "scripts": [
-					"lib/rzslider-5.8.7/rzslider.min",
+                    "lib/rzslider-5.8.7/rzslider.min",
                     "scripts/**/*.global",
                     "scripts/**/*.module",
                     "scripts/**/*.config",
@@ -54,7 +55,7 @@
 
             "ext": {
                 "scripts": [
-					"lib/rzslider-5.8.7/rzslider.min",
+                    "lib/rzslider-5.8.7/rzslider.min",
                     "scripts/actions/**/*.global",
                     "scripts/actions/**/*.module",
                     "scripts/actions/**/*.config",

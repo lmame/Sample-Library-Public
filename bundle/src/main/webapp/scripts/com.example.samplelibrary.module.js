@@ -35,6 +35,7 @@
         'com.example.samplelibrary.view-components.custom-grid',                     // Shows how to use BMC grid object and inject a custom datapagequery as datasource.
         'com.example.samplelibrary.view-components.admin-settings',                  // Shows how to access "Shared Settings" defined in your bundle.
         // APIs examples
-        'com.example.samplelibrary.view-components.api-rxnotificationmessage'      // Some tips and tricks about notification
+        'com.example.samplelibrary.view-components.api-rxnotificationmessage',      // Some tips and tricks about notification
+        'com.example.samplelibrary.view-components.iframe'                          // Displaying a web page inside an iFrame
     ]);
 })();

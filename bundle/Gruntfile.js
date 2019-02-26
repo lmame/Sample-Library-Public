@@ -54,7 +54,11 @@ module.exports = function (grunt) {
 
     grunt.registerTask('tests-wrapper', function () {
         if (!grunt.option('skip-tests')) {
-            grunt.task.run('karma');
+            grunt.task.run([
+                'karma',
+                'clean:coverage',
+                'rxCoverage'
+            ]);
         } else {
             grunt.log.warn('Skipping tests'.toUpperCase());
         }

@@ -1,9 +1,6 @@
 @import "<%= standardlibTarget %>/resources/sass/partials/core/variables";
 @import "variables";
 
-@import "partials/base";
-@import "partials/viewport";
-
 /* Importing Rzslider css file, used for sliders
 https://github.com/angular-slider/angularjs-slider
  */
@@ -26,3 +23,4 @@ https://github.com/angular-slider/angularjs-slider
 @import "partials/download-file";
 @import "partials/admin-settings";
 @import "partials/api-rxnotificationmessage";
+@import "partials/iframe";

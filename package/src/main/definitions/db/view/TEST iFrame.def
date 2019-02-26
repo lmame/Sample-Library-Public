@@ -1,35 +1,37 @@
 begin view definition
-   name           : com.example.samplelibrary:View to test a view component
+   name           : com.example.samplelibrary:TEST iFrame
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1551173493032,
-   definition     :   "lastChangedBy" : "ARSERVER",
-   definition     :   "owner" : "ARSERVER",
-   definition     :   "name" : "com.example.samplelibrary:View to test a view component",
+   definition     :   "lastUpdateTime" : 1551173539453,
+   definition     :   "lastChangedBy" : "developer",
+   definition     :   "owner" : "developer",
+   definition     :   "name" : "com.example.samplelibrary:TEST iFrame",
    definition     :   "tags" : null,
-   definition     :   "description" : null,
+   definition     :   "description" : "",
    definition     :   "overlayGroupId" : "1",
    definition     :   "developerId" : "com.example",
    definition     :   "scope" : "BUNDLE",
-   definition     :   "guid" : "0288bf8b-91c8-4788-a2d1-60740638168f",
-   definition     :   "layout" : "{\"layoutTemplate\":5,\"columns\":[{\"role\":\"content\",\"children\":[{\"componentDefinitionId\":\"5b629814-4b52-4a23-8ecb-31ca09f25ef2\"},{\"componentDefinitionId\":\"4a224850-712d-4cd8-a5d2-2845bd7a7d9e\"}]}],\"componentDefinitionId\":\"0288bf8b-91c8-4788-a2d1-60740638168f\"}",
+   definition     :   "guid" : "683ae0f5-a34f-44a2-8629-4ed0818f583e",
+   definition     :   "layout" : "{\"layoutTemplate\":5,\"columns\":[{\"role\":\"content\",\"children\":[{\"componentDefinitionId\":\"429c47da-a17d-4111-bd09-f73ba3783dba\"},{\"componentDefinitionId\":\"5742355c-498d-4383-8dfb-5e199201efaa\",\"columns\":[{\"children\":[]}]}]}],\"componentDefinitionId\":\"683ae0f5-a34f-44a2-8629-4ed0818f583e\"}",
    definition     :   "inputParams" : [ ],
    definition     :   "outputParams" : [ ],
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : "1.0-SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1551173493032,
-   definition     :     "lastChangedBy" : "ARSERVER",
-   definition     :     "owner" : "ARSERVER",
-   definition     :     "name" : "4a224850-712d-4cd8-a5d2-2845bd7a7d9e",
+   definition     :     "lastUpdateTime" : 1551173539453,
+   definition     :     "lastChangedBy" : "developer",
+   definition     :     "owner" : "developer",
+   definition     :     "name" : "429c47da-a17d-4111-bd09-f73ba3783dba",
    definition     :     "tags" : null,
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : "1",
    definition     :     "developerId" : "com.example",
-   definition     :     "guid" : "4a224850-712d-4cd8-a5d2-2845bd7a7d9e",
-   definition     :     "type" : "com-example-samplelibrary-test-vc",
+   definition     :     "guid" : "429c47da-a17d-4111-bd09-f73ba3783dba",
+   definition     :     "type" : "rx-rich-text",
    definition     :     "propertiesByName" : {
-   definition     :       "inputParameter" : "test value"
+   definition     :       "html" : "095750ef-1a0f-4891-8959-2c2631365fd8",
+   definition     :       "styles" : null,
+   definition     :       "hidden" : "0"
    definition     :     },
    definition     :     "permissions" : [ {
    definition     :       "ownerId" : {
@@ -42,21 +44,22 @@ begin view definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ContainerViewComponentDefinition",
    definition     :     "version" : "1.0-SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1551173493032,
-   definition     :     "lastChangedBy" : "ARSERVER",
-   definition     :     "owner" : "ARSERVER",
-   definition     :     "name" : "5b629814-4b52-4a23-8ecb-31ca09f25ef2",
+   definition     :     "lastUpdateTime" : 1551173539453,
+   definition     :     "lastChangedBy" : "developer",
+   definition     :     "owner" : "developer",
+   definition     :     "name" : "5742355c-498d-4383-8dfb-5e199201efaa",
    definition     :     "tags" : null,
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : "1",
    definition     :     "developerId" : "com.example",
-   definition     :     "guid" : "5b629814-4b52-4a23-8ecb-31ca09f25ef2",
-   definition     :     "type" : "rx-record-editor",
+   definition     :     "guid" : "5742355c-498d-4383-8dfb-5e199201efaa",
+   definition     :     "type" : "rx-container",
    definition     :     "propertiesByName" : {
-   definition     :       "recordInstanceId" : null,
-   definition     :       "mode" : "CREATE",
    definition     :       "autoFill" : "false",
-   definition     :       "recordDefinitionName" : "IDGIXIUWC3XSKAOTID43OS1XT8ON2D"
+   definition     :       "styles" : "",
+   definition     :       "rowWrap" : "sm",
+   definition     :       "columnCount" : "2",
+   definition     :       "hidden" : "0"
    definition     :     },
    definition     :     "permissions" : [ {
    definition     :       "ownerId" : {
@@ -66,29 +69,22 @@ begin view definition
    definition     :       },
    definition     :       "type" : "VISIBLE"
    definition     :     } ],
-   definition     :     "layout" : "{\"componentDefinitionId\":\"d236314e-d221-4595-a8f4-1c13b280cb16\",\"columns\":[{\"children\":[{\"componentDefinitionId\":\"fc217130-978f-4e68-8e7b-96dacc48af85\"}]}]}",
+   definition     :     "layout" : "{\"componentDefinitionId\":\"97fcd411-405e-43c3-a0dc-795a1f305919\",\"columns\":[{\"children\":[{\"componentDefinitionId\":\"044b7201-c7a0-4475-9836-a39c836b3c6d\"}],\"span\":8},{\"children\":[],\"span\":4}]}",
    definition     :     "componentDefinitions" : [ {
    definition     :       "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :       "version" : "1.0-SNAPSHOT",
-   definition     :       "lastUpdateTime" : 1551173493032,
-   definition     :       "lastChangedBy" : "ARSERVER",
-   definition     :       "owner" : "ARSERVER",
-   definition     :       "name" : "fc217130-978f-4e68-8e7b-96dacc48af85",
+   definition     :       "lastUpdateTime" : 1551173539453,
+   definition     :       "lastChangedBy" : "developer",
+   definition     :       "owner" : "developer",
+   definition     :       "name" : "044b7201-c7a0-4475-9836-a39c836b3c6d",
    definition     :       "tags" : null,
    definition     :       "description" : null,
    definition     :       "overlayGroupId" : "1",
    definition     :       "developerId" : "com.example",
-   definition     :       "guid" : "fc217130-978f-4e68-8e7b-96dacc48af85",
-   definition     :       "type" : "rx-character-field",
+   definition     :       "guid" : "044b7201-c7a0-4475-9836-a39c836b3c6d",
+   definition     :       "type" : "com-example-samplelibrary-iframe",
    definition     :       "propertiesByName" : {
-   definition     :         "recordDefinition" : "${view.components.5b629814-4b52-4a23-8ecb-31ca09f25ef2.recordDefinition}",
-   definition     :         "recordInstance" : "${view.components.5b629814-4b52-4a23-8ecb-31ca09f25ef2.recordInstance}",
-   definition     :         "hidden" : "0",
-   definition     :         "disabled" : "1",
-   definition     :         "enableMultiSelection" : "false",
-   definition     :         "label" : "6c350cb9-635a-4335-9fb3-e90aa96bd34f",
-   definition     :         "value" : "${view.components.4a224850-712d-4cd8-a5d2-2845bd7a7d9e.outputParameter}",
-   definition     :         "fieldId" : "8"
+   definition     :         "url" : "\"https://tssca-tsps.ss.sw.ericsson.se/#/monitoring/services/8/8+OI-99AAD364C92111E79BD03863BB3DF958\""
    definition     :       },
    definition     :       "permissions" : [ {
    definition     :         "ownerId" : {

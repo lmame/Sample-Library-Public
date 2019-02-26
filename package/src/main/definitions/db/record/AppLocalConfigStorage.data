@@ -1,6 +1,6 @@
 begin schema data
    name           : AppLocalConfigStorage
-   data-mapping   : <?xml version="1.0" encoding="UTF-8"?><arDocMapping xmlns="urn:remedy:schemas:ars" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+   data-mapping   : <?xml version="1.0" encoding="utf-8"?><arDocMapping xmlns="urn:remedy:schemas:ars" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
    data-mapping   :     <element name="entryList">        <formMapping>            <form foreignKeyId="1" formName="AppLocalConfigStorage" mapType="embedded" primaryKeyId
    data-mapping   : ="1"/>            <element name="entryItem">                <element dataType="string" name="f1_Request_ID">                    <fieldMapping arField
    data-mapping   : Id="1"/>                </element>                <element dataType="string" name="f2_Submitter">                    <fieldMapping arFieldId="2"/>  
@@ -30,64 +30,70 @@ begin schema data
    data-mapping   : pe="string" name="f60_8__ParentAssigneeGroup">                    <fieldMapping arFieldId="60989"/>                </element>                <element
    data-mapping   :  dataType="string" name="f61001_Application">                    <fieldMapping arFieldId="61001"/>                </element>            </element>  
    data-mapping   :       </formMapping>    </element></arDocMapping>
-   data           : <?xml version="1.0" encoding="UTF-8"?><entryList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">   
+   data           : <?xml version="1.0" encoding="utf-8"?><entryList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">   
    data           :  <entryItem>        <f1_Request_ID>000000000010601</f1_Request_ID>        <f2_Submitter>ARSERVER</f2_Submitter>        <f3_Create_Date>2018-08-10T07:
-   data           : 17:14+00:00</f3_Create_Date>        <f4_Assigned_To/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-10T
-   data           : 07:17:32+00:00</f6_Modified_Date>        <f7_Status>New</f7_Status>        <f8_Short_Description>fileName</f8_Short_Description>        <f15_Status_H
-   data           : istory/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group>'ARSERVER';</f112_Assignee_Group>        <
-   data           : f17__SettingGUID>AGGADG1AANVNMAP3GCG3P2JH0E8S9K</f17__SettingGUID>        <f37__Record_ID>AGGADG1AANVNMAP3GCG3P2JH0E8S9K</f37__Record_ID>        <f320
-   data           : 0_Component_Name>Logger Configuration</f3200_Component_Name>        <f3204_Setting_Name>fileName</f3204_Setting_Name>        <f3205_Setting_Value>com.
-   data           : example.samplelibrary.log</f3205_Setting_Value>        <f3206_Secure_Data/>        <f3257_ParentComponentName/>        <f3267_OwnerKeyValue1>AGGADG1A
-   data           : ANVNMAP3GCG3P2JH0E8S9K</f3267_OwnerKeyValue1>        <f3268_OwnerKeyValue2/>        <f326__OwnerKeyValue3/>        <f3270_FileName/>        <f3272_F
-   data           : ileType/>        <f60005_Shared_Settings_Write>'ARSERVER';</f60005_Shared_Settings_Write>        <f60006_Shared_Settings_Read>'ARSERVER';</f60006_Shar
-   data           : ed_Settings_Read>        <f60_8__ParentAssigneeGroup/>        <f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem>    
-   data           : <entryItem>        <f1_Request_ID>000000000010602</f1_Request_ID>        <f2_Submitter>ARSERVER</f2_Submitter>        <f3_Create_Date>2018-08-10T07:1
-   data           : 7:14+00:00</f3_Create_Date>        <f4_Assigned_To/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-10T0
-   data           : 7:17:14+00:00</f6_Modified_Date>        <f7_Status>New</f7_Status>        <f8_Short_Description>level</f8_Short_Description>        <f15_Status_Histo
-   data           : ry/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group>'ARSERVER';</f112_Assignee_Group>        <f17_
-   data           : _SettingGUID>AGGADG1AANVNMAP3GCG3P2JH0E8S9L</f17__SettingGUID>        <f37__Record_ID>AGGADG1AANVNMAP3GCG3P2JH0E8S9L</f37__Record_ID>        <f3200_Co
-   data           : mponent_Name>Logger Configuration</f3200_Component_Name>        <f3204_Setting_Name>level</f3204_Setting_Name>        <f3205_Setting_Value>5</f3205_Se
-   data           : tting_Value>        <f3206_Secure_Data/>        <f3257_ParentComponentName/>        <f3267_OwnerKeyValue1>AGGADG1AANVNMAP3GCG3P2JH0E8S9K</f3267_Owner
-   data           : KeyValue1>        <f3268_OwnerKeyValue2/>        <f326__OwnerKeyValue3/>        <f3270_FileName/>        <f3272_FileType/>        <f60005_Shared_Se
-   data           : ttings_Write>'ARSERVER';</f60005_Shared_Settings_Write>        <f60006_Shared_Settings_Read>'ARSERVER';</f60006_Shared_Settings_Read>        <f60_8__P
-   data           : arentAssigneeGroup/>        <f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem>    <entryItem>        <f1_Request_ID>
-   data           : 000000000010603</f1_Request_ID>        <f2_Submitter>ARSERVER</f2_Submitter>        <f3_Create_Date>2018-08-10T07:17:14+00:00</f3_Create_Date>       
-   data           :  <f4_Assigned_To/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-10T07:17:32+00:00</f6_Modified_Date>  
-   data           :       <f7_Status>New</f7_Status>        <f8_Short_Description>fileName</f8_Short_Description>        <f15_Status_History/>        <f16_Notifier_Liste
-   data           : ning>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group>0;'ARSERVER';</f112_Assignee_Group>        <f17__SettingGUID>AGGADG1AANVNNAPGL
-   data           : 9CWPFOWEOTXHW</f17__SettingGUID>        <f37__Record_ID>AGGADG1AANVNNAPGL9CWPFOWEOTXHW</f37__Record_ID>        <f3200_Component_Name>LogConfig</f3200_
-   data           : Component_Name>        <f3204_Setting_Name>fileName</f3204_Setting_Name>        <f3205_Setting_Value>com.example.samplelibrary.log</f3205_Setting_Valu
-   data           : e>        <f3206_Secure_Data/>        <f3257_ParentComponentName/>        <f3267_OwnerKeyValue1>AGGIXIUWC3XSKAOTIBSGOS1WH0ON1M</f3267_OwnerKeyValue1>
-   data           :         <f3268_OwnerKeyValue2/>        <f326__OwnerKeyValue3/>        <f3270_FileName/>        <f3272_FileType/>        <f60005_Shared_Settings_Wri
-   data           : te>'ARSERVER';</f60005_Shared_Settings_Write>        <f60006_Shared_Settings_Read>'ARSERVER';</f60006_Shared_Settings_Read>        <f60_8__ParentAssig
-   data           : neeGroup/>        <f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem>    <entryItem>        <f1_Request_ID>0000000000
-   data           : 10604</f1_Request_ID>        <f2_Submitter>ARSERVER</f2_Submitter>        <f3_Create_Date>2018-08-10T07:17:14+00:00</f3_Create_Date>        <f4_Assig
-   data           : ned_To/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-10T07:17:14+00:00</f6_Modified_Date>        <f7_
-   data           : Status>New</f7_Status>        <f8_Short_Description>level</f8_Short_Description>        <f15_Status_History/>        <f16_Notifier_Listening>Not List
-   data           : ening</f16_Notifier_Listening>        <f112_Assignee_Group>0;'ARSERVER';</f112_Assignee_Group>        <f17__SettingGUID>AGGADG1AANVNNAPGL9CWPFOWEOTXHX
-   data           : </f17__SettingGUID>        <f37__Record_ID>AGGADG1AANVNNAPGL9CWPFOWEOTXHX</f37__Record_ID>        <f3200_Component_Name>LogConfig</f3200_Component_Nam
-   data           : e>        <f3204_Setting_Name>level</f3204_Setting_Name>        <f3205_Setting_Value>5</f3205_Setting_Value>        <f3206_Secure_Data/>        <f32
-   data           : 57_ParentComponentName/>        <f3267_OwnerKeyValue1>AGGIXIUWC3XSKAOTIBSGOS1WH0ON1M</f3267_OwnerKeyValue1>        <f3268_OwnerKeyValue2/>        <f3
-   data           : 26__OwnerKeyValue3/>        <f3270_FileName/>        <f3272_FileType/>        <f60005_Shared_Settings_Write>'ARSERVER';</f60005_Shared_Settings_Write
-   data           : >        <f60006_Shared_Settings_Read>'ARSERVER';</f60006_Shared_Settings_Read>        <f60_8__ParentAssigneeGroup/>        <f61001_Application>com.e
-   data           : xample.samplelibrary</f61001_Application>    </entryItem>    <entryItem>        <f1_Request_ID>000000000010610</f1_Request_ID>        <f2_Submitter>
-   data           : developer</f2_Submitter>        <f3_Create_Date>2018-08-13T23:26:05+00:00</f3_Create_Date>        <f4_Assigned_To/>        <f5_Last_Modified_By>devel
-   data           : oper</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-14T02:00:42+00:00</f6_Modified_Date>        <f7_Status>New</f7_Status>        <f8_Short_D
-   data           : escription>preferred Book</f8_Short_Description>        <f15_Status_History/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>  
-   data           :       <f112_Assignee_Group/>        <f17__SettingGUID>AGGADG1AANVNMAP35057P284VKB7C0</f17__SettingGUID>        <f37__Record_ID>AGGADG1AANVNMAP35057P28
-   data           : 4VKB7C0</f37__Record_ID>        <f3200_Component_Name>bookWorm</f3200_Component_Name>        <f3204_Setting_Name>preferred Book</f3204_Setting_Name> 
-   data           :        <f3205_Setting_Value>Dune is great</f3205_Setting_Value>        <f3206_Secure_Data/>        <f3257_ParentComponentName/>        <f3267_OwnerKe
-   data           : yValue1>AGGADG1AANVNMAP35057P284VKB7C0</f3267_OwnerKeyValue1>        <f3268_OwnerKeyValue2/>        <f326__OwnerKeyValue3/>        <f3270_FileName/>
-   data           :         <f3272_FileType/>        <f60005_Shared_Settings_Write/>        <f60006_Shared_Settings_Read/>        <f60_8__ParentAssigneeGroup/>        <
-   data           : f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem>    <entryItem>        <f1_Request_ID>000000000010611</f1_Request_ID
-   data           : >        <f2_Submitter>developer</f2_Submitter>        <f3_Create_Date>2018-08-13T23:26:05+00:00</f3_Create_Date>        <f4_Assigned_To/>        <f
-   data           : 5_Last_Modified_By>developer</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-14T02:00:42+00:00</f6_Modified_Date>        <f7_Status>New</f7_Sta
-   data           : tus>        <f8_Short_Description>preferred author</f8_Short_Description>        <f15_Status_History/>        <f16_Notifier_Listening>Not Listening</
-   data           : f16_Notifier_Listening>        <f112_Assignee_Group/>        <f17__SettingGUID>AGGADG1AANVNMAP35057P284VKB7C1</f17__SettingGUID>        <f37__Record_
-   data           : ID>AGGADG1AANVNMAP35057P284VKB7C1</f37__Record_ID>        <f3200_Component_Name>bookWorm</f3200_Component_Name>        <f3204_Setting_Name>preferred a
-   data           : uthor</f3204_Setting_Name>        <f3205_Setting_Value>Frank Herbert is great</f3205_Setting_Value>        <f3206_Secure_Data/>        <f3257_ParentC
-   data           : omponentName/>        <f3267_OwnerKeyValue1>AGGADG1AANVNMAP35057P284VKB7C0</f3267_OwnerKeyValue1>        <f3268_OwnerKeyValue2/>        <f326__OwnerK
-   data           : eyValue3/>        <f3270_FileName/>        <f3272_FileType/>        <f60005_Shared_Settings_Write/>        <f60006_Shared_Settings_Read/>        <f
-   data           : 60_8__ParentAssigneeGroup/>        <f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem></entryList>
+   data           : 17:14+00:00</f3_Create_Date>        <f4_Assigned_To xsi:nil="true"/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_D
+   data           : ate>2018-08-10T07:17:32+00:00</f6_Modified_Date>        <f7_Status>New</f7_Status>        <f8_Short_Description>fileName</f8_Short_Description>      
+   data           :   <f15_Status_History xsi:nil="true"/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group>'ARSERVER';</
+   data           : f112_Assignee_Group>        <f17__SettingGUID>AGGADG1AANVNMAP3GCG3P2JH0E8S9K</f17__SettingGUID>        <f37__Record_ID>AGGADG1AANVNMAP3GCG3P2JH0E8S9K<
+   data           : /f37__Record_ID>        <f3200_Component_Name>Logger Configuration</f3200_Component_Name>        <f3204_Setting_Name>fileName</f3204_Setting_Name>   
+   data           :      <f3205_Setting_Value>com.example.samplelibrary.log</f3205_Setting_Value>        <f3206_Secure_Data xsi:nil="true"/>        <f3257_ParentComponent
+   data           : Name xsi:nil="true"/>        <f3267_OwnerKeyValue1>AGGADG1AANVNMAP3GCG3P2JH0E8S9K</f3267_OwnerKeyValue1>        <f3268_OwnerKeyValue2 xsi:nil="true"/>
+   data           :         <f326__OwnerKeyValue3 xsi:nil="true"/>        <f3270_FileName xsi:nil="true"/>        <f3272_FileType xsi:nil="true"/>        <f60005_Shared
+   data           : _Settings_Write>'ARSERVER';</f60005_Shared_Settings_Write>        <f60006_Shared_Settings_Read>'ARSERVER';</f60006_Shared_Settings_Read>        <f60_8
+   data           : __ParentAssigneeGroup/>        <f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem>    <entryItem>        <f1_Request_
+   data           : ID>000000000010602</f1_Request_ID>        <f2_Submitter>ARSERVER</f2_Submitter>        <f3_Create_Date>2018-08-10T07:17:14+00:00</f3_Create_Date>    
+   data           :     <f4_Assigned_To xsi:nil="true"/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-10T07:17:14+00:00</f6
+   data           : _Modified_Date>        <f7_Status>New</f7_Status>        <f8_Short_Description>level</f8_Short_Description>        <f15_Status_History xsi:nil="true"
+   data           : />        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group>'ARSERVER';</f112_Assignee_Group>        <f17__S
+   data           : ettingGUID>AGGADG1AANVNMAP3GCG3P2JH0E8S9L</f17__SettingGUID>        <f37__Record_ID>AGGADG1AANVNMAP3GCG3P2JH0E8S9L</f37__Record_ID>        <f3200_Comp
+   data           : onent_Name>Logger Configuration</f3200_Component_Name>        <f3204_Setting_Name>level</f3204_Setting_Name>        <f3205_Setting_Value>5</f3205_Sett
+   data           : ing_Value>        <f3206_Secure_Data xsi:nil="true"/>        <f3257_ParentComponentName xsi:nil="true"/>        <f3267_OwnerKeyValue1>AGGADG1AANVNMAP
+   data           : 3GCG3P2JH0E8S9K</f3267_OwnerKeyValue1>        <f3268_OwnerKeyValue2 xsi:nil="true"/>        <f326__OwnerKeyValue3 xsi:nil="true"/>        <f3270_File
+   data           : Name xsi:nil="true"/>        <f3272_FileType xsi:nil="true"/>        <f60005_Shared_Settings_Write>'ARSERVER';</f60005_Shared_Settings_Write>        
+   data           : <f60006_Shared_Settings_Read>'ARSERVER';</f60006_Shared_Settings_Read>        <f60_8__ParentAssigneeGroup/>        <f61001_Application>com.example.sam
+   data           : plelibrary</f61001_Application>    </entryItem>    <entryItem>        <f1_Request_ID>000000000010603</f1_Request_ID>        <f2_Submitter>ARSERVER</
+   data           : f2_Submitter>        <f3_Create_Date>2018-08-10T07:17:14+00:00</f3_Create_Date>        <f4_Assigned_To xsi:nil="true"/>        <f5_Last_Modified_By>A
+   data           : RSERVER</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-10T07:17:32+00:00</f6_Modified_Date>        <f7_Status>New</f7_Status>        <f8_Shor
+   data           : t_Description>fileName</f8_Short_Description>        <f15_Status_History xsi:nil="true"/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_L
+   data           : istening>        <f112_Assignee_Group>0;'ARSERVER';</f112_Assignee_Group>        <f17__SettingGUID>AGGADG1AANVNNAPGL9CWPFOWEOTXHW</f17__SettingGUID> 
+   data           :        <f37__Record_ID>AGGADG1AANVNNAPGL9CWPFOWEOTXHW</f37__Record_ID>        <f3200_Component_Name>LogConfig</f3200_Component_Name>        <f3204_Set
+   data           : ting_Name>fileName</f3204_Setting_Name>        <f3205_Setting_Value>com.example.samplelibrary.log</f3205_Setting_Value>        <f3206_Secure_Data xsi:
+   data           : nil="true"/>        <f3257_ParentComponentName xsi:nil="true"/>        <f3267_OwnerKeyValue1>AGGIXIUWC3XSKAOTIBSGOS1WH0ON1M</f3267_OwnerKeyValue1>   
+   data           :      <f3268_OwnerKeyValue2 xsi:nil="true"/>        <f326__OwnerKeyValue3 xsi:nil="true"/>        <f3270_FileName xsi:nil="true"/>        <f3272_FileT
+   data           : ype xsi:nil="true"/>        <f60005_Shared_Settings_Write>'ARSERVER';</f60005_Shared_Settings_Write>        <f60006_Shared_Settings_Read>'ARSERVER';</
+   data           : f60006_Shared_Settings_Read>        <f60_8__ParentAssigneeGroup/>        <f61001_Application>com.example.samplelibrary</f61001_Application>    </entr
+   data           : yItem>    <entryItem>        <f1_Request_ID>000000000010604</f1_Request_ID>        <f2_Submitter>ARSERVER</f2_Submitter>        <f3_Create_Date>2018
+   data           : -08-10T07:17:14+00:00</f3_Create_Date>        <f4_Assigned_To xsi:nil="true"/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_
+   data           : Modified_Date>2018-08-10T07:17:14+00:00</f6_Modified_Date>        <f7_Status>New</f7_Status>        <f8_Short_Description>level</f8_Short_Description>
+   data           :         <f15_Status_History xsi:nil="true"/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group>0;'ARS
+   data           : ERVER';</f112_Assignee_Group>        <f17__SettingGUID>AGGADG1AANVNNAPGL9CWPFOWEOTXHX</f17__SettingGUID>        <f37__Record_ID>AGGADG1AANVNNAPGL9CWPF
+   data           : OWEOTXHX</f37__Record_ID>        <f3200_Component_Name>LogConfig</f3200_Component_Name>        <f3204_Setting_Name>level</f3204_Setting_Name>        
+   data           : <f3205_Setting_Value>5</f3205_Setting_Value>        <f3206_Secure_Data xsi:nil="true"/>        <f3257_ParentComponentName xsi:nil="true"/>        <f3
+   data           : 267_OwnerKeyValue1>AGGIXIUWC3XSKAOTIBSGOS1WH0ON1M</f3267_OwnerKeyValue1>        <f3268_OwnerKeyValue2 xsi:nil="true"/>        <f326__OwnerKeyValue3 xs
+   data           : i:nil="true"/>        <f3270_FileName xsi:nil="true"/>        <f3272_FileType xsi:nil="true"/>        <f60005_Shared_Settings_Write>'ARSERVER';</f600
+   data           : 05_Shared_Settings_Write>        <f60006_Shared_Settings_Read>'ARSERVER';</f60006_Shared_Settings_Read>        <f60_8__ParentAssigneeGroup/>        <
+   data           : f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem>    <entryItem>        <f1_Request_ID>000000000010610</f1_Request_ID
+   data           : >        <f2_Submitter>developer</f2_Submitter>        <f3_Create_Date>2018-08-13T23:26:05+00:00</f3_Create_Date>        <f4_Assigned_To xsi:nil="tru
+   data           : e"/>        <f5_Last_Modified_By>developer</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-14T02:00:42+00:00</f6_Modified_Date>        <f7_Sta
+   data           : tus>New</f7_Status>        <f8_Short_Description>preferred Book</f8_Short_Description>        <f15_Status_History xsi:nil="true"/>        <f16_Notifi
+   data           : er_Listening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group xsi:nil="true"/>        <f17__SettingGUID>AGGADG1AANVNMAP35057P284VKB7
+   data           : C0</f17__SettingGUID>        <f37__Record_ID>AGGADG1AANVNMAP35057P284VKB7C0</f37__Record_ID>        <f3200_Component_Name>bookWorm</f3200_Component_Na
+   data           : me>        <f3204_Setting_Name>preferred Book</f3204_Setting_Name>        <f3205_Setting_Value>Dune is great</f3205_Setting_Value>        <f3206_Secu
+   data           : re_Data xsi:nil="true"/>        <f3257_ParentComponentName xsi:nil="true"/>        <f3267_OwnerKeyValue1>AGGADG1AANVNMAP35057P284VKB7C0</f3267_OwnerKe
+   data           : yValue1>        <f3268_OwnerKeyValue2 xsi:nil="true"/>        <f326__OwnerKeyValue3 xsi:nil="true"/>        <f3270_FileName xsi:nil="true"/>        
+   data           : <f3272_FileType xsi:nil="true"/>        <f60005_Shared_Settings_Write xsi:nil="true"/>        <f60006_Shared_Settings_Read xsi:nil="true"/>        <f
+   data           : 60_8__ParentAssigneeGroup xsi:nil="true"/>        <f61001_Application>com.example.samplelibrary</f61001_Application>    </entryItem>    <entryItem> 
+   data           :        <f1_Request_ID>000000000010611</f1_Request_ID>        <f2_Submitter>developer</f2_Submitter>        <f3_Create_Date>2018-08-13T23:26:05+00:00</
+   data           : f3_Create_Date>        <f4_Assigned_To xsi:nil="true"/>        <f5_Last_Modified_By>developer</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-
+   data           : 14T02:00:42+00:00</f6_Modified_Date>        <f7_Status>New</f7_Status>        <f8_Short_Description>preferred author</f8_Short_Description>        <f
+   data           : 15_Status_History xsi:nil="true"/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group xsi:nil="true"/>
+   data           :         <f17__SettingGUID>AGGADG1AANVNMAP35057P284VKB7C1</f17__SettingGUID>        <f37__Record_ID>AGGADG1AANVNMAP35057P284VKB7C1</f37__Record_ID>    
+   data           :     <f3200_Component_Name>bookWorm</f3200_Component_Name>        <f3204_Setting_Name>preferred author</f3204_Setting_Name>        <f3205_Setting_Value
+   data           : >Frank Herbert is great</f3205_Setting_Value>        <f3206_Secure_Data xsi:nil="true"/>        <f3257_ParentComponentName xsi:nil="true"/>        <f
+   data           : 3267_OwnerKeyValue1>AGGADG1AANVNMAP35057P284VKB7C0</f3267_OwnerKeyValue1>        <f3268_OwnerKeyValue2 xsi:nil="true"/>        <f326__OwnerKeyValue3 x
+   data           : si:nil="true"/>        <f3270_FileName xsi:nil="true"/>        <f3272_FileType xsi:nil="true"/>        <f60005_Shared_Settings_Write xsi:nil="true"/>
+   data           :         <f60006_Shared_Settings_Read xsi:nil="true"/>        <f60_8__ParentAssigneeGroup xsi:nil="true"/>        <f61001_Application>com.example.samp
+   data           : lelibrary</f61001_Application>    </entryItem></entryList>
 end
 
