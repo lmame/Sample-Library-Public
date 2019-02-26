@@ -2,7 +2,7 @@ begin view definition
    name           : com.example.samplelibrary:TEST iFrame
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1551173539453,
+   definition     :   "lastUpdateTime" : 1551184109503,
    definition     :   "lastChangedBy" : "developer",
    definition     :   "owner" : "developer",
    definition     :   "name" : "com.example.samplelibrary:TEST iFrame",
@@ -17,8 +17,8 @@ begin view definition
    definition     :   "outputParams" : [ ],
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1551173539453,
+   definition     :     "version" : null,
+   definition     :     "lastUpdateTime" : 1551184109503,
    definition     :     "lastChangedBy" : "developer",
    definition     :     "owner" : "developer",
    definition     :     "name" : "429c47da-a17d-4111-bd09-f73ba3783dba",
@@ -43,8 +43,8 @@ begin view definition
    definition     :     } ]
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ContainerViewComponentDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1551173539453,
+   definition     :     "version" : null,
+   definition     :     "lastUpdateTime" : 1551184109503,
    definition     :     "lastChangedBy" : "developer",
    definition     :     "owner" : "developer",
    definition     :     "name" : "5742355c-498d-4383-8dfb-5e199201efaa",
@@ -72,8 +72,8 @@ begin view definition
    definition     :     "layout" : "{\"componentDefinitionId\":\"97fcd411-405e-43c3-a0dc-795a1f305919\",\"columns\":[{\"children\":[{\"componentDefinitionId\":\"044b7201-c7a0-4475-9836-a39c836b3c6d\"}],\"span\":8},{\"children\":[],\"span\":4}]}",
    definition     :     "componentDefinitions" : [ {
    definition     :       "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :       "version" : "1.0-SNAPSHOT",
-   definition     :       "lastUpdateTime" : 1551173539453,
+   definition     :       "version" : null,
+   definition     :       "lastUpdateTime" : 1551184109503,
    definition     :       "lastChangedBy" : "developer",
    definition     :       "owner" : "developer",
    definition     :       "name" : "044b7201-c7a0-4475-9836-a39c836b3c6d",
@@ -84,7 +84,7 @@ begin view definition
    definition     :       "guid" : "044b7201-c7a0-4475-9836-a39c836b3c6d",
    definition     :       "type" : "com-example-samplelibrary-iframe",
    definition     :       "propertiesByName" : {
-   definition     :         "url" : "\"https://tssca-tsps.ss.sw.ericsson.se/#/monitoring/services/8/8+OI-99AAD364C92111E79BD03863BB3DF958\""
+   definition     :         "url" : "\"https://developer5805.innovate.bmc.com/innovationsuite/index.html#/com.example.samplelibrary/view/com.example.samplelibrary:used%20in%20iFrame\""
    definition     :       },
    definition     :       "permissions" : [ {
    definition     :         "ownerId" : {

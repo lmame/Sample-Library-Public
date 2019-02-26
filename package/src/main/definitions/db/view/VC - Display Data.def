@@ -17,7 +17,7 @@ begin view definition
    definition     :   "outputParams" : [ ],
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "version" : null,
    definition     :     "lastUpdateTime" : 1551173492886,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
@@ -43,7 +43,7 @@ begin view definition
    definition     :     } ]
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "version" : null,
    definition     :     "lastUpdateTime" : 1551173492886,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",

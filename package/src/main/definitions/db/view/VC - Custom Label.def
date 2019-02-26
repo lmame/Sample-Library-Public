@@ -17,7 +17,7 @@ begin view definition
    definition     :   "outputParams" : [ ],
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "version" : null,
    definition     :     "lastUpdateTime" : 1551173493632,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
@@ -43,7 +43,7 @@ begin view definition
    definition     :     } ]
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "version" : null,
    definition     :     "lastUpdateTime" : 1551173493632,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
@@ -69,7 +69,7 @@ begin view definition
    definition     :     } ]
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ContainerViewComponentDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "version" : null,
    definition     :     "lastUpdateTime" : 1551173493632,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
@@ -97,7 +97,7 @@ begin view definition
    definition     :     "layout" : "{\"componentDefinitionId\":\"2763b1a8-a9bc-4f17-aba4-d3c26007347a\",\"columns\":[{\"children\":[{\"componentDefinitionId\":\"6a28c771-c184-49dd-877f-9c3cdd2a2157\"},{\"componentDefinitionId\":\"b5592940-a5da-4843-8ea9-d4df08f527ea\"}],\"span\":12}]}",
    definition     :     "componentDefinitions" : [ {
    definition     :       "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :       "version" : "1.0-SNAPSHOT",
+   definition     :       "version" : null,
    definition     :       "lastUpdateTime" : 1551173493632,
    definition     :       "lastChangedBy" : "ARSERVER",
    definition     :       "owner" : "ARSERVER",
@@ -123,7 +123,7 @@ begin view definition
    definition     :       } ]
    definition     :     }, {
    definition     :       "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :       "version" : "1.0-SNAPSHOT",
+   definition     :       "version" : null,
    definition     :       "lastUpdateTime" : 1551173493632,
    definition     :       "lastChangedBy" : "ARSERVER",
    definition     :       "owner" : "ARSERVER",
@@ -148,7 +148,7 @@ begin view definition
    definition     :     } ]
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ContainerViewComponentDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "version" : null,
    definition     :     "lastUpdateTime" : 1551173493632,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
@@ -176,7 +176,7 @@ begin view definition
    definition     :     "layout" : "{\"componentDefinitionId\":\"e0c0dbc3-cd46-4401-b8d2-f6bfef4a6f6d\",\"columns\":[{\"children\":[{\"componentDefinitionId\":\"07e446af-9e22-453e-9465-146878353756\"}],\"span\":6},{\"children\":[{\"componentDefinitionId\":\"bf5ff8e5-77b7-493f-bd96-2c8bf162ea5d\"}],\"span\":6}]}",
    definition     :     "componentDefinitions" : [ {
    definition     :       "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :       "version" : "1.0-SNAPSHOT",
+   definition     :       "version" : null,
    definition     :       "lastUpdateTime" : 1551173493632,
    definition     :       "lastChangedBy" : "ARSERVER",
    definition     :       "owner" : "ARSERVER",
@@ -200,7 +200,7 @@ begin view definition
    definition     :       } ]
    definition     :     }, {
    definition     :       "resourceType" : "com.bmc.arsys.rx.services.view.domain.ContainerViewComponentDefinition",
-   definition     :       "version" : "1.0-SNAPSHOT",
+   definition     :       "version" : null,
    definition     :       "lastUpdateTime" : 1551173493632,
    definition     :       "lastChangedBy" : "ARSERVER",
    definition     :       "owner" : "ARSERVER",
@@ -228,7 +228,7 @@ begin view definition
    definition     :       "layout" : "{\"componentDefinitionId\":\"6e74983f-63d2-4305-9b18-754e11e0e93b\",\"columns\":[{\"children\":[{\"componentDefinitionId\":\"fda21b6f-70a6-4e03-9bcd-29118f50d777\"}]}]}",
    definition     :       "componentDefinitions" : [ {
    definition     :         "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :         "version" : "1.0-SNAPSHOT",
+   definition     :         "version" : null,
    definition     :         "lastUpdateTime" : 1551173493632,
    definition     :         "lastChangedBy" : "ARSERVER",
    definition     :         "owner" : "ARSERVER",

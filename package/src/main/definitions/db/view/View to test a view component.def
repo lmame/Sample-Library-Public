@@ -17,7 +17,7 @@ begin view definition
    definition     :   "outputParams" : [ ],
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "version" : null,
    definition     :     "lastUpdateTime" : 1551173493032,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
@@ -41,7 +41,7 @@ begin view definition
    definition     :     } ]
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ContainerViewComponentDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "version" : null,
    definition     :     "lastUpdateTime" : 1551173493032,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
@@ -69,7 +69,7 @@ begin view definition
    definition     :     "layout" : "{\"componentDefinitionId\":\"d236314e-d221-4595-a8f4-1c13b280cb16\",\"columns\":[{\"children\":[{\"componentDefinitionId\":\"fc217130-978f-4e68-8e7b-96dacc48af85\"}]}]}",
    definition     :     "componentDefinitions" : [ {
    definition     :       "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :       "version" : "1.0-SNAPSHOT",
+   definition     :       "version" : null,
    definition     :       "lastUpdateTime" : 1551173493032,
    definition     :       "lastChangedBy" : "ARSERVER",
    definition     :       "owner" : "ARSERVER",

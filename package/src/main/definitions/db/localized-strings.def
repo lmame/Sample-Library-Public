@@ -3136,6 +3136,19 @@ begin localizable string
    string-text    : Not Listening
 end
 begin localizable string
+   name           : LSGADG1AANVNMAPN9J06PN9J063GVM
+   timestamp      : 1551184072
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 25260f7c-7bc1-4e91-be47-6974cb3cd167
+   owner-objects  : 17\a29101e9-107c-4daa-be6d-d417df4a4348
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p style="text-align: center;">&nbsp;</p><p style="text-align: center;">I am in an iFrame :)</p>
+end
+begin localizable string
    name           : LSGADG1AANVNMAP3IACPP3IACPK9QE
    timestamp      : 1551173494
    owner          : developer

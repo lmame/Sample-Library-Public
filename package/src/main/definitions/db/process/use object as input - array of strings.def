@@ -98,7 +98,7 @@ begin process definition
    definition     :   } ],
    definition     :   "inputParams" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.record.ObjectFieldDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "version" : null,
    definition     :     "lastUpdateTime" : 1551173492292,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
@@ -123,7 +123,7 @@ begin process definition
    definition     :   } ],
    definition     :   "outputParams" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "version" : null,
    definition     :     "lastUpdateTime" : 1551173492292,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
@@ -154,7 +154,7 @@ begin process definition
    definition     :   } ],
    definition     :   "localVariables" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
+   definition     :     "version" : null,
    definition     :     "lastUpdateTime" : 1551173492292,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
