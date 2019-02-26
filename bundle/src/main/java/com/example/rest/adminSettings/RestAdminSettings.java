@@ -1,7 +1,7 @@
 /**
  * This is a simple rest Api that returns Admin Settings set in your bundle.
  */
-package com.example.rest;
+package com.example.rest.adminSettings;
 
 import com.bmc.arsys.rx.application.common.ServiceLocator;
 import com.bmc.arsys.rx.services.admin.domain.AdminHeader;

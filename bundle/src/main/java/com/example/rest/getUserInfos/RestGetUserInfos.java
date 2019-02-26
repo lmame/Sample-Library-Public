@@ -5,7 +5,7 @@
  * https://communities.bmc.com/thread/181717
  */
 
-package com.example.rest;
+package com.example.rest.getUserInfos;
 
 import com.bmc.arsys.rx.services.common.RestfulResource;
 import com.bmc.arsys.rx.services.common.annotation.AccessControlledMethod;

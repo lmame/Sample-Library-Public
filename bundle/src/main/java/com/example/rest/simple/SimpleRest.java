@@ -2,7 +2,7 @@
  * Simple Custom Rest API
  */
 
-package com.example.rest;
+package com.example.rest.simple;
 
 import com.bmc.arsys.rx.services.common.RestfulResource;
 import com.bmc.arsys.rx.services.common.annotation.AccessControlledMethod;

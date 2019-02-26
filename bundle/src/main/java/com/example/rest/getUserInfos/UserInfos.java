@@ -1,4 +1,4 @@
-package com.example.rest;
+package com.example.rest.getUserInfos;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

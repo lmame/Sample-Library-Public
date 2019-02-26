@@ -1,7 +1,7 @@
 /*
  * This class generates a Service (Activity) which can be used in a Process or a Rule.
  */
-package com.example.service;
+package com.example.service.simple;
 
 import javax.validation.constraints.NotNull;
 
@@ -10,7 +10,7 @@ import org.hibernate.validator.constraints.NotBlank;
 import com.bmc.arsys.rx.services.action.domain.Action;
 import com.bmc.arsys.rx.services.action.domain.ActionParameter;
 import com.bmc.arsys.rx.services.common.Service;
-import com.example.rest.TestMe;
+import com.example.rest.simple.TestMe;
 
 /*
  * You need to create a class that implements the BMC Service.

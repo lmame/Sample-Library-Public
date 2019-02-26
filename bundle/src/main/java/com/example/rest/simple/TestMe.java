@@ -2,7 +2,7 @@
 Simple Class that will be returned during our tests.
  */
 
-package com.example.rest;
+package com.example.rest.simple;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

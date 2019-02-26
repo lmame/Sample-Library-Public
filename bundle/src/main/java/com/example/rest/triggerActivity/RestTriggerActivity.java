@@ -9,7 +9,7 @@
  * Another potential pro of this method is that you could return a Map<String, Object> in your code.
  */
 
-package com.example.rest;
+package com.example.rest.triggerActivity;
 
 import com.bmc.arsys.rx.application.common.ServiceLocator;
 import com.bmc.arsys.rx.services.action.ActionService;

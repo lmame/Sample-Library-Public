@@ -8,7 +8,7 @@
  * https://communities.bmc.com/message/778045#778045
  */
 
-package com.example.rest;
+package com.example.rest.ticket;
 
 import com.bmc.arsys.rx.services.common.RestfulResource;
 import com.bmc.arsys.rx.services.common.annotation.AccessControlledMethod;
