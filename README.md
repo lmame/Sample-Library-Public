@@ -1,6 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
+* 1.3, 2019/04/17, Adding one example around rxUserPreferences (user-preference view component).
 * 1.2, 2019/02/26, Converting the project to 19.2.0. This project uses now the new SDK archetype structure as well and openJDK 11, please check the SDK upgrade instructions (https://docs.bmc.com/docs/helixplatform/upgrading-bmc-helix-platform-sdk-to-19-2-0-851083022.html?src=search) and development environment upgrade (https://docs.bmc.com/docs/helixplatform/setting-up-your-ide-and-installing-bmc-helix-platform-sdk-851871275.html?src=search).
 * 1.1, 2018/12/22, Converting the project to 18-11.1. This project uses now the new SDK archetype structure as well as new nodeJS / Yarn versions (https://docs.bmc.com/docs/display/innovationsuite/Upgrading+BMC+Helix+Innovation+Suite+SDK+to+18.11.01:+Patch+01). It also fixes a problem using grunt and latest BMC SSL certificate. If you cannot export or deploy your application / library due to this error "PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target" please check this thread (https://communities.bmc.com/message/801070#801070).
 * 1.0, 2018/11/10, Converting the project to 18-8.1. WARNING! You still need nodeJs 6.11.2 and Yarn 0.27.5. Instructions on BMC Documentation are not totally correct for now so keep those versions to build this example for now...
@@ -47,6 +48,7 @@ Javascript View Components:
 * Trigger specific process activity through Java / Javascript
 * Use BMC grid rx-record-grid object  to display custom data (datapagequery), also shows how to query data from backend,
 * Create Admin Settings for your application and get the values in Java and Javascript,
+* Getting and saving user preferences,
 
 
 Javascript Actions:
