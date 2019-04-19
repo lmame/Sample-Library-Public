@@ -2,7 +2,7 @@ begin view definition
    name           : com.example.samplelibrary:VC - Get Administration Configuration
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1555533368058,
+   definition     :   "lastUpdateTime" : 1555533558814,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:VC - Get Administration Configuration",
@@ -18,7 +18,7 @@ begin view definition
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1555533368058,
+   definition     :     "lastUpdateTime" : 1555533558814,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "5962f92c-a1fc-4e8b-bc28-1244e5f01053",
@@ -40,7 +40,7 @@ begin view definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1555533368058,
+   definition     :     "lastUpdateTime" : 1555533558814,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "93e8ac4e-f73e-4597-acfb-22793adb29ee",

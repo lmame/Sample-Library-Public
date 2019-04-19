@@ -1,6 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
+* 1.4, 2019/04/18, Adding one example that shows how to use "Documents" in a process.
 * 1.3, 2019/04/17, Adding one example around rxUserPreferences (user-preference view component).
 * 1.2, 2019/02/26, Converting the project to 19.2.0. This project uses now the new SDK archetype structure as well and openJDK 11, please check the SDK upgrade instructions (https://docs.bmc.com/docs/helixplatform/upgrading-bmc-helix-platform-sdk-to-19-2-0-851083022.html?src=search) and development environment upgrade (https://docs.bmc.com/docs/helixplatform/setting-up-your-ide-and-installing-bmc-helix-platform-sdk-851871275.html?src=search).
 * 1.1, 2018/12/22, Converting the project to 18-11.1. This project uses now the new SDK archetype structure as well as new nodeJS / Yarn versions (https://docs.bmc.com/docs/display/innovationsuite/Upgrading+BMC+Helix+Innovation+Suite+SDK+to+18.11.01:+Patch+01). It also fixes a problem using grunt and latest BMC SSL certificate. If you cannot export or deploy your application / library due to this error "PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target" please check this thread (https://communities.bmc.com/message/801070#801070).
@@ -71,7 +72,8 @@ Java Commands:
 
 
 Tips & tricks
-* How to pass custom objects in a process and access its properties (list of strings, object, list of objects)
+* How to pass custom objects in a process and access its properties (list of strings, object, list of objects) (see next example that complents this one),
+* How to pass custom objects in a process and access its properties (list of strings, object, list of objects) and using Documents to access an Object attribute rather than using the object "path",
 
 
 Apis description:
