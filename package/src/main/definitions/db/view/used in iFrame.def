@@ -2,7 +2,7 @@ begin view definition
    name           : com.example.samplelibrary:used in iFrame
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1556234866493,
+   definition     :   "lastUpdateTime" : 1556235050820,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:used in iFrame",
@@ -18,7 +18,7 @@ begin view definition
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556234866493,
+   definition     :     "lastUpdateTime" : 1556235050820,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "a29101e9-107c-4daa-be6d-d417df4a4348",
