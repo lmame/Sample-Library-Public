@@ -37,6 +37,7 @@
         // APIs examples
         'com.example.samplelibrary.view-components.api-rxnotificationmessage',      // Some tips and tricks about notification
         'com.example.samplelibrary.view-components.iframe',                          // Displaying a web page inside an iFrame
-        'com.example.samplelibrary.view-components.user-preference'                 // Testing user preferences apis
+        'com.example.samplelibrary.view-components.user-preference',                 // Testing user preferences apis
+        'com.example.samplelibrary.view-components.google-map'                      // Google Maps
     ]);
 })();

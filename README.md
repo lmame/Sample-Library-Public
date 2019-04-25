@@ -1,6 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
+* 1.5, 2019/04/25, Adding one example that shows how to use Google Maps and Google Geolocator apis (you will need a Google Maps api key).
 * 1.4, 2019/04/18, Adding one example that shows how to use "Documents" in a process.
 * 1.3, 2019/04/17, Adding one example around rxUserPreferences (user-preference view component).
 * 1.2, 2019/02/26, Converting the project to 19.2.0. This project uses now the new SDK archetype structure as well and openJDK 11, please check the SDK upgrade instructions (https://docs.bmc.com/docs/helixplatform/upgrading-bmc-helix-platform-sdk-to-19-2-0-851083022.html?src=search) and development environment upgrade (https://docs.bmc.com/docs/helixplatform/setting-up-your-ide-and-installing-bmc-helix-platform-sdk-851871275.html?src=search).
@@ -50,6 +51,7 @@ Javascript View Components:
 * Use BMC grid rx-record-grid object  to display custom data (datapagequery), also shows how to query data from backend,
 * Create Admin Settings for your application and get the values in Java and Javascript,
 * Getting and saving user preferences,
+* Using Google Maps and Google Geolocator apis (you will need a Google Maps api key),
 
 
 Javascript Actions:
