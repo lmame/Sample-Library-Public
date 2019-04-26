@@ -3,7 +3,7 @@ begin record definition
    definition     : {
    definition     :   "resourceType" : "com.bmc.arsys.rx.services.record.domain.RegularRecordDefinition",
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1556235049461,
+   definition     :   "lastUpdateTime" : 1556319884348,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "developer",
    definition     :   "name" : "com.example.samplelibrary:Dvd",
@@ -16,7 +16,7 @@ begin record definition
    definition     :   "fieldDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Display ID",
@@ -88,7 +88,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Created By",
@@ -146,7 +146,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.DateTimeFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Created Date",
@@ -198,7 +198,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Assignee",
@@ -242,7 +242,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Modified By",
@@ -286,7 +286,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.DateTimeFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Modified Date",
@@ -324,7 +324,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.SelectionFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Status",
@@ -391,7 +391,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Description",
@@ -449,7 +449,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.SelectionFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Notifier Listening",
@@ -510,7 +510,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "GUID",
@@ -554,7 +554,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "ID",
@@ -598,7 +598,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Movie Title",
@@ -628,7 +628,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Price",
@@ -658,7 +658,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.DateTimeFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Last Stock Check",
@@ -682,7 +682,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "release Date",
@@ -712,7 +712,7 @@ begin record definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.AttachmentFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049410,
+   definition     :     "lastUpdateTime" : 1556319884298,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "picture",

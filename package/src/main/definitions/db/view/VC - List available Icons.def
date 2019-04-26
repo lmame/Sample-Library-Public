@@ -2,7 +2,7 @@ begin view definition
    name           : com.example.samplelibrary:VC - List available Icons
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1556235051391,
+   definition     :   "lastUpdateTime" : 1556319886274,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:VC - List available Icons",
@@ -18,7 +18,7 @@ begin view definition
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235051391,
+   definition     :     "lastUpdateTime" : 1556319886274,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "1252092c-c85a-436b-a4d5-6abc99877abc",
@@ -40,7 +40,7 @@ begin view definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235051391,
+   definition     :     "lastUpdateTime" : 1556319886274,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "feedb5e9-9d77-4a53-ba2d-7b08a5bd4545",

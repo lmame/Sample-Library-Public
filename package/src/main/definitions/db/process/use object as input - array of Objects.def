@@ -2,7 +2,7 @@ begin process definition
    name           : com.example.samplelibrary:use object as input - array of Objects
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1556235049786,
+   definition     :   "lastUpdateTime" : 1556319884671,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "developer",
    definition     :   "name" : "com.example.samplelibrary:use object as input - array of Objects",
@@ -15,7 +15,7 @@ begin process definition
    definition     :   "flowElements" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.EndEventDefinition",
    definition     :     "version" : "1.0-SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1556235049786,
+   definition     :     "lastUpdateTime" : 1556319884671,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "End",
@@ -28,7 +28,7 @@ begin process definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.ServiceTaskDefinition",
    definition     :     "version" : "1.0-SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1556235049786,
+   definition     :     "lastUpdateTime" : 1556319884671,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Creating a list of movies with their information from movieList",
@@ -56,7 +56,7 @@ begin process definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
    definition     :     "version" : "1.0-SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1556235049786,
+   definition     :     "lastUpdateTime" : 1556319884671,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Sequence Flow",
@@ -71,7 +71,7 @@ begin process definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
    definition     :     "version" : "1.0-SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1556235049786,
+   definition     :     "lastUpdateTime" : 1556319884671,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Sequence Flow",
@@ -86,7 +86,7 @@ begin process definition
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.StartEventDefinition",
    definition     :     "version" : "1.0-SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1556235049786,
+   definition     :     "lastUpdateTime" : 1556319884671,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Start",
@@ -99,7 +99,7 @@ begin process definition
    definition     :   "inputParams" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.record.ObjectFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049786,
+   definition     :     "lastUpdateTime" : 1556319884671,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "movieList",
@@ -124,7 +124,7 @@ begin process definition
    definition     :   "outputParams" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049786,
+   definition     :     "lastUpdateTime" : 1556319884671,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "movieListAsString",
@@ -155,7 +155,7 @@ begin process definition
    definition     :   "localVariables" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.record.ObjectFieldDefinition",
    definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556235049786,
+   definition     :     "lastUpdateTime" : 1556319884671,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "movieObject",
