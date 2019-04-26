@@ -1,7 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
-* 1.6, 2019/04/26, Adding an example, calling a Process from Javascript and getting the process definition..
+* 1.6, 2019/04/26, Adding an example, calling a Process from Javascript and getting the process definition.
 * 1.5, 2019/04/25, Adding one example that shows how to use Google Maps and Google Geolocator apis (you will need a Google Maps api key).
 * 1.4, 2019/04/18, Adding one example that shows how to use "Documents" in a process.
 * 1.3, 2019/04/17, Adding one example around rxUserPreferences (user-preference view component).
