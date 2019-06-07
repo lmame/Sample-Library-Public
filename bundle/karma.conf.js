@@ -33,7 +33,7 @@ module.exports = function (karmaConfig) {
             });
         })))
         .concat([
-            '<%= standardlibTarget %>/lib/angular-1.7.3/angular-mocks.js',
+            '<%= standardlibTarget %>/lib/angular/angular-mocks.js',
             '<%= standardlibTarget %>/lib/jquery-simulate-1.0.1/jquery.simulate.js',
             '<%= standardlibTarget %>/lib/jasmine-jquery-2.0.5/jasmine-jquery.js',
             '<%= standardlibTarget %>/bootstrap.js',

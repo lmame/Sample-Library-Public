@@ -15,8 +15,6 @@ module.exports = function (grunt, config) {
         url += '#/' + grunt.option('application-id');
     }
 
-    console.log(url);
-
     return {
         app: {
             path: url
