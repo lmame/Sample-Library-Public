@@ -55,32 +55,32 @@ begin schema data
    data           : l="true"/>        <f60006_Shared_Settings_Read xsi:nil="true"/>        <f60_8__ParentAssigneeGroup xsi:nil="true"/>        <f61001_Application>com.ex
    data           : ample.samplelibrary</f61001_Application>        <f61002_ImpactRowVisibility>None</f61002_ImpactRowVisibility>    </entryItem>    <entryItem>        
    data           : <f1_Request_ID>000000000010302</f1_Request_ID>        <f2_Submitter>ARSERVER</f2_Submitter>        <f3_Create_Date>2018-08-08T23:49:19+00:00</f3_Creat
-   data           : e_Date>        <f4_Assigned_To xsi:nil="true"/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-08T23:49:
-   data           : 19+00:00</f6_Modified_Date>        <f7_Status>Active</f7_Status>        <f8_Short_Description>Logger Configuration</f8_Short_Description>        <f15
+   data           : e_Date>        <f4_Assigned_To xsi:nil="true"/>        <f5_Last_Modified_By>ARSERVER</f5_Last_Modified_By>        <f6_Modified_Date>2019-06-06T11:39:
+   data           : 20+00:00</f6_Modified_Date>        <f7_Status>Active</f7_Status>        <f8_Short_Description>Logger Configuration</f8_Short_Description>        <f15
    data           : _Status_History xsi:nil="true"/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group xsi:nil="true"/>  
    data           :       <f17__ComponentGUID>AGGADG1AANVNMAP3GCG3P2JH0E8S97</f17__ComponentGUID>        <f37__Record_ID>AGGADG1AANVNMAP3GCG3P2JH0E8S97</f37__Record_ID>  
    data           :       <f3200_Component_Name>Logger Configuration</f3200_Component_Name>        <f3250_ShowInNAVBar>Yes</f3250_ShowInNAVBar>        <f3251_Multiples>No
-   data           : </f3251_Multiples>        <f3252_ViewToOpen>Common Settings</f3252_ViewToOpen>        <f3253_Group1>            <value>com.example.samplelibrary</val
-   data           : ue>            <valueByLocale>{"en-US":"com.example.samplelibrary"}</valueByLocale>        </f3253_Group1>        <f3254_Group2>            <value/>
-   data           :             <valueByLocale>{"en-US":null}</valueByLocale>        </f3254_Group2>        <f3255_ComponentTitle>            <value>Logger Configuratio
-   data           : n</value>            <valueByLocale>{"en-US":"Logger Configuration"}</valueByLocale>        </f3255_ComponentTitle>        <f3257_ParentComponentName
+   data           : </f3251_Multiples>        <f3252_ViewToOpen>Common Settings</f3252_ViewToOpen>        <f3253_Group1>            <value>Logger Configuration</value> 
+   data           :            <valueByLocale>{"en-US":"Logger Configuration"}</valueByLocale>        </f3253_Group1>        <f3254_Group2>            <value>com.example
+   data           : .samplelibrary</value>            <valueByLocale>{"en-US":"com.example.samplelibrary"}</valueByLocale>        </f3254_Group2>        <f3255_Component
+   data           : Title>            <value>Logger Configuration</value>            <valueByLocale>{"en-US":"Logger Configuration"}</valueByLocale>        </f3255_Compo
+   data           : nentTitle>        <f3257_ParentComponentName xsi:nil="true"/>        <f3258_Radio_Button_Field>In Bundle</f3258_Radio_Button_Field>        <f325__Loc
+   data           : ation xsi:nil="true"/>        <f3260_Registered_Module_Name xsi:nil="true"/>        <f3261_Is_View>No</f3261_Is_View>        <f3265_Show_In>Innovatio
+   data           : nStudio</f3265_Show_In>        <f60005_Shared_Settings_Write xsi:nil="true"/>        <f60006_Shared_Settings_Read xsi:nil="true"/>        <f60_8__Par
+   data           : entAssigneeGroup xsi:nil="true"/>        <f61001_Application>com.example.samplelibrary</f61001_Application>        <f61002_ImpactRowVisibility>None</f
+   data           : 61002_ImpactRowVisibility>    </entryItem>    <entryItem>        <f1_Request_ID>000000000010401</f1_Request_ID>        <f2_Submitter>developer</f2_S
+   data           : ubmitter>        <f3_Create_Date>2018-08-13T21:21:02+00:00</f3_Create_Date>        <f4_Assigned_To xsi:nil="true"/>        <f5_Last_Modified_By>devel
+   data           : oper</f5_Last_Modified_By>        <f6_Modified_Date>2018-08-14T02:00:42+00:00</f6_Modified_Date>        <f7_Status>Active</f7_Status>        <f8_Shor
+   data           : t_Description>bookWorm</f8_Short_Description>        <f15_Status_History xsi:nil="true"/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_L
+   data           : istening>        <f112_Assignee_Group xsi:nil="true"/>        <f17__ComponentGUID>AGGADG1AANVNMAP35ENCP28JDFB1L2</f17__ComponentGUID>        <f37__Re
+   data           : cord_ID>AGGADG1AANVNMAP35ENCP28JDFB1L2</f37__Record_ID>        <f3200_Component_Name>bookWorm</f3200_Component_Name>        <f3250_ShowInNAVBar>Yes</f
+   data           : 3250_ShowInNAVBar>        <f3251_Multiples>No</f3251_Multiples>        <f3252_ViewToOpen>Common Settings</f3252_ViewToOpen>        <f3253_Group1>   
+   data           :          <value>Sample Library</value>            <valueByLocale>{"en-US":"Sample Library"}</valueByLocale>        </f3253_Group1>        <f3254_Grou
+   data           : p2>            <value/>            <valueByLocale>{"en-US":null}</valueByLocale>        </f3254_Group2>        <f3255_ComponentTitle>            <v
+   data           : alue>bookWorm</value>            <valueByLocale>{"en-US":"bookWorm"}</valueByLocale>        </f3255_ComponentTitle>        <f3257_ParentComponentName
    data           :  xsi:nil="true"/>        <f3258_Radio_Button_Field>In Bundle</f3258_Radio_Button_Field>        <f325__Location xsi:nil="true"/>        <f3260_Registe
-   data           : red_Module_Name xsi:nil="true"/>        <f3261_Is_View>No</f3261_Is_View>        <f3265_Show_In>InnovationStudio</f3265_Show_In>        <f60005_Share
-   data           : d_Settings_Write xsi:nil="true"/>        <f60006_Shared_Settings_Read xsi:nil="true"/>        <f60_8__ParentAssigneeGroup xsi:nil="true"/>        <f6
-   data           : 1001_Application>com.example.samplelibrary</f61001_Application>        <f61002_ImpactRowVisibility>None</f61002_ImpactRowVisibility>    </entryItem> 
-   data           :    <entryItem>        <f1_Request_ID>000000000010401</f1_Request_ID>        <f2_Submitter>developer</f2_Submitter>        <f3_Create_Date>2018-08-13T
-   data           : 21:21:02+00:00</f3_Create_Date>        <f4_Assigned_To xsi:nil="true"/>        <f5_Last_Modified_By>developer</f5_Last_Modified_By>        <f6_Modifi
-   data           : ed_Date>2018-08-14T02:00:42+00:00</f6_Modified_Date>        <f7_Status>Active</f7_Status>        <f8_Short_Description>bookWorm</f8_Short_Description>
-   data           :         <f15_Status_History xsi:nil="true"/>        <f16_Notifier_Listening>Not Listening</f16_Notifier_Listening>        <f112_Assignee_Group xsi:ni
-   data           : l="true"/>        <f17__ComponentGUID>AGGADG1AANVNMAP35ENCP28JDFB1L2</f17__ComponentGUID>        <f37__Record_ID>AGGADG1AANVNMAP35ENCP28JDFB1L2</f37__
-   data           : Record_ID>        <f3200_Component_Name>bookWorm</f3200_Component_Name>        <f3250_ShowInNAVBar>Yes</f3250_ShowInNAVBar>        <f3251_Multiples>N
-   data           : o</f3251_Multiples>        <f3252_ViewToOpen>Common Settings</f3252_ViewToOpen>        <f3253_Group1>            <value>Sample Library</value>      
-   data           :       <valueByLocale>{"en-US":"Sample Library"}</valueByLocale>        </f3253_Group1>        <f3254_Group2>            <value/>            <valueBy
-   data           : Locale>{"en-US":null}</valueByLocale>        </f3254_Group2>        <f3255_ComponentTitle>            <value>bookWorm</value>            <valueByLoc
-   data           : ale>{"en-US":"bookWorm"}</valueByLocale>        </f3255_ComponentTitle>        <f3257_ParentComponentName xsi:nil="true"/>        <f3258_Radio_Button
-   data           : _Field>In Bundle</f3258_Radio_Button_Field>        <f325__Location xsi:nil="true"/>        <f3260_Registered_Module_Name xsi:nil="true"/>        <f32
-   data           : 61_Is_View>No</f3261_Is_View>        <f3265_Show_In>Both</f3265_Show_In>        <f60005_Shared_Settings_Write xsi:nil="true"/>        <f60006_Shared_
-   data           : Settings_Read xsi:nil="true"/>        <f60_8__ParentAssigneeGroup xsi:nil="true"/>        <f61001_Application>com.example.samplelibrary</f61001_Applic
-   data           : ation>        <f61002_ImpactRowVisibility>None</f61002_ImpactRowVisibility>    </entryItem></entryList>
+   data           : red_Module_Name xsi:nil="true"/>        <f3261_Is_View>No</f3261_Is_View>        <f3265_Show_In>Both</f3265_Show_In>        <f60005_Shared_Settings_W
+   data           : rite xsi:nil="true"/>        <f60006_Shared_Settings_Read xsi:nil="true"/>        <f60_8__ParentAssigneeGroup xsi:nil="true"/>        <f61001_Applica
+   data           : tion>com.example.samplelibrary</f61001_Application>        <f61002_ImpactRowVisibility>None</f61002_ImpactRowVisibility>    </entryItem></entryList>
 end
 

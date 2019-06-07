@@ -2,7 +2,7 @@ begin process definition
    name           : com.example.samplelibrary:documents - one movie - document as input
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1556319884846,
+   definition     :   "lastUpdateTime" : 1556320793000,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "developer",
    definition     :   "name" : "com.example.samplelibrary:documents - one movie - document as input",
@@ -14,8 +14,7 @@ begin process definition
    definition     :   "guid" : "rx-ae9b375a-386a-466e-b6f2-0dd98027d990",
    definition     :   "flowElements" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.EndEventDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1556319884846,
+   definition     :     "lastUpdateTime" : 1556320793000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "End",
@@ -27,8 +26,7 @@ begin process definition
    definition     :     "event" : null
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.StartEventDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1556319884846,
+   definition     :     "lastUpdateTime" : 1556320793000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Start",
@@ -39,8 +37,7 @@ begin process definition
    definition     :     "guid" : "rx-63edb766-bffd-463c-b0f8-74a5ebd2a918"
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1556319884846,
+   definition     :     "lastUpdateTime" : 1556320793000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Sequence Flow",
@@ -54,8 +51,7 @@ begin process definition
    definition     :     "condition" : ""
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.ServiceTaskDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1556319884846,
+   definition     :     "lastUpdateTime" : 1556320793000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Returns movie information",
@@ -77,8 +73,7 @@ begin process definition
    definition     :     "runAsUser" : null
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "version" : "1.0-SNAPSHOT",
-   definition     :     "lastUpdateTime" : 1556319884846,
+   definition     :     "lastUpdateTime" : 1556320793000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Sequence Flow",
@@ -93,8 +88,7 @@ begin process definition
    definition     :   } ],
    definition     :   "inputParams" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.record.ObjectFieldDefinition",
-   definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556319884846,
+   definition     :     "lastUpdateTime" : 1556320793000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "movie object",
@@ -118,8 +112,7 @@ begin process definition
    definition     :   } ],
    definition     :   "outputParams" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "version" : null,
-   definition     :     "lastUpdateTime" : 1556319884846,
+   definition     :     "lastUpdateTime" : 1556320793000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "output information",
