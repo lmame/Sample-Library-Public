@@ -89,7 +89,8 @@
                     "resources/sass/<%= bundle.id %>-ext"
                 ],
                 "templates": [
-                    "scripts/view-components/**/*.html"
+                    "scripts/view-components/**/*.html",
+                    "scripts/actions/**/*.html"
                 ]
             }
         }
