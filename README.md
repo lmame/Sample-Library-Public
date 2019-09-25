@@ -1,6 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
+* 1.8, 2019/09/25, Converting the project to 19.8.0 SDK.
 * 1.7, 2019/06/07, Converting the project to 19.5.0 SDK.
 * 1.6, 2019/04/26, Adding an example, calling a Process from Javascript and getting the process definition.
 * 1.5, 2019/04/25, Adding one example that shows how to use Google Maps and Google Geolocator apis (you will need a Google Maps api key).

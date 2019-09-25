@@ -24,7 +24,6 @@
                 "scripts": [],
                 "styles": []
             },
-
             "app": {
                 "scripts": [
                     "lib/rzslider-5.8.7/rzslider.min",
@@ -42,7 +41,7 @@
                     "scripts/**/*.controller",
                     "scripts/**/*.resource",
                     "!scripts/*",
-                    "scripts/bx.module",
+                    "scripts/com.example.samplelibrary.module",
                     "scripts/*"
                 ],
                 "styles": [
@@ -52,7 +51,6 @@
                     "scripts/**/*.html"
                 ]
             },
-
             "ext": {
                 "scripts": [
                     "lib/rzslider-5.8.7/rzslider.min",

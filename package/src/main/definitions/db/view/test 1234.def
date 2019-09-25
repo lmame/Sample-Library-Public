@@ -2,7 +2,7 @@ begin view definition
    name           : com.example.samplelibrary:test 1234
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1556320795000,
+   definition     :   "lastUpdateTime" : 1569446244463,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:test 1234",
@@ -11,6 +11,7 @@ begin view definition
    definition     :   "overlayGroupId" : "1",
    definition     :   "developerId" : "com.example",
    definition     :   "scope" : "BUNDLE",
+   definition     :   "internal" : false,
    definition     :   "guid" : "cc1be4cd-f393-4b1a-9678-9d9bea361721",
    definition     :   "layout" : "{\"layoutTemplate\":5,\"columns\":[{\"role\":\"content\",\"children\":[]}],\"componentDefinitionId\":\"79f9927d-8c3b-40e4-b3e5-0c989c327439\"}",
    definition     :   "inputParams" : [ ],

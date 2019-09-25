@@ -52,25 +52,49 @@ module.exports = function (grunt) {
         }
     });
 
+    grunt.registerTask('rxLicenseProcess-wrapper', function () {
+        if (grunt.option('generate-license')) {
+            grunt.task.run('rxLicenseProcess');
+        }
+    });
+
     grunt.registerTask('tests-wrapper', function () {
         if (!grunt.option('skip-tests')) {
-            grunt.task.run([
-                'karma',
-                'clean:coverage',
-                'rxCoverage'
-            ]);
+            var tasks = ['karma'];
+
+            if (!grunt.option('skip-coverage')) {
+                tasks.push('clean:coverage', 'rxCoverage');
+            } else {
+                grunt.log.warn('Skipping coverage'.toUpperCase());
+            }
+
+            grunt.task.run(tasks);
         } else {
             grunt.log.warn('Skipping tests'.toUpperCase());
         }
     });
 
+    grunt.registerTask('docs-wrapper', function () {
+        if (grunt.option('generate-docs')) {
+            grunt.task.run('ngdocs');
+        } else {
+            grunt.log.warn('Skipping docs generation'.toUpperCase());
+        }
+    });
+
     // Register all the tasks that can be executed on the command line
     grunt.registerTask('server-debug', function () {
-        grunt.task.run([
-            'configureProxies:app',
-            'connect:app',
-            'open'
-        ]);
+        if (grunt.file.exists(path.join(process.cwd(), pkg.config.bundle.target, 'index.html'))) {
+            var launchServerDebug = pkg.config.bundle.id === 'standardlib' ? Boolean(grunt.option('application-id')) : true;
+
+            if (launchServerDebug) {
+                grunt.task.run([
+                    'configureProxies:app',
+                    'connect:app',
+                    'open'
+                ]);
+            }
+        }
     });
 
     grunt.registerTask('blocker', function () {
@@ -116,11 +140,13 @@ module.exports = function (grunt) {
 
     grunt.registerTask('release', 'Main task for production, to create minified app', function () {
         grunt.config('release', true);
+        grunt.option('skip-coverage', true);
 
         grunt.task.run([
             'validation-wrapper',
 
             'clean',
+            'rxLicenseProcess-wrapper',
             'sync',
 
             'sass:release',
@@ -135,18 +161,20 @@ module.exports = function (grunt) {
 
             'copy',
 
-            'tests-wrapper'
+            'tests-wrapper',
+
+            'docs-wrapper'
         ]);
     });
 
     // Load all tasks
     require(path.join(process.cwd(), 'node_modules/load-grunt-config'))(grunt, {
         configPath: [path.join(__dirname, 'grunt')],
-        mergeFunction: require('recursive-merge'),
+        mergeFunction: require(path.join(process.cwd(), 'node_modules/recursive-merge')),
         data: pkg.config,
         loadGruntTasks: {
             pattern: ['grunt-*'],
-            config: require(packagePath),
+            config: require(path.join(process.cwd(), packagePath)),
             scope: 'devDependencies'
         }
     });

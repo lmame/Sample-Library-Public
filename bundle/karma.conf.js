@@ -24,9 +24,10 @@ module.exports = function (karmaConfig) {
         grunt.config(key, expandedValue);
     });
 
-    var proxyPath = pkg.config.standardlibTarget + '/';
+    var proxyPath = pkg.config.standardlibTarget + '/',
+        isStandardlib = pkg.config.bundle.id === 'standardlib';
 
-    var allFiles = grunt.file.expand(grunt.config.process([]
+    var allFiles = grunt.file.expand(grunt.config.process(_([])
         .concat(Array.prototype.concat.apply([], pkg.config.bundle.resources.map(function (resource) {
             return resource.bundle.packages.lib.scripts.map(function (file) {
                 return path.join(resource.dir, resource.bundle.target, file) + '.js';
@@ -40,11 +41,11 @@ module.exports = function (karmaConfig) {
             '<%= standardlibTarget %>/resources/css/standardlib-deps.min.css',
             '<%= standardlibTarget %>/resources/css/standardlib.css',
             '<%= standardlibTarget %>/resources/css/theme/*.css',
-            '<%= standardlibTarget %>/scripts/standardlib.js',
-            '<%= standardlibTarget %>/view-loader.js',
-            '<%= bundle.target %>/resources/css/<%= bundle.id %>.css'
+            isStandardlib && !grunt.option('skip-coverage') ? '' : '<%= standardlibTarget %>/scripts/standardlib.js',
+            isStandardlib ? '<%= standardlibTarget %>/view-loader.js' : '',
+            isStandardlib ? '' : '<%= bundle.target %>/resources/css/<%= bundle.id %>.css'
         ])
-        .concat(pkg.config.bundle.packages.app.scripts.map(function (file) {
+        .concat(isStandardlib && grunt.option('skip-coverage') ? [] : pkg.config.bundle.packages.app.scripts.map(function (file) {
             var prefix = '<%= bundle.src %>/';
 
             if (file[0] == '!') {
@@ -56,21 +57,21 @@ module.exports = function (karmaConfig) {
         }))
         .concat([
             '<%= bundle.target %>/scripts/**/<%= bundle.id %>-templates.min.js',
-            '<%= standardlibTarget %>/**/*.+(jpg|svg|ttf|png|woff|woff2)',
-            '<%= bundle.src %>/**/*.+(jpg|svg|ttf|png|woff)',
             '<%= bundle.src %>/scripts/**/*.html',
-            '<%= standardlibTarget %>/scripts/**/*.html',
-            '<%= bundle.src %>/view-loader.test.js',
+            '<%= bundle.src %>/**/jasmine-helpers.js',
+            isStandardlib ? '<%= bundle.src %>/view-loader.test.js' : '',
             '<%= bundle.src %>/scripts/**/*.test.js'
         ])
+        .compact()
+        .value()
     )).map(function (filepath) {
         var extname = path.extname(filepath);
 
         if ([
-                '.js',
-                '.html',
-                '.css'
-            ].indexOf(extname) > -1) {
+            '.js',
+            '.html',
+            '.css'
+        ].indexOf(extname) > -1) {
             return filepath;
         } else {
             return {

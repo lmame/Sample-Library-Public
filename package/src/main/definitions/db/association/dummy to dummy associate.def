@@ -2,7 +2,7 @@ begin association definition
    name           : com.example.samplelibrary:dummy to dummy associate
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1556320793000,
+   definition     :   "lastUpdateTime" : 1569446236817,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:dummy to dummy associate",
@@ -11,6 +11,7 @@ begin association definition
    definition     :   "overlayGroupId" : "1",
    definition     :   "developerId" : "com.example",
    definition     :   "scope" : "BUNDLE",
+   definition     :   "internal" : false,
    definition     :   "guid" : "IDGIXIUWC3XSKAOTIEKAOS1YZFON41",
    definition     :   "nodeAId" : "com.example.samplelibrary:dummy",
    definition     :   "nodeBId" : "com.example.samplelibrary:dummy associate",

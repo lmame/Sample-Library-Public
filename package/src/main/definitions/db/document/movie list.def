@@ -2,7 +2,7 @@ begin document definition
    name           : com.example.samplelibrary:movie list
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1556320796000,
+   definition     :   "lastUpdateTime" : 1569446246869,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "developer",
    definition     :   "name" : "com.example.samplelibrary:movie list",
@@ -11,6 +11,7 @@ begin document definition
    definition     :   "overlayGroupId" : "1",
    definition     :   "developerId" : null,
    definition     :   "scope" : "BUNDLE",
+   definition     :   "internal" : false,
    definition     :   "guid" : "IDGADG1AANVNMAPQG6LTPPJE5FV2AQ",
    definition     :   "allowOverlay" : false,
    definition     :   "overlayDescriptor" : null,

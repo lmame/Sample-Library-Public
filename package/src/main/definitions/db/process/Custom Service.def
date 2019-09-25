@@ -2,7 +2,7 @@ begin process definition
    name           : com.example.samplelibrary:Custom Service
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1556320793000,
+   definition     :   "lastUpdateTime" : 1569446237808,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "com.example.samplelibrary",
    definition     :   "name" : "com.example.samplelibrary:Custom Service",
@@ -11,10 +11,11 @@ begin process definition
    definition     :   "overlayGroupId" : "1",
    definition     :   "developerId" : "com.example",
    definition     :   "scope" : "BUNDLE",
+   definition     :   "internal" : false,
    definition     :   "guid" : "rx-ce549ec3-65e8-4987-a2b3-ba38da557a00",
    definition     :   "flowElements" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.StartEventDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446237808,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Start",
@@ -22,10 +23,11 @@ begin process definition
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "guid" : "rx-0166fac9-8931-4e41-b807-1d4bb754f51b"
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446237808,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Sequence Flow",
@@ -33,13 +35,14 @@ begin process definition
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "guid" : "rx-bbbb77bd-6877-43ba-a8b1-07ac78af7dc8",
    definition     :     "sourceNode" : "rx-0166fac9-8931-4e41-b807-1d4bb754f51b",
    definition     :     "targetNode" : "rx-09f98a9f-a91d-4eb4-8dfa-dd40f857d7f8",
    definition     :     "condition" : ""
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.ServiceTaskDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446237808,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Generate Password (Custom Service)",
@@ -47,6 +50,7 @@ begin process definition
    definition     :     "description" : "This Custom Service accepts a parameter as input and will return an object with the user name and password",
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "guid" : "rx-09f98a9f-a91d-4eb4-8dfa-dd40f857d7f8",
    definition     :     "multiInstanceLoopDefinition" : null,
    definition     :     "actionTypeName" : "com.example.samplelibrary:generatePassword",
@@ -58,7 +62,7 @@ begin process definition
    definition     :     "runAsUser" : null
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446237808,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Sequence Flow",
@@ -66,13 +70,14 @@ begin process definition
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "guid" : "rx-0bdfcfd3-5b12-411b-99c4-232424a4e8be",
    definition     :     "sourceNode" : "rx-09f98a9f-a91d-4eb4-8dfa-dd40f857d7f8",
    definition     :     "targetNode" : "rx-cf25052c-7e6b-4025-b838-e5f2a78b7a18",
    definition     :     "condition" : ""
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.ServiceTaskDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446237808,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Update the Record with the password",
@@ -80,6 +85,7 @@ begin process definition
    definition     :     "description" : "We update the current record with the password generated by the Custom Service.",
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "guid" : "rx-cf25052c-7e6b-4025-b838-e5f2a78b7a18",
    definition     :     "multiInstanceLoopDefinition" : null,
    definition     :     "actionTypeName" : "updateRecord",
@@ -94,7 +100,7 @@ begin process definition
    definition     :     "runAsUser" : null
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446237808,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Sequence Flow",
@@ -102,13 +108,14 @@ begin process definition
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "guid" : "rx-6aa81f80-9262-4f59-89e7-505ee3be9624",
    definition     :     "sourceNode" : "rx-cf25052c-7e6b-4025-b838-e5f2a78b7a18",
    definition     :     "targetNode" : "rx-c9c96bd3-d48a-439a-aa7c-fc7a5327c077",
    definition     :     "condition" : ""
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.EndEventDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446237808,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "End",
@@ -116,12 +123,13 @@ begin process definition
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "guid" : "rx-c9c96bd3-d48a-439a-aa7c-fc7a5327c077",
    definition     :     "event" : null
    definition     :   } ],
    definition     :   "inputParams" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.record.RecordInstanceFieldDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446237808,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "com.example.samplelibrary",
    definition     :     "name" : "Record Instance",
@@ -129,6 +137,7 @@ begin process definition
    definition     :     "description" : "",
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "id" : 10029001,
    definition     :     "fieldOption" : "REQUIRED",
    definition     :     "permissions" : null,

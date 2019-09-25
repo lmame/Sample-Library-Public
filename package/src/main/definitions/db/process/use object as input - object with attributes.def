@@ -2,7 +2,7 @@ begin process definition
    name           : com.example.samplelibrary:use object as input - object with attributes
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1556320793000,
+   definition     :   "lastUpdateTime" : 1569446238042,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "developer",
    definition     :   "name" : "com.example.samplelibrary:use object as input - object with attributes",
@@ -11,10 +11,11 @@ begin process definition
    definition     :   "overlayGroupId" : "1",
    definition     :   "developerId" : "com.example",
    definition     :   "scope" : "BUNDLE",
+   definition     :   "internal" : false,
    definition     :   "guid" : "rx-24099f47-4710-4146-8b0f-6d86e915e26b",
    definition     :   "flowElements" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446238042,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Sequence Flow",
@@ -22,13 +23,14 @@ begin process definition
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "guid" : "rx-180223c8-abb3-407f-b821-73571456393a",
    definition     :     "sourceNode" : "rx-87dc459e-ce53-45d2-950b-b282ff22f1a7",
    definition     :     "targetNode" : "rx-b5f57eaa-364c-498b-a347-fb7aa1ed498c",
    definition     :     "condition" : ""
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.ServiceTaskDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446238042,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Creating a string using the object attributes",
@@ -36,6 +38,7 @@ begin process definition
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "guid" : "rx-b5f57eaa-364c-498b-a347-fb7aa1ed498c",
    definition     :     "multiInstanceLoopDefinition" : null,
    definition     :     "actionTypeName" : "computeValue",
@@ -50,7 +53,7 @@ begin process definition
    definition     :     "runAsUser" : null
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.EndEventDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446238042,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "End",
@@ -58,11 +61,12 @@ begin process definition
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "guid" : "rx-74236ac2-5192-4e2d-bd1f-07e59cd72118",
    definition     :     "event" : null
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.StartEventDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446238042,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Start",
@@ -70,10 +74,11 @@ begin process definition
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "guid" : "rx-87dc459e-ce53-45d2-950b-b282ff22f1a7"
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446238042,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Sequence Flow",
@@ -81,6 +86,7 @@ begin process definition
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "guid" : "rx-b49a93e4-2280-4988-b0b8-91831f0c7b43",
    definition     :     "sourceNode" : "rx-b5f57eaa-364c-498b-a347-fb7aa1ed498c",
    definition     :     "targetNode" : "rx-74236ac2-5192-4e2d-bd1f-07e59cd72118",
@@ -88,7 +94,7 @@ begin process definition
    definition     :   } ],
    definition     :   "inputParams" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.record.ObjectFieldDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446238042,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "movieObject",
@@ -96,6 +102,7 @@ begin process definition
    definition     :     "description" : "",
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "id" : 10029005,
    definition     :     "fieldOption" : "REQUIRED",
    definition     :     "permissions" : null,
@@ -112,7 +119,7 @@ begin process definition
    definition     :   } ],
    definition     :   "outputParams" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "lastUpdateTime" : 1556320793000,
+   definition     :     "lastUpdateTime" : 1569446238042,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "movieString",
@@ -120,6 +127,7 @@ begin process definition
    definition     :     "description" : "",
    definition     :     "overlayGroupId" : null,
    definition     :     "developerId" : null,
+   definition     :     "internal" : false,
    definition     :     "id" : 10029008,
    definition     :     "fieldOption" : "OPTIONAL",
    definition     :     "permissions" : null,

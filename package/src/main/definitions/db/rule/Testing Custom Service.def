@@ -2,7 +2,7 @@ begin rule definition
    name           : com.example.samplelibrary:Testing Custom Service
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1556320793000,
+   definition     :   "lastUpdateTime" : 1569446238259,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "com.example.samplelibrary",
    definition     :   "name" : "com.example.samplelibrary:Testing Custom Service",
@@ -11,6 +11,7 @@ begin rule definition
    definition     :   "overlayGroupId" : "1",
    definition     :   "developerId" : "com.example",
    definition     :   "scope" : "BUNDLE",
+   definition     :   "internal" : false,
    definition     :   "guid" : "IDGA5FQGDU9FUAOYQJ4QOXTWWF3KTZ",
    definition     :   "triggerEvent" : {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.rule.domain.RecordTriggerEvent",
