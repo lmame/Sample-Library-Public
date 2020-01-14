@@ -13,7 +13,7 @@
         "standardlibTarget": "$RX_SDK_HOME/standardlib/target/web-build/webapp"
     },
     "engines": {
-        "node": "=10.7.0"
+        "node": "=10.16.0"
     },
     "devDependencies": {
         "connect-livereload": "0.6.1",

@@ -66,7 +66,7 @@
                     "scripts/actions/**/*.class",
                     "scripts/actions/**/*.directive",
                     "scripts/actions/**/*.controller",
-                    "scripts/actionss/**/*.resource",
+                    "scripts/actions/**/*.resource",
                     "scripts/view-components/**/*.global",
                     "scripts/view-components/**/*.module",
                     "scripts/view-components/**/*.config",
