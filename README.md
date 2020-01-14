@@ -1,6 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
+* 2.0, 2020/01/13, Adding new examples (digital signature, better view component to display a picture stored in an attachment, a pie chart based on nvd3, creating an attachment field in java code and update a record instance, how to create a Public Java Action), updating links in this README.MD file,
 * 1.9, 2020/01/13, Converting the project to 19.11.0 SDK, fixing a typo in bundle.conf.json,
 * 1.8, 2019/09/25, Converting the project to 19.8.0 SDK.
 * 1.7, 2019/06/07, Converting the project to 19.5.0 SDK.
@@ -56,7 +57,10 @@ Javascript View Components:
 * Create Admin Settings for your application and get the values in Java and Javascript,
 * Getting and saving user preferences,
 * Using Google Maps and Google Geolocator apis (you will need a Google Maps api key),
-* Calling a Process from Javascript and getting the process definition.,
+* Calling a Process from Javascript and getting the process definition,
+* Displaying a picture stored in a record instance attachment field (better version),
+* Leveraging third party digital signature to allow users to sign using a mouse / fingers and generate a base 64 picture based on the signature (https://github.com/szimek/signature_pad, https://github.com/legalthings/angular-signature),
+* A pie chart leveraging the supplied libraries nvd3 and d3,
 
 
 Javascript Actions:
@@ -68,6 +72,7 @@ Javascript Actions:
 
 Java Service:
 * Custom Java service that returns an Object that can be used in Rule or Process designers,
+* Public Java Service used to convert a base64 picture into a picture, generate an attachment field data and update an existing record instance with this data, 
 
 
 Java Rest API:
@@ -89,18 +94,22 @@ Apis description:
 
 # Installation (using the zip file):
 You can Just deploy the file "com.example.samplelibrary-1.0-SNAPSHOT.zip" on your development environment.
-https://docs.bmc.com/docs/innovationsuite/cloud/importing-the-export-packages-to-deploy-tailoring-changes-of-applications-747679337.html
+https://docs.bmc.com/docs/helixplatform/deploying-application-tailoring-changes-851871221.html
+
+
+# Updating your SDK / Developer Environment (if needed):
+https://docs.bmc.com/docs/helixplatform/upgrading-bmc-helix-platform-sdk-to-19-11-851083022.html
 
 
 # Build and installation using the source code:
 Please follow those steps:
 * Create your developer environment:
-* https://docs.bmc.com/docs/innovationsuite/cloud/setting-up-your-ide-and-installing-innovation-sdk-679716356.html
-* You will need nodeJs, maven, Yarn and Java.
+* https://docs.bmc.com/docs/helixplatform/setting-up-your-ide-and-installing-bmc-helix-platform-sdk-851871275.html
+* You will need nodeJs, maven, Yarn, Grunt and Java.
 
 To deploy:
-* https://docs.bmc.com/docs/innovationsuite/cloud/creating-a-project-using-maven-and-the-archetype-679717111.html
-* https://docs.bmc.com/docs/innovationsuite/cloud/deploying-your-digital-service-application-for-the-first-time-to-start-working-in-innovation-studio-679716363.html
+* https://docs.bmc.com/docs/helixplatform/creating-a-project-using-maven-and-the-archetype-851871283.html
+* https://docs.bmc.com/docs/helixplatform/deploying-your-digital-service-application-for-the-first-time-to-start-working-in-bmc-helix-innovation-studio-851871286.html
 
 Here are the steps:
 * Clone this repository,
@@ -130,9 +139,10 @@ With the invaluable help from Dave Sulcer and Ranjit :)
 
 # Links:
 * BMC Innovation Youtube channel (https://www.youtube.com/bmcdigitalinnovator),
+* BMC Helix Youtube channel (https://www.youtube.com/channel/UCufKJEem7x7_IaTUPbTYuww),
 * BMC Developer portal (https://developers.bmc.com/site/global/home/index.gsp),
 * BMC Developer Community (https://communities.bmc.com/community/developer/content?filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bthread%5D),
-* BMC Documentation for Innovation Suite (https://docs.bmc.com/docs/innovationsuite/cloud/home-679716249.html),
+* BMC Documentation for BMC Helix Platform (https://docs.bmc.com/docs/helixplatform/),
 
 
 # Most important:

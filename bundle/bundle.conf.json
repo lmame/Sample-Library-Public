@@ -27,6 +27,8 @@
             "app": {
                 "scripts": [
                     "lib/rzslider-5.8.7/rzslider.min",
+                    "lib/angular-signature/signature",
+                    "lib/signature_pad-2.3.2/signature_pad.min",
                     "scripts/**/*.global",
                     "scripts/**/*.module",
                     "scripts/**/*.config",
@@ -54,6 +56,8 @@
             "ext": {
                 "scripts": [
                     "lib/rzslider-5.8.7/rzslider.min",
+                    "lib/angular-signature/signature",
+                    "lib/signature_pad-2.3.2/signature_pad.min",
                     "scripts/actions/**/*.global",
                     "scripts/actions/**/*.module",
                     "scripts/actions/**/*.config",

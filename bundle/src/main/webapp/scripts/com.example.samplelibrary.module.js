@@ -39,6 +39,9 @@
         'com.example.samplelibrary.view-components.iframe',                          // Displaying a web page inside an iFrame
         'com.example.samplelibrary.view-components.user-preference',                 // Testing user preferences apis
         'com.example.samplelibrary.view-components.google-map',                      // Google Maps
-        'com.example.samplelibrary.view-components.call-process-js'                     // Calling a process from Javascript code
+        'com.example.samplelibrary.view-components.call-process-js',                     // Calling a process from Javascript code
+        'com.example.samplelibrary.view-components.display-image',                  // Display a picture from an attachment, with more options
+        'com.example.samplelibrary.view-components.nvd3-chart',                      // Draw a pie chart from record definition data
+        'com.example.samplelibrary.view-components.digital-signature'                   // Digital Signature implementation
     ]);
 })();

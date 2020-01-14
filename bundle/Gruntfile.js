@@ -94,6 +94,13 @@ module.exports = function (grunt) {
                     'open'
                 ]);
             }
+        } else {
+            // LMA:: We are in a bundle.
+            grunt.task.run([
+                'configureProxies:app',
+                'connect:app',
+                'open'
+            ]);
         }
     });
 

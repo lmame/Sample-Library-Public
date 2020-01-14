@@ -16,6 +16,7 @@ import com.example.rest.ticket.RestTicket;
 import com.example.rest.triggerActivity.RestTriggerActivity;
 import com.example.rest.simple.SimpleRest;
 import com.example.rest.adminSettings.RestAdminSettings;
+import com.example.service.simple.AttachFile;
 import com.example.service.simple.SimpleService;
 import com.example.datapage.DvdDataPageQuery;
 
@@ -51,6 +52,7 @@ public class MyApplication extends RxBundle {
 
         // Registering Services.
         registerService(new SimpleService());
+        registerService(new AttachFile());
 
         registerStaticWebResource(String.format("/%s", getId()), "/webapp");
     }
