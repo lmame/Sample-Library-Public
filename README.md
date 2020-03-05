@@ -1,6 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
+* 2.1, 2020/05/03, Converting the project to 20.2.0 SDK.
 * 2.0, 2020/01/13, Adding new examples (digital signature, better view component to display a picture stored in an attachment, a pie chart based on nvd3, creating an attachment field in java code and update a record instance, how to create a Public Java Action), updating links in this README.MD file,
 * 1.9, 2020/01/13, Converting the project to 19.11.0 SDK, fixing a typo in bundle.conf.json,
 * 1.8, 2019/09/25, Converting the project to 19.8.0 SDK.

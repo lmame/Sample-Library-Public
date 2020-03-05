@@ -40,6 +40,7 @@ module.exports = function (grunt, config) {
         options: {
             implementation: sass,
             sourceMap: true,
+            sourceMapContents: true,
             importer: resolvePath
         },
         debug: {

@@ -52,7 +52,7 @@
         <dependency>
             <groupId>javax.ws.rs</groupId>
             <artifactId>javax.ws.rs-api</artifactId>
-            <version>2.0.1</version>
+            <version>${javax.ws.rs-api.version}</version>
             <scope>provided</scope>
         </dependency>
 
@@ -109,15 +109,15 @@
 		</dependency>
         <!-- Needed in support of @RxTransactional -->
         <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-aspects</artifactId>
-            <version>${spring.version}</version>
+            <groupId>org.apache.servicemix.bundles</groupId>
+			<artifactId>org.apache.servicemix.bundles.spring-aspects</artifactId>
+			<version>${servicemix-spring.version}</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-tx</artifactId>
-            <version>${spring.version}</version>
+            <groupId>org.apache.servicemix.bundles</groupId>
+			<artifactId>org.apache.servicemix.bundles.spring-tx</artifactId>
+			<version>${servicemix-spring.version}</version>
             <scope>provided</scope>
         </dependency>
 
@@ -278,6 +278,7 @@
                         <RxBundle-IsApplication>${rx-sdk.bundleIsApplication}</RxBundle-IsApplication>
                         <RxBundle-Dependencies>${rx-sdk.bundleDependencies}</RxBundle-Dependencies>
                         <RxBundle-SchemaDataImportOrder>${rx-sdk.schemaDataImportOrder}</RxBundle-SchemaDataImportOrder>
+                        <RxBundle-FriendList></RxBundle-FriendList>
                     </instructions>
                 </configuration>
             </plugin>
