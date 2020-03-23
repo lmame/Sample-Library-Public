@@ -38,6 +38,32 @@ begin localizable string
    string-text    : Yes!
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQHOEP4QHOEP4C2BV
+   timestamp      : 1585003730
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : fde2f388-0ab5-489a-9ac8-62d337cc948a
+   owner-objects  : 17\c796f628-f948-4dc3-a62d-c5a65dab53a7
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><strong>User information:</strong><span contenteditable="false" rx-expression="${keywords.newLine} +&quot;Business Analyst?: &quot;+${view.components&
+   string-text    : .17a9cea8-9af4-4842-9819-c6668d8b3219.isBusinessAnalyst}+ ${keywords.newLine} +&quot;Tenant Admin?: &quot;+ ${view.components.17a9cea8-9af4-4842-9819-c6&
+   string-text    : 668d8b3219.isTenantAdmin} + ${keywords.newLine} +&quot;Saas Admin?: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isSaasAdmin} + ${keywo&
+   string-text    : rds.newLine} +&quot;Administrator?: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isAdministrator} + ${keywords.newLine} +&quot; Develop&
+   string-text    : er Mode?: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.developerMode} + ${keywords.newLine} +&quot;Develpment Environment?: &quot;+${vi&
+   string-text    : ew.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isDevelopmentEnvironment} + ${keywords.newLine} +&quot;Development allowed?: &quot;+${view.components&
+   string-text    : .17a9cea8-9af4-4842-9819-c6668d8b3219.isDevelopmentAllowed} + ${keywords.newLine} +&quot;Production Environment?: &quot;+${view.components.17a9cea8-9af4&
+   string-text    : -4842-9819-c6668d8b3219.isProductionEnvironment} + ${keywords.newLine} +&quot;Name: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.name} &
+   string-text    : + ${keywords.newLine} +&quot; Server Instance Type: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.serverInstanceType}+ ${keywords.newLin&
+   string-text    : e} +&quot;Developer Id: &quot;+ ${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.developerId} + ${keywords.newLine} +&quot;Full Name: &quot;+${vie&
+   string-text    : w.components.17a9cea8-9af4-4842-9819-c6668d8b3219.fullName}+ ${keywords.newLine} +&quot;Preferred Locale: &quot; +${view.components.17a9cea8-9af4-4842-9&
+   string-text    : 819-c6668d8b3219.preferredLocale} + ${keywords.newLine} +&quot;Preferred User Locale: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.pref&
+   string-text    : erredUserLocale} + ${keywords.newLine} +&quot;Person Instance Id: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.personInstanceId} + ${ke&
+   string-text    : ywords.newLine} +&quot;User Id: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.userId} + &quot;.&quot;" class="rx-expression"></span></p>
+end
+begin localizable string
    name           : LSGADG1AANVNMAP3IHEBP3IHEBKPYJ
    timestamp      : 1583437131
    owner          : developer
@@ -114,6 +140,19 @@ begin localizable string
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : Movie Object
+end
+begin localizable string
+   name           : LSGADG1AANVNMAQHOFCEQHOFCEC3DP
+   timestamp      : 1585004188
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : f912b52c-3828-4107-b3e1-6dbc4530ecfb
+   owner-objects  : 17\1448c456-e3d5-4ab4-8698-f8cc7324e7ab
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Get All User Session Information
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECOXBQECOXBGH0E
@@ -812,6 +851,32 @@ begin localizable string
    string-text    : nProperty Java decorators to allow Java to automatically "cast" Json data into a Java object (back and forth).</li></ul>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQHOE91QHOE91C194
+   timestamp      : 1585003511
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : e35b6da6-ce56-4df8-a754-b2dc9ec3b764
+   owner-objects  : 17\c796f628-f948-4dc3-a62d-c5a65dab53a7
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>hi<span contenteditable="false" rx-expression="&quot;Business Analyst? &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isBusinessAnalys&
+   string-text    : t}+ ${keywords.newLine} +&quot;Tenant Admin? &quot; ${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isTenantAdmin} + ${keywords.newLine} +&quot;S&
+   string-text    : aas Admin? &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isSaasAdmin} + ${keywords.newLine} +&quot;Administrator?&quot;+${view.component&
+   string-text    : s.17a9cea8-9af4-4842-9819-c6668d8b3219.isAdministrator} + ${keywords.newLine} +&quot; Developer Mode?&quot;+${view.components.17a9cea8-9af4-4842-9819-c6&
+   string-text    : 668d8b3219.developerMode} + ${keywords.newLine} +&quot;Develpment Environment? &quot;${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isDevelopmen&
+   string-text    : tEnvironment} + ${keywords.newLine} +&quot;Development allowed? &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isDevelopmentAllowed} + ${&
+   string-text    : keywords.newLine} +&quot;Production Environment? &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isProductionEnvironment} + ${keywords.new&
+   string-text    : Line} +&quot;Name &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.name} + ${keywords.newLine} +&quot; Server Instance Type &quot;+${view.c&
+   string-text    : omponents.17a9cea8-9af4-4842-9819-c6668d8b3219.serverInstanceType}+ ${keywords.newLine} +&quot;Developer Id &quot; ${view.components.17a9cea8-9af4-4842-&
+   string-text    : 9819-c6668d8b3219.developerId} + ${keywords.newLine} +&quot;Full Name &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.fullName}+ ${keyword&
+   string-text    : s.newLine} +&quot;Preferred Locale &quot; ${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.preferredLocale} + ${keywords.newLine} +&quot;Preferred&
+   string-text    :  User Locale &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.preferredUserLocale} + ${keywords.newLine} +&quot;Person Instance Id &quot;+$&
+   string-text    : {view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.personInstanceId} + ${keywords.newLine} +&quot;User Id &quot;+${view.components.17a9cea8-9af4-4842&
+   string-text    : -9819-c6668d8b3219.userId} + &quot;.&quot;" class="rx-expression"></span></p>
+end
+begin localizable string
    name           : LSGADG1AANVNMAPQ973GPQ973GKDXW
    timestamp      : 1583437131
    owner          : developer
@@ -823,6 +888,32 @@ begin localizable string
    object-prop    : 2\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : Edit
+end
+begin localizable string
+   name           : LSGADG1AANVNMAQHOELEQHOELEC1PC
+   timestamp      : 1585003576
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : e2d5eaea-24a8-4b9a-99d1-8507d5273cc5
+   owner-objects  : 17\c796f628-f948-4dc3-a62d-c5a65dab53a7
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>hi<span contenteditable="false" rx-expression="&quot;Business Analyst? &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isBusinessAnalys&
+   string-text    : t}+ ${keywords.newLine} +&quot;Tenant Admin? &quot;+ ${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isTenantAdmin} + ${keywords.newLine} +&quot;&
+   string-text    : Saas Admin? &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isSaasAdmin} + ${keywords.newLine} +&quot;Administrator?&quot;+${view.componen&
+   string-text    : ts.17a9cea8-9af4-4842-9819-c6668d8b3219.isAdministrator} + ${keywords.newLine} +&quot; Developer Mode?&quot;+${view.components.17a9cea8-9af4-4842-9819-c&
+   string-text    : 6668d8b3219.developerMode} + ${keywords.newLine} +&quot;Develpment Environment? &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isDevelopm&
+   string-text    : entEnvironment} + ${keywords.newLine} +&quot;Development allowed? &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isDevelopmentAllowed} + &
+   string-text    : ${keywords.newLine} +&quot;Production Environment? &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isProductionEnvironment} + ${keywords.n&
+   string-text    : ewLine} +&quot;Name &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.name} + ${keywords.newLine} +&quot; Server Instance Type &quot;+${view&
+   string-text    : .components.17a9cea8-9af4-4842-9819-c6668d8b3219.serverInstanceType}+ ${keywords.newLine} +&quot;Developer Id &quot;+ ${view.components.17a9cea8-9af4-48&
+   string-text    : 42-9819-c6668d8b3219.developerId} + ${keywords.newLine} +&quot;Full Name &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.fullName}+ ${keyw&
+   string-text    : ords.newLine} +&quot;Preferred Locale &quot; +${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.preferredLocale} + ${keywords.newLine} +&quot;Prefe&
+   string-text    : rred User Locale &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.preferredUserLocale} + ${keywords.newLine} +&quot;Person Instance Id &quo&
+   string-text    : t;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.personInstanceId} + ${keywords.newLine} +&quot;User Id &quot;+${view.components.17a9cea8-9af4-&
+   string-text    : 4842-9819-c6668d8b3219.userId} + &quot;.&quot;" class="rx-expression"></span></p>
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON62
@@ -2903,6 +2994,19 @@ begin localizable string
    string-text    : Holder name
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQHOEDAQHOEDAC0H6
+   timestamp      : 1585002924
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 9a32c17e-b1ae-4549-99d2-feaf01a84043
+   owner-objects  : 17\c796f628-f948-4dc3-a62d-c5a65dab53a7
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>hi</p>
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECP1YQECP1YGIR9
    timestamp      : 1583437132
    owner          : developer
@@ -3684,6 +3788,32 @@ begin localizable string
    string-text    : Not Listening
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQHOE62QHOE62C106
+   timestamp      : 1585003404
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 85e1f733-cce2-40a5-9217-a2fa7f164952
+   owner-objects  : 17\c796f628-f948-4dc3-a62d-c5a65dab53a7
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>hi<span contenteditable="false" rx-expression="&quot;Business Analyst? &quot;${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isBusinessAnalyst&
+   string-text    : }+ ${keywords.newLine} +&quot;Tenant Admin? &quot; ${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isTenantAdmin} + ${keywords.newLine} +&quot;Sa&
+   string-text    : as Admin? &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isSaasAdmin} + ${keywords.newLine} +&quot;Administrator?&quot;+${view.components&
+   string-text    : .17a9cea8-9af4-4842-9819-c6668d8b3219.isAdministrator} + ${keywords.newLine} +&quot; Developer Mode?&quot;+${view.components.17a9cea8-9af4-4842-9819-c66&
+   string-text    : 68d8b3219.developerMode} + ${keywords.newLine} +&quot;Develpment Environment? &quot;${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isDevelopment&
+   string-text    : Environment} + ${keywords.newLine} +&quot;Development allowed? &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isDevelopmentAllowed} + ${k&
+   string-text    : eywords.newLine} +&quot;Production Environment? &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isProductionEnvironment} + ${keywords.newL&
+   string-text    : ine} +&quot;Name &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.name} + ${keywords.newLine} +&quot; Server Instance Type &quot;+${view.co&
+   string-text    : mponents.17a9cea8-9af4-4842-9819-c6668d8b3219.serverInstanceType}+ ${keywords.newLine} +&quot;Developer Id &quot; ${view.components.17a9cea8-9af4-4842-9&
+   string-text    : 819-c6668d8b3219.developerId} + ${keywords.newLine} +&quot;Full Name &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.fullName}+ ${keywords&
+   string-text    : .newLine} +&quot;Preferred Locale &quot; ${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.preferredLocale} + ${keywords.newLine} +&quot;Preferred &
+   string-text    : User Locale &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.preferredUserLocale} + ${keywords.newLine} +&quot;Person Instance Id &quot;+${&
+   string-text    : view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.personInstanceId} + ${keywords.newLine} +&quot;User Id &quot;+${view.components.17a9cea8-9af4-4842-&
+   string-text    : 9819-c6668d8b3219.userId} + &quot;.&quot;" class="rx-expression"></span></p>
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECPBOQECPBOGHO6
    timestamp      : 1583437133
    owner          : developer
@@ -4086,6 +4216,19 @@ begin localizable string
    string-text    :  attribute that is an array of Objects).</p><p>We will access the object "<span style="color:#1abc9c"><strong>movieList</strong></span>" attribute and w&
    string-text    : e loop through the movies and their&nbsp;attributes to generate a String which concatenates the movies information. At each iteration, we will store the&
    string-text    :  movie object in an Object documented as a "movie" Document.</p>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAQHOFB7QHOFB7C3B6
+   timestamp      : 1585004165
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 7b28e302-3f2a-4a26-a03d-50811d409974
+   owner-objects  : 17\1448c456-e3d5-4ab4-8698-f8cc7324e7ab
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : get User Information
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6Q
@@ -5988,6 +6131,21 @@ begin localizable string
    string-text    :  movie object in an Object documented as a "movie" Document.</p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQHOD3TQHOD3TCIB3
+   timestamp      : 1585004116
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 3c4da1a6-91f1-4f01-9f2f-f4986437d94b
+   owner-objects  : 17\ac6721a2-214e-4c04-b0a4-c05fb67b8252
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">VC - Get User informations</span></p><ul><li>This example show how to get the user session information through a custom &
+   string-text    : View Component (get-user-infos) and leverage those informations inside other components,</li><li>Here a Rich Text Field consumes the information from th&
+   string-text    : e component "get-user-infos",</li></ul>
+end
+begin localizable string
    name           : LSGADG1AANVNMAP332YPP332YPZRH6
    timestamp      : 1583437133
    owner          : developer
@@ -6123,6 +6281,28 @@ begin localizable string
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : Listening
+end
+begin localizable string
+   name           : LSGADG1AANVNMAQHOEGIQHOEGIC077
+   timestamp      : 1585003040
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 362e9996-2613-469f-a9b5-1d1a07ab1ac0
+   owner-objects  : 17\c796f628-f948-4dc3-a62d-c5a65dab53a7
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>hi<span contenteditable="false" rx-expression="${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isBusinessAnalyst}+ &quot;,&quot;+ ${view.compo&
+   string-text    : nents.17a9cea8-9af4-4842-9819-c6668d8b3219.isTenantAdmin} + &quot;,&quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isSaasAdmin} + &quot;,&&
+   string-text    : quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isAdministrator} + &quot;,&quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.dev&
+   string-text    : eloperMode} + &quot;,&quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isDevelopmentEnvironment} + &quot;,&quot;+${view.components.17a9cea8-&
+   string-text    : 9af4-4842-9819-c6668d8b3219.isDevelopmentAllowed} + &quot;,&quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isProductionEnvironment} + &quo&
+   string-text    : t;,&quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.name} + &quot;,&quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.serverInst&
+   string-text    : anceType}+ &quot;,&quot;+ ${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.developerId} + &quot;,&quot;+${view.components.17a9cea8-9af4-4842-9819-&
+   string-text    : c6668d8b3219.fullName}+ &quot;,&quot;+ ${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.preferredLocale} + &quot;,&quot;+${view.components.17a9cea&
+   string-text    : 8-9af4-4842-9819-c6668d8b3219.preferredUserLocale} + &quot;,&quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.personInstanceId} + &quot;,&qu&
+   string-text    : ot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.userId} + &quot;.&quot;" class="rx-expression"></span></p>
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQLJ4RPQLJ4RPG57
@@ -7041,6 +7221,33 @@ begin localizable string
    object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
    locale         : default
    string-text    : Fixed
+end
+begin localizable string
+   name           : LSGADG1AANVNMAQHOFAEQHOFAEC2XC
+   timestamp      : 1585004697
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 1835f50a-80a0-4e66-90db-33f7fe750554
+   owner-objects  : 17\c796f628-f948-4dc3-a62d-c5a65dab53a7
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>&nbsp;</p><p><strong>User information:</strong><span contenteditable="false" rx-expression="${keywords.newLine} +&quot;Business Analyst?&
+   string-text    : : &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isBusinessAnalyst}+ ${keywords.newLine} +&quot;Tenant Admin?: &quot;+ ${view.components.&
+   string-text    : 17a9cea8-9af4-4842-9819-c6668d8b3219.isTenantAdmin} + ${keywords.newLine} +&quot;Saas Admin?: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3&
+   string-text    : 219.isSaasAdmin} + ${keywords.newLine} +&quot;Administrator?: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isAdministrator} + ${keyword&
+   string-text    : s.newLine} +&quot; Developer Mode?: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.developerMode} + ${keywords.newLine} +&quot;Developmen&
+   string-text    : t Environment?: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isDevelopmentEnvironment} + ${keywords.newLine} +&quot;Development allowed&
+   string-text    : ?: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isDevelopmentAllowed} + ${keywords.newLine} +&quot;Production Environment?: &quot;+${vi&
+   string-text    : ew.components.17a9cea8-9af4-4842-9819-c6668d8b3219.isProductionEnvironment} + ${keywords.newLine} +&quot;Name: &quot;+${view.components.17a9cea8-9af4-48&
+   string-text    : 42-9819-c6668d8b3219.name} + ${keywords.newLine}+&quot;Login Id?: &quot; + ${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.loginId}  + ${keywords&
+   string-text    : .newLine}  +&quot; Server Instance Type: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.serverInstanceType}+ ${keywords.newLine} +&quot;D&
+   string-text    : eveloper Id: &quot;+ ${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.developerId} + ${keywords.newLine} +&quot;Full Name: &quot;+${view.component&
+   string-text    : s.17a9cea8-9af4-4842-9819-c6668d8b3219.fullName}+ ${keywords.newLine} +&quot;Preferred Locale: &quot; +${view.components.17a9cea8-9af4-4842-9819-c6668d8&
+   string-text    : b3219.preferredLocale} + ${keywords.newLine} +&quot;Preferred User Locale: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.preferredUserLo&
+   string-text    : cale} + ${keywords.newLine} +&quot;Person Instance Id: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.personInstanceId} + ${keywords.newL&
+   string-text    : ine} +&quot;User Id: &quot;+${view.components.17a9cea8-9af4-4842-9819-c6668d8b3219.userId} + &quot;.&quot;" class="rx-expression"></span></p>
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HZPJP3HZPJK9HU

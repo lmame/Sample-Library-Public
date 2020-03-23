@@ -2,7 +2,7 @@ begin process definition
    name           : com.example.samplelibrary:use object as input - object with attributes
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1583437124840,
+   definition     :   "lastUpdateTime" : 1583437124000,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "developer",
    definition     :   "name" : "com.example.samplelibrary:use object as input - object with attributes",
@@ -14,23 +14,8 @@ begin process definition
    definition     :   "internal" : false,
    definition     :   "guid" : "rx-24099f47-4710-4146-8b0f-6d86e915e26b",
    definition     :   "flowElements" : [ {
-   definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "lastUpdateTime" : 1583437124840,
-   definition     :     "lastChangedBy" : "ARSERVER",
-   definition     :     "owner" : "ARSERVER",
-   definition     :     "name" : "Sequence Flow",
-   definition     :     "tags" : null,
-   definition     :     "description" : null,
-   definition     :     "overlayGroupId" : null,
-   definition     :     "developerId" : null,
-   definition     :     "internal" : false,
-   definition     :     "guid" : "rx-180223c8-abb3-407f-b821-73571456393a",
-   definition     :     "sourceNode" : "rx-87dc459e-ce53-45d2-950b-b282ff22f1a7",
-   definition     :     "targetNode" : "rx-b5f57eaa-364c-498b-a347-fb7aa1ed498c",
-   definition     :     "condition" : ""
-   definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.ServiceTaskDefinition",
-   definition     :     "lastUpdateTime" : 1583437124840,
+   definition     :     "lastUpdateTime" : 1583437124000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Creating a string using the object attributes",
@@ -52,8 +37,23 @@ begin process definition
    definition     :     } ],
    definition     :     "runAsUser" : null
    definition     :   }, {
+   definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
+   definition     :     "lastUpdateTime" : 1583437124000,
+   definition     :     "lastChangedBy" : "ARSERVER",
+   definition     :     "owner" : "ARSERVER",
+   definition     :     "name" : "Sequence Flow",
+   definition     :     "tags" : null,
+   definition     :     "description" : null,
+   definition     :     "overlayGroupId" : null,
+   definition     :     "developerId" : null,
+   definition     :     "internal" : false,
+   definition     :     "guid" : "rx-180223c8-abb3-407f-b821-73571456393a",
+   definition     :     "sourceNode" : "rx-87dc459e-ce53-45d2-950b-b282ff22f1a7",
+   definition     :     "targetNode" : "rx-b5f57eaa-364c-498b-a347-fb7aa1ed498c",
+   definition     :     "condition" : ""
+   definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.EndEventDefinition",
-   definition     :     "lastUpdateTime" : 1583437124840,
+   definition     :     "lastUpdateTime" : 1583437124000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "End",
@@ -66,7 +66,7 @@ begin process definition
    definition     :     "event" : null
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.StartEventDefinition",
-   definition     :     "lastUpdateTime" : 1583437124840,
+   definition     :     "lastUpdateTime" : 1583437124000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Start",
@@ -78,7 +78,7 @@ begin process definition
    definition     :     "guid" : "rx-87dc459e-ce53-45d2-950b-b282ff22f1a7"
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "lastUpdateTime" : 1583437124840,
+   definition     :     "lastUpdateTime" : 1583437124000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "Sequence Flow",
@@ -94,7 +94,7 @@ begin process definition
    definition     :   } ],
    definition     :   "inputParams" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.record.ObjectFieldDefinition",
-   definition     :     "lastUpdateTime" : 1583437124840,
+   definition     :     "lastUpdateTime" : 1583437124000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "movieObject",
@@ -119,7 +119,7 @@ begin process definition
    definition     :   } ],
    definition     :   "outputParams" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "lastUpdateTime" : 1583437124840,
+   definition     :     "lastUpdateTime" : 1583437124000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "movieString",

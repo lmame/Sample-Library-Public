@@ -1,7 +1,8 @@
 # Sample-Library-Public
 History:
 * Version:
-* 2.1, 2020/05/03, Converting the project to 20.2.0 SDK.
+* 2.2, 2020/03/23, Adding view component example "get-user-infos".
+* 2.1, 2020/03/05, Converting the project to 20.2.0 SDK.
 * 2.0, 2020/01/13, Adding new examples (digital signature, better view component to display a picture stored in an attachment, a pie chart based on nvd3, creating an attachment field in java code and update a record instance, how to create a Public Java Action), updating links in this README.MD file,
 * 1.9, 2020/01/13, Converting the project to 19.11.0 SDK, fixing a typo in bundle.conf.json,
 * 1.8, 2019/09/25, Converting the project to 19.8.0 SDK.
@@ -62,6 +63,7 @@ Javascript View Components:
 * Displaying a picture stored in a record instance attachment field (better version),
 * Leveraging third party digital signature to allow users to sign using a mouse / fingers and generate a base 64 picture based on the signature (https://github.com/szimek/signature_pad, https://github.com/legalthings/angular-signature),
 * A pie chart leveraging the supplied libraries nvd3 and d3,
+* Getting user informations and broadcast them as output parameters,
 
 
 Javascript Actions:

@@ -2,12 +2,12 @@ begin rule definition
    name           : com.example.samplelibrary:Attach Signature
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1583437125231,
+   definition     :   "lastUpdateTime" : 1583437125000,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "developer",
    definition     :   "name" : "com.example.samplelibrary:Attach Signature",
    definition     :   "tags" : null,
-   definition     :   "description" : "",
+   definition     :   "description" : null,
    definition     :   "overlayGroupId" : "1",
    definition     :   "developerId" : "com.example",
    definition     :   "scope" : "BUNDLE",

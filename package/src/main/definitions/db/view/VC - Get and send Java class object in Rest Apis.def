@@ -2,7 +2,7 @@ begin view definition
    name           : com.example.samplelibrary:VC - Get and send Java class object in Rest Apis
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1583437126102,
+   definition     :   "lastUpdateTime" : 1583437126000,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:VC - Get and send Java class object in Rest Apis",
@@ -18,14 +18,14 @@ begin view definition
    definition     :   "outputParams" : [ ],
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "lastUpdateTime" : 1583437126102,
+   definition     :     "lastUpdateTime" : 1583437126000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "712d3115-80e1-44ec-beb3-ef35098891e7",
    definition     :     "tags" : null,
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : "1",
-   definition     :     "developerId" : "com.example",
+   definition     :     "developerId" : null,
    definition     :     "internal" : false,
    definition     :     "guid" : "712d3115-80e1-44ec-beb3-ef35098891e7",
    definition     :     "type" : "com-example-samplelibrary-send-list",
@@ -40,14 +40,14 @@ begin view definition
    definition     :     } ]
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "lastUpdateTime" : 1583437126102,
+   definition     :     "lastUpdateTime" : 1583437126000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "857b9b7e-9cac-46f4-ae94-9cc2d22f69b1",
    definition     :     "tags" : null,
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : "1",
-   definition     :     "developerId" : "com.example",
+   definition     :     "developerId" : null,
    definition     :     "internal" : false,
    definition     :     "guid" : "857b9b7e-9cac-46f4-ae94-9cc2d22f69b1",
    definition     :     "type" : "rx-rich-text",
