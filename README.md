@@ -1,6 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
+* 2.3, 2020/03/24, Making "get-user-infos" view component retro compatible with 19.11.0.
 * 2.2, 2020/03/23, Adding view component example "get-user-infos".
 * 2.1, 2020/03/05, Converting the project to 20.2.0 SDK.
 * 2.0, 2020/01/13, Adding new examples (digital signature, better view component to display a picture stored in an attachment, a pie chart based on nvd3, creating an attachment field in java code and update a record instance, how to create a Public Java Action), updating links in this README.MD file,

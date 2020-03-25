@@ -99,13 +99,13 @@
                     eventManager.propertyChanged({
                         property: 'preferredLocale',
                         oldValue: null,
-                        newValue: rxCurrentUser.getPreferredLocale()
+                        newValue: _.isFunction(rxCurrentUser.getPreferredLocale) ? rxCurrentUser.getPreferredLocale : ''
                     });
 
                     eventManager.propertyChanged({
                         property: 'preferredUserLocale',
                         oldValue: null,
-                        newValue: rxCurrentUser.getPreferredUserLocale()
+                        newValue: _.isFunction(rxCurrentUser.getPreferredUserLocale) ? rxCurrentUser.getPreferredUserLocale : ''
                     });
 
                     eventManager.propertyChanged({
