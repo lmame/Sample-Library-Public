@@ -2,7 +2,7 @@ begin document definition
    name           : com.example.samplelibrary:movie
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1583437133000,
+   definition     :   "lastUpdateTime" : 1590082909767,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "developer",
    definition     :   "name" : "com.example.samplelibrary:movie",

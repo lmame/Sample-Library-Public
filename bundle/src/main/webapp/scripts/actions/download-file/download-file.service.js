@@ -17,6 +17,10 @@
                             var arrayBufferView = new Uint8Array(fileStream.data),
                                 attachmentFileName = _.last(fileStream.headers('Content-Disposition').split('filename='));
 
+                            if (attachmentFileName) {
+                                attachmentFileName = attachmentFileName.replace(/"/g, '');
+                            }
+
                             var file = new Blob([arrayBufferView], {
                                 type: fileStream.headers('content-type')
                             });

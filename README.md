@@ -1,6 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
+* 2.4, 2020/05/21, Modifying donwload-file action example since the filename logic has slightly changed in 20.2.0 (filename was saved as _matrix.jpg_ instead of matrix.jpg).
 * 2.3, 2020/03/24, Making "get-user-infos" view component retro compatible with 19.11.0.
 * 2.2, 2020/03/23, Adding view component example "get-user-infos".
 * 2.1, 2020/03/05, Converting the project to 20.2.0 SDK.

@@ -2,9 +2,9 @@ begin view definition
    name           : com.example.samplelibrary:VC - Get User Informations
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1585004697384,
-   definition     :   "lastChangedBy" : "developer",
-   definition     :   "owner" : "developer",
+   definition     :   "lastUpdateTime" : 1590082904217,
+   definition     :   "lastChangedBy" : "ARSERVER",
+   definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:VC - Get User Informations",
    definition     :   "tags" : null,
    definition     :   "description" : "",
@@ -18,9 +18,9 @@ begin view definition
    definition     :   "outputParams" : [ ],
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "lastUpdateTime" : 1585004697384,
-   definition     :     "lastChangedBy" : "developer",
-   definition     :     "owner" : "developer",
+   definition     :     "lastUpdateTime" : 1590082904217,
+   definition     :     "lastChangedBy" : "ARSERVER",
+   definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "ac6721a2-214e-4c04-b0a4-c05fb67b8252",
    definition     :     "tags" : null,
    definition     :     "description" : null,
@@ -44,9 +44,9 @@ begin view definition
    definition     :     } ]
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "lastUpdateTime" : 1585004697384,
-   definition     :     "lastChangedBy" : "developer",
-   definition     :     "owner" : "developer",
+   definition     :     "lastUpdateTime" : 1590082904217,
+   definition     :     "lastChangedBy" : "ARSERVER",
+   definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "17a9cea8-9af4-4842-9819-c6668d8b3219",
    definition     :     "tags" : null,
    definition     :     "description" : null,
@@ -66,9 +66,9 @@ begin view definition
    definition     :     } ]
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "lastUpdateTime" : 1585004697384,
-   definition     :     "lastChangedBy" : "developer",
-   definition     :     "owner" : "developer",
+   definition     :     "lastUpdateTime" : 1590082904217,
+   definition     :     "lastChangedBy" : "ARSERVER",
+   definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "c796f628-f948-4dc3-a62d-c5a65dab53a7",
    definition     :     "tags" : null,
    definition     :     "description" : null,
