@@ -2,7 +2,7 @@ begin process definition
    name           : com.example.samplelibrary:save picture from base64
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1591033566816,
+   definition     :   "lastUpdateTime" : 1591037395863,
    definition     :   "lastChangedBy" : "developer",
    definition     :   "owner" : "developer",
    definition     :   "name" : "com.example.samplelibrary:save picture from base64",
@@ -15,7 +15,7 @@ begin process definition
    definition     :   "guid" : "rx-6768a980-33c9-4a7f-a833-a33e80ce0834",
    definition     :   "flowElements" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "lastUpdateTime" : 1591033566816,
+   definition     :     "lastUpdateTime" : 1591037395863,
    definition     :     "lastChangedBy" : "developer",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Sequence Flow",
@@ -30,7 +30,7 @@ begin process definition
    definition     :     "condition" : ""
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.ServiceTaskDefinition",
-   definition     :     "lastUpdateTime" : 1591033566816,
+   definition     :     "lastUpdateTime" : 1591037395863,
    definition     :     "lastChangedBy" : "developer",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Create Record",
@@ -56,7 +56,7 @@ begin process definition
    definition     :     "runAsUser" : null
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.StartEventDefinition",
-   definition     :     "lastUpdateTime" : 1591033566816,
+   definition     :     "lastUpdateTime" : 1591037395863,
    definition     :     "lastChangedBy" : "developer",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Start",
@@ -68,7 +68,7 @@ begin process definition
    definition     :     "guid" : "rx-8c83b541-ccbd-4c97-891e-f5303cfb2dd8"
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.ServiceTaskDefinition",
-   definition     :     "lastUpdateTime" : 1591033566816,
+   definition     :     "lastUpdateTime" : 1591037395863,
    definition     :     "lastChangedBy" : "developer",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Create Attachment",
@@ -97,7 +97,7 @@ begin process definition
    definition     :     "runAsUser" : null
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "lastUpdateTime" : 1591033566816,
+   definition     :     "lastUpdateTime" : 1591037395863,
    definition     :     "lastChangedBy" : "developer",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Sequence Flow",
@@ -112,7 +112,7 @@ begin process definition
    definition     :     "condition" : ""
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.SequenceFlowDefinition",
-   definition     :     "lastUpdateTime" : 1591033566816,
+   definition     :     "lastUpdateTime" : 1591037395863,
    definition     :     "lastChangedBy" : "developer",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Sequence Flow",
@@ -127,7 +127,7 @@ begin process definition
    definition     :     "condition" : ""
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.EndEventDefinition",
-   definition     :     "lastUpdateTime" : 1591033566816,
+   definition     :     "lastUpdateTime" : 1591037395863,
    definition     :     "lastChangedBy" : "developer",
    definition     :     "owner" : "developer",
    definition     :     "name" : "End",
@@ -141,7 +141,7 @@ begin process definition
    definition     :   } ],
    definition     :   "inputParams" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591033566816,
+   definition     :     "lastUpdateTime" : 1591037395863,
    definition     :     "lastChangedBy" : "developer",
    definition     :     "owner" : "developer",
    definition     :     "name" : "picture name",
@@ -171,7 +171,7 @@ begin process definition
    definition     :     "anyUserAllowedToSubmit" : false
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591033566816,
+   definition     :     "lastUpdateTime" : 1591037395863,
    definition     :     "lastChangedBy" : "developer",
    definition     :     "owner" : "developer",
    definition     :     "name" : "base64Picture",
@@ -203,7 +203,7 @@ begin process definition
    definition     :   "outputParams" : [ ],
    definition     :   "localVariables" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.AttachmentFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591033566816,
+   definition     :     "lastUpdateTime" : 1591037395863,
    definition     :     "lastChangedBy" : "developer",
    definition     :     "owner" : "developer",
    definition     :     "name" : "pictureAttachment",
@@ -231,8 +231,17 @@ begin process definition
    definition     :   "contextKeyParam" : null,
    definition     :   "isEnabled" : true,
    definition     :   "permissions" : [ ],
-   definition     :   "layout" : "{\"cells\":[{\"id\":\"8c83b541-ccbd-4c97-891e-f5303cfb2dd8\",\"position\":{\"x\":50,\"y\":375},\"size\":{\"width\":30,\"height\":30},\"type\":\"rx.StartEvent\",\"z\":1,\"attrs\":{\".label\":{\"text\":\"\"}}},{\"content\":\"Create Attachment\",\"id\":\"2df6cfa0-4109-495a-b2e5-4ba4752d89b6\",\"position\":{\"x\":205,\"y\":360},\"size\":{\"width\":90,\"height\":60},\"type\":\"rx.ProcessAction\",\"z\":6},{\"flowType\":\"normal\",\"id\":\"d2fad903-2280-43cf-bfb5-671df9df17b4\",\"labels\":[{\"attrs\":{\"text\":{\"text\":\"\"}},\"position\":\"0.5\"}],\"source\":{\"id\":\"8c83b541-ccbd-4c97-891e-f5303cfb2dd8\"},\"target\":{\"id\":\"2df6cfa0-4109-495a-b2e5-4ba4752d89b6\"},\"type\":\"rx.SequenceFlow\",\"z\":7},{\"content\":\"Create Record\",\"id\":\"812bd807-703b-4627-a63e-c9e6edf998ae\",\"position\":{\"x\":370,\"y\":360},\"size\":{\"width\":90,\"height\":60},\"type\":\"rx.ProcessActions.createRecord\",\"z\":10},{\"flowType\":\"normal\",\"id\":\"d1b4e02d-434f-4c4f-b424-3df39f32aa03\",\"labels\":[{\"attrs\":{\"text\":{\"text\":\"\"}},\"position\":\"0.5\"}],\"source\":{\"id\":\"2df6cfa0-4109-495a-b2e5-4ba4752d89b6\"},\"target\":{\"id\":\"812bd807-703b-4627-a63e-c9e6edf998ae\"},\"type\":\"rx.SequenceFlow\",\"z\":11},{\"id\":\"f920bebe-67b6-4efe-a65e-fd72d810ef55\",\"position\":{\"x\":555,\"y\":375},\"size\":{\"width\":30,\"height\":30},\"type\":\"rx.EndEvent\",\"z\":13,\"attrs\":{\".label\":{\"text\":\"\"}}},{\"flowType\":\"normal\",\"id\":\"22b087cd-619d-4b62-9b71-cc3d1323b2cd\",\"labels\":[{\"attrs\":{\"text\":{\"text\":\"\"}},\"position\":\"0.5\"}],\"source\":{\"id\":\"812bd807-703b-4627-a63e-c9e6edf998ae\"},\"target\":{\"id\":\"f920bebe-67b6-4efe-a65e-fd72d810ef55\"},\"type\":\"rx.SequenceFlow\",\"z\":14}]}",
-   definition     :   "artifacts" : [ ],
+   definition     :   "layout" : "{\"cells\":[{\"id\":\"8c83b541-ccbd-4c97-891e-f5303cfb2dd8\",\"position\":{\"x\":50,\"y\":375},\"size\":{\"width\":30,\"height\":30},\"type\":\"rx.StartEvent\",\"z\":1,\"attrs\":{\".label\":{\"text\":\"\"}}},{\"content\":\"Create Attachment\",\"id\":\"2df6cfa0-4109-495a-b2e5-4ba4752d89b6\",\"position\":{\"x\":205,\"y\":360},\"size\":{\"width\":90,\"height\":60},\"type\":\"rx.ProcessAction\",\"z\":6},{\"flowType\":\"normal\",\"id\":\"d2fad903-2280-43cf-bfb5-671df9df17b4\",\"labels\":[{\"attrs\":{\"text\":{\"text\":\"\"}},\"position\":\"0.5\"}],\"source\":{\"id\":\"8c83b541-ccbd-4c97-891e-f5303cfb2dd8\"},\"target\":{\"id\":\"2df6cfa0-4109-495a-b2e5-4ba4752d89b6\"},\"type\":\"rx.SequenceFlow\",\"z\":7},{\"content\":\"Create Record\",\"id\":\"812bd807-703b-4627-a63e-c9e6edf998ae\",\"position\":{\"x\":370,\"y\":360},\"size\":{\"width\":90,\"height\":60},\"type\":\"rx.ProcessActions.createRecord\",\"z\":10},{\"flowType\":\"normal\",\"id\":\"d1b4e02d-434f-4c4f-b424-3df39f32aa03\",\"labels\":[{\"attrs\":{\"text\":{\"text\":\"\"}},\"position\":\"0.5\"}],\"source\":{\"id\":\"2df6cfa0-4109-495a-b2e5-4ba4752d89b6\"},\"target\":{\"id\":\"812bd807-703b-4627-a63e-c9e6edf998ae\"},\"type\":\"rx.SequenceFlow\",\"z\":11},{\"id\":\"f920bebe-67b6-4efe-a65e-fd72d810ef55\",\"position\":{\"x\":555,\"y\":375},\"size\":{\"width\":30,\"height\":30},\"type\":\"rx.EndEvent\",\"z\":13,\"attrs\":{\".label\":{\"text\":\"\"}}},{\"flowType\":\"normal\",\"id\":\"22b087cd-619d-4b62-9b71-cc3d1323b2cd\",\"labels\":[{\"attrs\":{\"text\":{\"text\":\"\"}},\"position\":\"0.5\"}],\"source\":{\"id\":\"812bd807-703b-4627-a63e-c9e6edf998ae\"},\"target\":{\"id\":\"f920bebe-67b6-4efe-a65e-fd72d810ef55\"},\"type\":\"rx.SequenceFlow\",\"z\":14},{\"content\":\"Creating an attachment object that we will use later in the record instance.\\n\\nThe base64 picture comes with this format:\\ndata:image/png;base64,<base64 content>\\nBut in our case we do not expect \\\"data:image/png;base64,\\\" so we need to remove this \\\"header\\\" to only decode the \\\"base64 content\\\".\\n\\nWe use the REPLACE(() function for this.\",\"id\":\"ec1bd973-6ebc-402a-a22c-dd19c29fe672\",\"position\":{\"x\":62.5,\"y\":55},\"size\":{\"width\":375,\"height\":220},\"type\":\"rx.TextAnnotation\",\"z\":24},{\"flowType\":\"association\",\"id\":\"32b46069-ca2f-411c-8d40-f8cde413c244\",\"source\":{\"id\":\"ec1bd973-6ebc-402a-a22c-dd19c29fe672\"},\"target\":{\"id\":\"2df6cfa0-4109-495a-b2e5-4ba4752d89b6\"},\"type\":\"rx.TextAnnotationAssociation\",\"z\":25}]}",
+   definition     :   "artifacts" : [ {
+   definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.TextAnnotation",
+   definition     :     "guid" : "rx-ec1bd973-6ebc-402a-a22c-dd19c29fe672",
+   definition     :     "text" : "Creating an attachment object that we will use later in the record instance.\n\nThe base64 picture comes with this format:\ndata:image/png;base64,<base64 content>\nBut in our case we do not expect \"data:image/png;base64,\" so we need to remove this \"header\" to only decode the \"base64 content\".\n\nWe use the REPLACE(() function for this."
+   definition     :   }, {
+   definition     :     "resourceType" : "com.bmc.arsys.rx.services.process.domain.TextAnnotationAssociation",
+   definition     :     "guid" : "rx-32b46069-ca2f-411c-8d40-f8cde413c244",
+   definition     :     "sourceNode" : "rx-ec1bd973-6ebc-402a-a22c-dd19c29fe672",
+   definition     :     "targetNode" : "rx-2df6cfa0-4109-495a-b2e5-4ba4752d89b6"
+   definition     :   } ],
    definition     :   "runAsUser" : false,
    definition     :   "synchronous" : true,
    definition     :   "overlayDescriptor" : null,
