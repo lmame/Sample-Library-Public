@@ -1,7 +1,8 @@
 # Sample-Library-Public
 History:
 * Version:
-* 2.4, 2020/05/21, Modifying donwload-file action example since the filename logic has slightly changed in 20.2.0 (filename was saved as _matrix.jpg_ instead of matrix.jpg).
+* 2.5, 2020/06/01, Adding the webcam view component example and an example how to use fonts in a custom class.
+* 2.4, 2020/05/21, Modifying download-file action example since the filename logic has slightly changed in 20.2.0 (filename was saved as _matrix.jpg_ instead of matrix.jpg).
 * 2.3, 2020/03/24, Making "get-user-infos" view component retro compatible with 19.11.0.
 * 2.2, 2020/03/23, Adding view component example "get-user-infos".
 * 2.1, 2020/03/05, Converting the project to 20.2.0 SDK.
@@ -65,7 +66,8 @@ Javascript View Components:
 * Displaying a picture stored in a record instance attachment field (better version),
 * Leveraging third party digital signature to allow users to sign using a mouse / fingers and generate a base 64 picture based on the signature (https://github.com/szimek/signature_pad, https://github.com/legalthings/angular-signature),
 * A pie chart leveraging the supplied libraries nvd3 and d3,
-* Getting user informations and broadcast them as output parameters,
+* Getting user information and broadcast them as output parameters,
+* Use the webcam directive (https://github.com/jonashartmann/webcam-directive) to grab a picture from the webcam and save it in a record instance using a process "Create Attachment" service,
 
 
 Javascript Actions:
@@ -91,6 +93,7 @@ Java Commands:
 Tips & tricks
 * How to pass custom objects in a process and access its properties (list of strings, object, list of objects) (see next example that complents this one),
 * How to pass custom objects in a process and access its properties (list of strings, object, list of objects) and using Documents to access an Object attribute rather than using the object "path",
+* Use fonts in a custom css class and apply it to objects (grid, rich text field etc...),
 
 
 Apis description:

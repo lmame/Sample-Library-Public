@@ -2,7 +2,7 @@ begin view definition
    name           : com.example.samplelibrary:VC - Display Data
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1590082901701,
+   definition     :   "lastUpdateTime" : 1590084853000,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:VC - Display Data",
@@ -18,21 +18,21 @@ begin view definition
    definition     :   "outputParams" : [ ],
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "lastUpdateTime" : 1590082901701,
+   definition     :     "lastUpdateTime" : 1590084853000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
-   definition     :     "name" : "87fcc1db-4f8c-402a-8a55-a824f53ff374",
+   definition     :     "name" : "38b77cfe-02db-47fd-b07e-a30ad6949a3c",
    definition     :     "tags" : null,
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : "1",
-   definition     :     "developerId" : "com.example",
+   definition     :     "developerId" : null,
    definition     :     "internal" : false,
-   definition     :     "guid" : "87fcc1db-4f8c-402a-8a55-a824f53ff374",
-   definition     :     "type" : "com-example-samplelibrary-display-data",
+   definition     :     "guid" : "38b77cfe-02db-47fd-b07e-a30ad6949a3c",
+   definition     :     "type" : "rx-rich-text",
    definition     :     "propertiesByName" : {
-   definition     :       "fieldLabelToDisplay" : "'This is a label, here Description\"",
-   definition     :       "recordDefinitionName" : "IDGIXIUWC3XSKAOTID43OS1XT8ON2D",
-   definition     :       "fieldIdToDisplay" : "8"
+   definition     :       "autoFill" : "false",
+   definition     :       "html" : "6106ced5-fd86-4c93-83c1-ad90111c0a1f",
+   definition     :       "hidden" : "0"
    definition     :     },
    definition     :     "permissions" : [ {
    definition     :       "ownerId" : {
@@ -44,21 +44,21 @@ begin view definition
    definition     :     } ]
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "lastUpdateTime" : 1590082901701,
+   definition     :     "lastUpdateTime" : 1590084853000,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
-   definition     :     "name" : "38b77cfe-02db-47fd-b07e-a30ad6949a3c",
+   definition     :     "name" : "87fcc1db-4f8c-402a-8a55-a824f53ff374",
    definition     :     "tags" : null,
    definition     :     "description" : null,
    definition     :     "overlayGroupId" : "1",
-   definition     :     "developerId" : "com.example",
+   definition     :     "developerId" : null,
    definition     :     "internal" : false,
-   definition     :     "guid" : "38b77cfe-02db-47fd-b07e-a30ad6949a3c",
-   definition     :     "type" : "rx-rich-text",
+   definition     :     "guid" : "87fcc1db-4f8c-402a-8a55-a824f53ff374",
+   definition     :     "type" : "com-example-samplelibrary-display-data",
    definition     :     "propertiesByName" : {
-   definition     :       "autoFill" : "false",
-   definition     :       "html" : "6106ced5-fd86-4c93-83c1-ad90111c0a1f",
-   definition     :       "hidden" : "0"
+   definition     :       "fieldLabelToDisplay" : "'This is a label, here Description\"",
+   definition     :       "recordDefinitionName" : "IDGIXIUWC3XSKAOTID43OS1XT8ON2D",
+   definition     :       "fieldIdToDisplay" : "8"
    definition     :     },
    definition     :     "permissions" : [ {
    definition     :       "ownerId" : {

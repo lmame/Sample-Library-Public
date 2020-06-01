@@ -43,6 +43,7 @@
         'com.example.samplelibrary.view-components.display-image',                  // Display a picture from an attachment, with more options
         'com.example.samplelibrary.view-components.nvd3-chart',                      // Draw a pie chart from record definition data
         'com.example.samplelibrary.view-components.digital-signature',                   // Digital Signature implementation
-        'com.example.samplelibrary.view-components.get-user-infos'                   // Getting user informations and making them available
+        'com.example.samplelibrary.view-components.get-user-infos',                   // Getting user informations and making them available
+        'com.example.samplelibrary.view-components.webcam'                              // Webcam example.
     ]);
 })();

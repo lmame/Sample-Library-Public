@@ -1,6 +1,6 @@
 begin localizable string
    name           : LSGADG1AANVNMAP3HZPJP3HZPJK9HP
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -13,7 +13,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JUWZP3JUWZWNB9
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -26,7 +26,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXX
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -39,7 +39,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQHOEP4QHOEP4C2BV
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -65,7 +65,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IHEBP3IHEBKPYJ
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -78,7 +78,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIDSXOTIDSXON2T
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -90,8 +90,34 @@ begin localizable string
    string-text    : ID
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1JJMOQ1JJMO46Y5
+   timestamp      : 1591028736
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : fd27ec15-58de-445e-9a04-e691b1e45dd1
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Closed
+end
+begin localizable string
+   name           : LSGADG1AANVNMAQ1JJMOQ1JJMO46Y4
+   timestamp      : 1591028736
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : fbe81cbf-d4e0-43ba-b79c-0a5261fb7960
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Rejected
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECPBOQECPBOGHOI
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -104,7 +130,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ96ZJPQ96ZJKCPB
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -117,7 +143,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3Y
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -130,7 +156,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVPPQGMVPVV0A
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -143,7 +169,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQHOFCEQHOFCEC3DP
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -155,8 +181,47 @@ begin localizable string
    string-text    : Get All User Session Information
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J4BUQ1J4BU4U0Q
+   timestamp      : 1591034466
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : f8e687d8-7bb3-45fa-a057-115826806acf
+   owner-objects  : 17\d28f16e7-46a2-4eb1-ae7c-f83efa3eda76
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Save picture
+end
+begin localizable string
+   name           : LSGADG1AANVNMAQ1J4FSQ1J4FS4UNA
+   timestamp      : 1591034608
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : f8b92035-a4da-447a-afad-2af9b356b238
+   owner-objects  : 17\8de3dafe-c755-4959-b45c-a7a850725335
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>&nbsp;</p><p>Captured pictures:</p>
+end
+begin localizable string
+   name           : LSGADG1AANVNMAQ1J3X3Q1J3X34TW0
+   timestamp      : 1591034305
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : f8ade72b-08d6-4c49-8817-29cda08efd1d
+   owner-objects  : 17\d28f16e7-46a2-4eb1-ae7c-f83efa3eda76
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Save picture
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECOXBQECOXBGH0E
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -169,7 +234,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ975DPQ975DKEE3
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -182,7 +247,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGLGRPQGLGRVQC9
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -195,7 +260,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP335XJP335XJZUFP
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -207,8 +272,21 @@ begin localizable string
    string-text    : Download a file from a grid
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J4FSQ1J4FS4UNB
+   timestamp      : 1591034608
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : f57e3c67-8910-4612-bb87-dc12e5843472
+   owner-objects  : 17\84c4063c-1d51-4f85-8b6f-b22c62ffa732
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Picture name
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYP3MCOYP3MC37M5
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -221,7 +299,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JUWZP3JUWZWNBK
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -234,7 +312,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8S
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -247,7 +325,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HZS7P3HZS7K92C
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -260,7 +338,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3J81YP3J81YW1KD
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -272,8 +350,21 @@ begin localizable string
    string-text    : Generate Movie List
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J3SNQ1J3SN4T7Q
+   timestamp      : 1591034135
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : f3a532b6-3cf4-4f20-ab14-469a862c8f96
+   owner-objects  : 17\8de3dafe-c755-4959-b45c-a7a850725335
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+end
+begin localizable string
    name           : LSGADG1AANVNMAPQ97DMPQ97DMKDCW
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -286,7 +377,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP2NQECP2NGIUR
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -299,7 +390,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPDXQECPDXGHWC
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -312,7 +403,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP2NQECP2NGIUP
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -325,7 +416,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRYIQECRYIG6V5
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -338,7 +429,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVPPQGMVPVVJW
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -351,7 +442,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ97CMPQ97CMKCZA
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -364,7 +455,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPH4QECPH4GI2I
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -377,7 +468,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTID43OTID43ON2I
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -390,7 +481,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQE7GEPQE7GEPOYE
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -403,7 +494,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ967XPQ967XKB14
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -416,7 +507,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRXDQECRXDG6RS
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -429,7 +520,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP35I4PP35I4PB5BV
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -445,7 +536,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JUZ3P3JUZ3WNDW
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -460,7 +551,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ96ZJPQ96ZJKCOX
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -473,7 +564,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMKZPQGMKZVU1I
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -486,7 +577,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPH4QECPH4GI20
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -499,7 +590,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQ1FXOYQ1FX3LBX
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -512,7 +603,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3J81YP3J81YW1KA
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -526,7 +617,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPEYQECPEYGIAL
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -539,7 +630,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQLJ8QPQLJ8QPGSF
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -552,7 +643,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUT
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -565,7 +656,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HXHWP3HXHWK6T8
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -578,7 +669,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVPPQGMVPVVJS
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -591,7 +682,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3ORZFP3ORZFJQ9H
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -604,7 +695,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF8SOTIF8SON7I
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -617,7 +708,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7D
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -631,7 +722,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ96ZJPQ96ZJKCOW
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -644,7 +735,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMIRPQGMIRVTHS
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -657,7 +748,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ96EFPQ96EFKAF6
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -670,7 +761,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTQ2HOYTQ2H3VUM
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -683,7 +774,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRRMQECRRMG603
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -696,7 +787,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMKZPQGMKZVU1J
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -709,7 +800,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6G
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -722,7 +813,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP332YPP332YPZRH4
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -735,7 +826,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQE7GEPQE7GEPOYF
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -747,8 +838,21 @@ begin localizable string
    string-text    : <p>First view Component</p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1JG5KQ1JG5K4HO4
+   timestamp      : 1591024592
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : e5374dd6-c114-4202-8b12-d0c1b80f6673
+   owner-objects  : 17\5e280184-6fa8-46aa-a69f-5302850c1a4e
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : New Menu Item
+end
+begin localizable string
    name           : LSGADG1AANVNMAPQGL04PQGL04VQ2Z
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -761,7 +865,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4U
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -774,7 +878,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP5AQECP5AGJCU
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -787,7 +891,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP332YPP332YPZRH7
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -800,7 +904,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP31HZDP31HZDXVI7
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -822,7 +926,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ96ZJPQ96ZJKCPA
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -835,7 +939,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HND5P3HND5KH1P
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -852,7 +956,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQHOE91QHOE91C194
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -878,7 +982,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ973GPQ973GKDXW
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -891,7 +995,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQHOELEQHOELEC1PC
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -917,7 +1021,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON62
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -930,7 +1034,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4R
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -942,8 +1046,21 @@ begin localizable string
    string-text    : <p>Create association :)</p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J0BYQ1J0BY48J2
+   timestamp      : 1591029345
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : e2649127-ff3a-4ef3-8278-b043aa8d7bc3
+   owner-objects  : 17\4512eeb6-eea2-4239-8bd5-67b4ed4cff4c
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>The version on the left is the OOTB version, the version&nbsp;on the right has the custom class "com-example-library-great-vibes-font" applied.</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9J
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -956,7 +1073,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM3QPQGM3QVTPS
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -969,7 +1086,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPEYQECPEYGIA5
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -982,7 +1099,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM3QPQGM3QVTPR
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -995,7 +1112,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IHEBP3IHEBKPY0
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1012,7 +1129,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ96EFPQ96EFKAF4
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1025,7 +1142,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3Z
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1038,7 +1155,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPGKQECPGKGIIF
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1051,7 +1168,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ97H9PQ97H9KD4P
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1064,7 +1181,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ965APQ965AKBCM
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1077,7 +1194,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP2NQECP2NGIUU
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1090,7 +1207,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP1YQECP1YGIRO
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1103,7 +1220,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPDXQECPDXGHWA
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1116,7 +1233,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP30FXWP30FXWWXNA
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1132,7 +1249,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP4A6OYP4A637Q0
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1145,7 +1262,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPEYQECPEYGIA7
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1158,7 +1275,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYOQWPFYOQWYVU1
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1171,7 +1288,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JUWZP3JUWZWNBL
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1184,7 +1301,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JV9HP3JV9HWNRG
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1197,7 +1314,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3J86RP3J86RW1P7
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1209,8 +1326,21 @@ begin localizable string
    string-text    : Imput movie list
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J3SNQ1J3SN4T7P
+   timestamp      : 1591034135
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : db4291d9-ba15-43c8-8ba8-10af09e59d0a
+   owner-objects  : 17\3fcf81b0-9604-4941-a7ce-677f6bdb3db3
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : picture base64
+end
+begin localizable string
    name           : LSGADG1AANVNMAP3HZN2P3HZN2K9EF
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1223,7 +1353,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ967XPQ967XKB15
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1235,8 +1365,21 @@ begin localizable string
    string-text    : Address
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1JJSUQ1JJSU476U
+   timestamp      : 1591028958
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : d902dcbb-bec1-492a-9153-35a7c0168e50
+   owner-objects  : 17\330577c1-bb87-43a3-b712-e2a265361af1
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : ID
+end
+begin localizable string
    name           : LSGADG1AANVNMAPQ975DPQ975DKEE6
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1248,8 +1391,21 @@ begin localizable string
    string-text    : Address
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J0BYQ1J0BY48JH
+   timestamp      : 1591029286
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : d72be31c-55de-4568-ab25-413c7be2bcc5
+   owner-objects  : 17\ba239e39-436f-4d2b-8100-63add6875218
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Modified Date
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECPH4QECPH4GI2E
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1262,7 +1418,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON92
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1275,7 +1431,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP1YQECP1YGIR7
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1288,7 +1444,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON95
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1301,7 +1457,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYN5WPFYN5WYTI4
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1314,7 +1470,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IHSNP3IHSNKQPW
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1327,7 +1483,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGKWFPQGKWFVPGD
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1340,7 +1496,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ967XPQ967XKB13
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1353,7 +1509,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP3NUOYP3NU37NL
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1366,7 +1522,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7N
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1379,7 +1535,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IAB9P3IAB9K9OD
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1392,7 +1548,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVHPQGMVHVVGP
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1408,7 +1564,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVPPQGMVPVVJU
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1420,8 +1576,21 @@ begin localizable string
    string-text    : Object with an attribute containing an array of movies
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J3SNQ1J3SN4T7O
+   timestamp      : 1591034135
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : d25a7365-c17a-4d30-a742-34448c7eacc7
+   owner-objects  : 17\d28f16e7-46a2-4eb1-ae7c-f83efa3eda76
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Save picture
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIDKUOTIDKUON2P
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1434,7 +1603,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3J81YP3J81YW1KC
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1452,7 +1621,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF8SOTIF8SON7J
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1465,7 +1634,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IAB9P3IAB9K9OF
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1478,7 +1647,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPG2QECPG2GIGG
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1491,7 +1660,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM3QPQGM3QVTPW
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1509,7 +1678,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8W
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1521,8 +1690,23 @@ begin localizable string
    string-text    : Call Java command
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J0BYQ1J0BY48JJ
+   timestamp      : 1591034235
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : cfeccc0a-633d-4e40-aee0-7ff1e707fbcb
+   owner-objects  : 17\ceef0faa-a798-4749-8ad2-c1439c723d6b
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">Tips: Using a font in a custom CSS class</span></p><ul><li>This example shows how to use a custom CSS class defined in t&
+   string-text    : he Sample Application (in _custom-classes.scss) and apply it to a container or an object,</li><li>This custom class leverages the font "GreatVibes", whi&
+   string-text    : ch is bundled in this application (in resources/fonts/ folder),</li></ul><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+end
+begin localizable string
    name           : LSGADG1AANVNMAPQ973GPQ973GKDXX
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1535,7 +1719,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGKWFPQGKWFVPFZ
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1552,7 +1736,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IIQYP3IIQYKRM0
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1564,8 +1748,21 @@ begin localizable string
    string-text    : New
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J3RTQ1J3RT4T45
+   timestamp      : 1591034105
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : cddb56a1-9367-4723-a78a-913f80b30dd1
+   owner-objects  : 17\8de3dafe-c755-4959-b45c-a7a850725335
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+end
+begin localizable string
    name           : LSGADG1AANVNMAPQE1TOPQE1TOPJIW
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1585,7 +1782,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQLJ8QPQLJ8QPGSB
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1605,7 +1802,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVPPQGMVPVVJV
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1618,7 +1815,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSK
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1631,7 +1828,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP5AQECP5AGJDF
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1644,7 +1841,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP5AQECP5AGJCV
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1657,7 +1854,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ97DLPQ97DLKDCS
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1670,7 +1867,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPDXQECPDXGHVZ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1682,8 +1879,21 @@ begin localizable string
    string-text    : Holder name
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J0BYQ1J0BY48JI
+   timestamp      : 1591029286
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : c80507ad-055a-4f78-bc46-9e458a54ef7e
+   owner-objects  : 17\002052de-d4b0-4240-9298-d948013a059c
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Modified Date
+end
+begin localizable string
    name           : LSGADG1AANVNMAP3HZN2P3HZN2K9EG
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1696,7 +1906,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM0APQGM0AVT3H
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1709,7 +1919,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6K
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1722,7 +1932,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HNI0P3HNI0KH7I
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1735,7 +1945,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTID43OTID43ON2G
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1748,7 +1958,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HXHWP3HXHWK6T6
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1761,7 +1971,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRVSQECRVSG6NB
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1774,7 +1984,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP5AQECP5AGJDA
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1787,7 +1997,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP1YQECP1YGIRN
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1800,7 +2010,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTQ0ROYTQ0R3VUG
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1813,7 +2023,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ965APQ965AKBC9
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1826,7 +2036,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYN5WPFYN5WYTI5
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1839,7 +2049,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6H
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1852,7 +2062,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPDXQECPDXGHWF
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1865,7 +2075,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6M
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1878,7 +2088,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYOFLPFYOFLYUVO
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1891,7 +2101,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ97DLPQ97DLKDCR
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1904,7 +2114,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM01PQGM01VT5L
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1917,7 +2127,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON65
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1930,7 +2140,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IIQZP3IIQZKRM3
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1943,7 +2153,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPGKQECPGKGIIH
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1956,7 +2166,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVHPQGMVHVVGY
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1969,7 +2179,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMIRPQGMIRVTHU
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -1987,7 +2197,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRYIQECRYIG6V6
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2000,7 +2210,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPG2QECPG2GIGH
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2013,7 +2223,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPANZP3PANZP3ME4L
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2026,7 +2236,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTID43OTID43ON2E
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2039,7 +2249,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ975DPQ975DKEE8
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2052,7 +2262,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM01PQGM01VT5M
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2065,7 +2275,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP30FXVP30FXVWXMY
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2078,7 +2288,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JV8DP3JV8DWNPO
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2091,7 +2301,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP2NQECP2NGIUV
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2104,7 +2314,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVHPQGMVHVVGT
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2117,7 +2327,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGMHOTIGMHON8X
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2131,7 +2341,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6N
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2144,7 +2354,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRXDQECRXDG6RP
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2157,7 +2367,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTQGYOYTQGY3VTN
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2170,7 +2380,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3OV0JP3OV0JJTQM
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2185,7 +2395,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6R
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2198,7 +2408,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFTXOTIFTXON72
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2213,7 +2423,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3J84VP3J84VW1NF
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2226,7 +2436,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPBOQECPBOGHO1
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2239,7 +2449,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP5AQECP5AGJDD
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2252,7 +2462,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQE7F1PQE7F1POST
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2265,7 +2475,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYOQWPFYOQWYVU0
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2282,7 +2492,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPDXQECPDXGHWG
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2295,7 +2505,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPG2QECPG2GIFY
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2308,7 +2518,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ965APQ965AKBC8
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2321,7 +2531,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVHPQGMVHVVGX
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2339,7 +2549,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ975DPQ975DKEE2
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2352,7 +2562,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGKWFPQGKWFVPFY
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2369,7 +2579,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4T
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2382,7 +2592,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRRMQECRRMG601
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2395,7 +2605,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ973GPQ973GKDXU
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2408,7 +2618,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPDXQECPDXGHWI
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2421,7 +2631,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3OUVFP3OUVFJT2E
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2437,7 +2647,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON69
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2451,7 +2661,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTID43OTID43ON20
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2464,7 +2674,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8V
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2477,7 +2687,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSN
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2490,7 +2700,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPGKQECPGKGII0
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2503,7 +2713,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEVUOTIEVUON5S
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2516,7 +2726,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIDKUOTIDKUON2N
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2529,7 +2739,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECSX1QECSX1G9TW
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2542,7 +2752,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HXHWP3HXHWK6T9
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2555,7 +2765,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6P
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2568,7 +2778,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQE2CZPQE2CZP0A7
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2581,7 +2791,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF8SOTIF8SON7H
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2594,7 +2804,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ907LPQ907L99PY
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2615,7 +2825,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ97DLPQ97DLKDCT
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2628,7 +2838,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON64
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2641,7 +2851,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPANZNYPANZNYME3S
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2656,7 +2866,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUS
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2669,7 +2879,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HZOVP3HZOVK9GV
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2682,7 +2892,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM0BPQGM0BVT30
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2699,8 +2909,21 @@ begin localizable string
    string-text    :  movie object in an Object documented as a "movie" Document.</p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J0FQQ1J0FQ48OU
+   timestamp      : 1591029422
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : a80a1062-86d8-4935-b069-a70924d7512d
+   owner-objects  : 17\dad96304-47d0-49b8-a3ce-2610e7659433
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Using a custom css class (with font)
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECQ4NQECQ4NG2J2
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2713,7 +2936,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP3SUOYP3SU37P1
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2726,7 +2949,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HZPJP3HZPJK9HS
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2739,7 +2962,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPDXQECPDXGHWB
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2752,7 +2975,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQLJ77PQLJ77PGNT
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2765,7 +2988,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGKZXPQGKZXVP8O
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2778,7 +3001,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP4A6OYP4A637Q1
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2792,7 +3015,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVPPQGMVPVVJX
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2805,7 +3028,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ97DMPQ97DMKDCV
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2818,7 +3041,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP4A6OYP4A637Q2
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2831,7 +3054,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMKZPQGMKZVU12
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2844,7 +3067,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HZOVP3HZOVK9GX
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2857,7 +3080,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGKWFPQGKWFVPGE
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2873,7 +3096,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGLVIPQGLVIVSD3
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2886,7 +3109,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP1YQECP1YGIR8
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2899,7 +3122,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP3OJOYP3OJ37NY
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2912,7 +3135,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM3QPQGM3QVTPZ
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2925,7 +3148,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMKZPQGMKZVU16
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2942,8 +3165,21 @@ begin localizable string
    string-text    :  movie object in an Object documented as a "movie" Document.</p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J4BUQ1J4BU4U0T
+   timestamp      : 1591034466
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 9d9f9bb6-51a5-48cb-9499-0f525f6ca704
+   owner-objects  : 17\84c4063c-1d51-4f85-8b6f-b22c62ffa732
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Picture name
+end
+begin localizable string
    name           : LSGADG1AANVNMAP3IIQZP3IIQZKRM4
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2956,7 +3192,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6L
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2969,7 +3205,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7O
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2982,7 +3218,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP1YQECP1YGIR6
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -2995,7 +3231,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQHOEDAQHOEDAC0H6
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3008,7 +3244,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP1YQECP1YGIR9
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3020,8 +3256,21 @@ begin localizable string
    string-text    : Clear Signature
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J3S6Q1J3S64T68
+   timestamp      : 1591034128
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 99f6bd75-54ef-4a0d-8c7b-5504e5026ce5
+   owner-objects  : 17\3fcf81b0-9604-4941-a7ce-677f6bdb3db3
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : picture base64
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECPBOQECPBOGHO0
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3034,7 +3283,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ96ZJPQ96ZJKCOY
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3047,7 +3296,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JUZ3P3JUZ3WNDX
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3060,7 +3309,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPH4QECPH4GI2G
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3073,7 +3322,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8T
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3086,7 +3335,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIDKUOTIDKUON2O
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3099,7 +3348,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPEYQECPEYGIA6
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3112,7 +3361,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPBOQECPBOGHO8
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3125,7 +3374,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3I4NSP3I4NSBS1H
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3146,8 +3395,21 @@ begin localizable string
    string-text    : able as an output parameter to be displayed in "Selected Title",</li></ul></li><li>The custom view component is "custom-grid"</li></ul>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J3X3Q1J3X34TW1
+   timestamp      : 1591034305
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 96cf3d82-6848-4caf-be47-106f60964e63
+   owner-objects  : 17\3fcf81b0-9604-4941-a7ce-677f6bdb3db3
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : picture base64
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXW
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3160,7 +3422,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRYIQECRYIG6VK
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3173,7 +3435,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3V
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3186,7 +3448,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRXDQECRXDG6RR
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3199,7 +3461,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ96EFPQ96EFKAF8
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3212,7 +3474,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ975DPQ975DKEE7
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3225,7 +3487,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IAB9P3IAB9K9OG
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3238,7 +3500,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ96EFPQ96EFKAF5
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3251,7 +3513,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON93
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3264,7 +3526,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JV8DP3JV8DWNPR
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3277,7 +3539,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HZOVP3HZOVK9GY
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3290,7 +3552,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ967XPQ967XKB16
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3303,7 +3565,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP3SUOYP3SU37P2
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3316,7 +3578,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIDSXOTIDSXON2S
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3329,7 +3591,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP5AQECP5AGJCY
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3342,7 +3604,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRVSQECRVSG6ND
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3354,8 +3616,21 @@ begin localizable string
    string-text    : Mark as Released
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J4FSQ1J4FS4UMX
+   timestamp      : 1591034608
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 90dcafd3-e555-4723-933b-c311ad391c92
+   owner-objects  : 17\47e07b1e-a92a-4cc7-94d6-bbfa084fb3df
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>Please select a picture in the grid.</p>
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECRXDQECRXDG6RO
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3368,7 +3643,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP83FOYP83F38DE
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3381,7 +3656,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3J8KGP3J8KGW1T1
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3394,7 +3669,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7F
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3407,7 +3682,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRVSQECRVSG6MY
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3420,7 +3695,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP332YPP332YPZRH8
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3433,7 +3708,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMIRPQGMIRVTHT
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3446,7 +3721,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPH4QECPH4GI2J
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3458,8 +3733,21 @@ begin localizable string
    string-text    : ID
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1JJMOQ1JJMO46Y1
+   timestamp      : 1591028736
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 8c57a218-4f07-411f-bb26-6dd23b4f9225
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Assigned
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYP4ENOYP4EN37RI
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3476,7 +3764,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQLJ77PQLJ77PGNR
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3492,7 +3780,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVHPQGMVHVVGS
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3505,7 +3793,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IIQYP3IIQYKRM2
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3518,7 +3806,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGKWFPQGKWFVPGA
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3531,7 +3819,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3OUATP3OUATJS3W
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3548,7 +3836,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP3OJOYP3OJ37NZ
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3561,7 +3849,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3J8QVP3J8QVW2AR
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3574,7 +3862,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXU
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3587,7 +3875,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP31INLP31INLXVX8
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3612,7 +3900,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMKZPQGMKZVU13
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3624,8 +3912,34 @@ begin localizable string
    string-text    : Title
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1JJMOQ1JJMO46Y6
+   timestamp      : 1591028736
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 896d8145-87ce-4342-a63b-7e4e95d2d0b4
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Not Listening
+end
+begin localizable string
+   name           : LSGADG1AANVNMAQ1J3RTQ1J3RT4T43
+   timestamp      : 1591034105
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 894be038-3d1c-4951-a851-a8a47b960ac5
+   owner-objects  : 17\d28f16e7-46a2-4eb1-ae7c-f83efa3eda76
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Save picture
+end
+begin localizable string
    name           : LSGADG1AANVNMAPQGMVPPQGMVPVVJY
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3643,7 +3957,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM3QPQGM3QVTPT
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3656,7 +3970,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JV8DP3JV8DWNPQ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3669,7 +3983,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP1YQECP1YGIRR
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3682,7 +3996,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVHPQGMVHVVGZ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3695,7 +4009,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ967XPQ967XKB11
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3708,7 +4022,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IACPP3IACPK9QC
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3721,7 +4035,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTID43OTID43ON2H
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3734,7 +4048,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3OV0JP3OV0JJTQL
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3750,7 +4064,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP2NQECP2NGIUS
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3763,7 +4077,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPBOQECPBOGHO4
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3776,7 +4090,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSO
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3789,7 +4103,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQHOE62QHOE62C106
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3815,7 +4129,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPBOQECPBOGHO6
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3828,7 +4142,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ973GPQ973GKDXV
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3841,7 +4155,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6I
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3854,7 +4168,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ97DMPQ97DMKDCX
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3867,7 +4181,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON67
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3880,7 +4194,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM0BPQGM0BVT3I
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3893,7 +4207,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4V
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3906,7 +4220,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIDNAOTIDNAON2Q
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3922,7 +4236,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3I7ZRP3I7ZRV5QG
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3935,7 +4249,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPEYQECPEYGIAO
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3948,7 +4262,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP31HMFP31HMFXUV3
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3961,7 +4275,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUI
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3974,7 +4288,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECSOHQECSOHG9A9
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -3987,7 +4301,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPDXQECPDXGHWE
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4000,7 +4314,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP2NQECP2NGIUW
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4013,7 +4327,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JKX1P3JKX1W4BR
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4026,7 +4340,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPG2QECPG2GIGA
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4039,7 +4353,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVHPQGMVHVVGW
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4052,7 +4366,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM01PQGM01VT5P
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4070,7 +4384,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM01PQGM01VT5N
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4083,7 +4397,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPGKQECPGKGIID
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4096,7 +4410,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ975DPQ975DKEE5
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4109,7 +4423,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYOR6PFYOR6YVVU
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4122,7 +4436,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGKWFPQGKWFVPFW
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4135,7 +4449,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTID3VOTID3VON2C
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4149,7 +4463,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPGKQECPGKGII2
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4162,7 +4476,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPG2QECPG2GIGE
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4175,7 +4489,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP5AQECP5AGJDC
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4187,8 +4501,21 @@ begin localizable string
    string-text    : ID
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J0BYQ1J0BY48J5
+   timestamp      : 1591029286
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 7c4519f1-5817-43fc-8517-434bcfa10fc4
+   owner-objects  : 17\1f9593ac-07aa-46fc-8972-579cc2ee4480
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Display ID
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3R
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4200,8 +4527,21 @@ begin localizable string
    string-text    : Description
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J4BUQ1J4BU4U0S
+   timestamp      : 1591034466
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 7c015603-55b8-4912-952c-4f12d56f5d64
+   owner-objects  : 17\8de3dafe-c755-4959-b45c-a7a850725335
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>&nbsp;</p><p>Captured pictures:</p>
+end
+begin localizable string
    name           : LSGADG1AANVNMAPQGMKZPQGMKZVU1H
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4219,7 +4559,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQHOFB7QHOFB7C3B6
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4232,7 +4572,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6Q
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4245,7 +4585,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGKLOTIGKLON8U
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4258,7 +4598,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4F
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4271,7 +4611,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPBOQECPBOGHOJ
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4284,7 +4624,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIES1OTIES1ON4S
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4297,7 +4637,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ96EFPQ96EFKAF9
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4310,7 +4650,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYN5WPFYN5WYTI3
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4323,7 +4663,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JV9HP3JV9HWNRI
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4336,7 +4676,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMKZPQGMKZVU14
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4349,7 +4689,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEJ4OTIEJ4ON4A
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4363,7 +4703,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPGKQECPGKGIIE
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4376,7 +4716,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPGKQECPGKGII1
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4389,7 +4729,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3H65DP3H65DKBB3
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4406,7 +4746,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQLJ8QPQLJ8QPGSC
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4422,7 +4762,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQLF6UPQLF6UOUY3
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4435,7 +4775,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP31HMFP31HMFXUV2
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4448,7 +4788,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3X
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4461,7 +4801,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP30FXVP30FXVWXMZ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4474,7 +4814,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ973GPQ973GKDXY
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4487,7 +4827,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUR
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4500,7 +4840,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTID43OTID43ON2J
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4513,7 +4853,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP2NQECP2NGIUM
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4526,7 +4866,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IHTUP3IHTUKQRH
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4539,7 +4879,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IIQZP3IIQZKRM6
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4552,7 +4892,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP811OYP81138CQ
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4564,8 +4904,34 @@ begin localizable string
    string-text    : <p>This field will contain the password sent by the REST API.</p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J4BUQ1J4BU4U0R
+   timestamp      : 1591034466
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 728bebc4-b1e4-4149-a10e-4bd47f1fdf40
+   owner-objects  : 17\3fcf81b0-9604-4941-a7ce-677f6bdb3db3
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : picture base64
+end
+begin localizable string
+   name           : LSGADG1AANVNMAQ1J0BYQ1J0BY48J6
+   timestamp      : 1591029286
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 71b77476-cba8-4301-8ff0-a8edf8d6365d
+   owner-objects  : 17\bcbac2a8-d92e-4412-a332-aefced68973c
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>This is a text where the custom class ("com-example-library-great-vibes-font") has been applied.</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3T
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4578,7 +4944,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7G
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4591,7 +4957,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3OVJZP3OVJZJTQD
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4607,7 +4973,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPG2QECPG2GIGB
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4620,7 +4986,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMUOYQJMU3KUP
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4633,7 +4999,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPG2QECPG2GIFX
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4646,7 +5012,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTRJ7OYTRJ73VYQ
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4659,7 +5025,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ96EFPQ96EFKAF3
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4672,7 +5038,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HZN2P3HZN2K9EC
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4685,7 +5051,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYOC0PFYOC0YUTQ
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4698,7 +5064,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTPKIOYTPKI3VJ5
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4710,8 +5076,21 @@ begin localizable string
    string-text    : Description
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1JJMOQ1JJMO46Y0
+   timestamp      : 1591028736
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 6c148947-ebc1-45b9-a8fd-13f2a25c0867
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : New
+end
+begin localizable string
    name           : LSGADG1AANVNMAPQLJ8QPQLJ8QPGSD
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4724,7 +5103,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JUZ3P3JUZ3WNDY
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4737,7 +5116,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUG
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4750,7 +5129,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMVOYQJMV3KUQ
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4763,7 +5142,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3S
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4776,7 +5155,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IACPP3IACPK9QD
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4789,7 +5168,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IIQYP3IIQYKRM1
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4802,7 +5181,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HZXZP3HZXZK9KJ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4815,7 +5194,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP5AQECP5AGJCZ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4828,7 +5207,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM0APQGM0AVT3G
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4841,7 +5220,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMKZPQGMKZVU17
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4854,7 +5233,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPH4QECPH4GI22
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4867,7 +5246,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4I
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4880,7 +5259,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECSP1QECSP1G9EK
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4893,7 +5272,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRYIQECRYIG6VL
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4906,7 +5285,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPBOQECPBOGHOH
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4919,7 +5298,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPG2QECPG2GIFZ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4932,7 +5311,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMIRPQGMIRVTHQ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4945,7 +5324,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQLBMUPQLBMUO9XD
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4958,7 +5337,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ97H9PQ97H9KD4S
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4971,7 +5350,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP811OYP81138CR
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4984,7 +5363,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRXCQECRXCG6RL
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -4997,7 +5376,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ965APQ965AKBCN
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5010,7 +5389,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ973GPQ973GKDXT
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5023,7 +5402,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ965APQ965AKBCL
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5036,7 +5415,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQLJ4RPQLJ4RPG56
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5049,7 +5428,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE6ROTIE6RON4B
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5062,7 +5441,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGLSJPQGLSJVRUT
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5075,7 +5454,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ965APQ965AKBCK
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5088,7 +5467,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3U
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5101,7 +5480,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPEYQECPEYGIAN
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5114,7 +5493,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRVSQECRVSG6NE
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5127,7 +5506,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPDXQECPDXGHWJ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5140,7 +5519,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ97DMPQ97DMKDCU
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5152,8 +5531,21 @@ begin localizable string
    string-text    : Address
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1JJMOQ1JJMO46Y2
+   timestamp      : 1591028736
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 5d741cdf-1275-465d-86af-1c3e75813974
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Fixed
+end
+begin localizable string
    name           : LSGADG1AANVNMAP3J8ZTP3J8ZTW22T
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5166,7 +5558,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTQ0ROYTQ0R3VUH
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5179,7 +5571,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JKTYP3JKTYW3YL
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5192,7 +5584,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPG2QECPG2GIGI
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5205,7 +5597,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPH4QECPH4GI2H
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5218,7 +5610,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ97H9PQ97H9KD4Q
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5231,7 +5623,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPEYQECPEYGIA9
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5243,8 +5635,37 @@ begin localizable string
    string-text    : f134275c-5549-4ce7-98ae-ef8e164471b0
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J0BYQ1J0BY48J0
+   timestamp      : 1591029286
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 5ada1293-7b53-405a-a0be-bb191702d6b8
+   owner-objects  : 17\7bfe6518-b3ac-4ba0-b14f-ef189ef3d15a
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Description
+end
+begin localizable string
+   name           : LSGADG1AANVNMAQ1JJL1Q1JJL146T5
+   timestamp      : 1591036560
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 5ab2bf4a-65ab-4291-b29f-82b61afec55e
+   owner-objects  : 17\a143727c-e5a0-47be-935b-f76bdb1ea289
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p><span style="font-size:24px">VC-Webcam</span></p><ul><li>This example shows how to:<ul><li>Grab a picture from the webcam (it outputs a png file in b&
+   string-text    : ase64),</li><li>Save the base64 picture into a record definition attachment field using the Process Designer "Create Attachment" service,</li></ul></li>&
+   string-text    : </ul><p>&nbsp;</p><p><em>Note:</em></p><p>This is coming from the BMC Communities thread&nbsp;https://communities.bmc.com/thread/206205?start=0&amp;tsta&
+   string-text    : rt=0 and it is using the webcam directive from https://github.com/jonashartmann/webcam-directive.</p><p>&nbsp;</p>
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECP5AQECP5AGJDE
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5257,7 +5678,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPEYQECPEYGIA8
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5270,7 +5691,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRYIQECRYIG6V4
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5283,7 +5704,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTRK3OYTRK33VZS
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5296,7 +5717,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF5MOTIF5MON7E
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5309,7 +5730,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3J8W3P3J8W3W2GS
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5321,8 +5742,34 @@ begin localizable string
    string-text    : Imput movie list
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1JJMOQ1JJMO46Y7
+   timestamp      : 1591028736
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 58246706-edce-4bac-b02c-fed7390279b2
+   owner-objects  : 35\0
+   object-prop    : 3\60079\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Listening
+end
+begin localizable string
+   name           : LSGADG1AANVNMAQ1J5MIQ1J5MI4YVU
+   timestamp      : 1591036496
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 582249b9-cae5-4487-9e8f-5685286bc969
+   owner-objects  : 17\a2e3ba37-d22d-4462-b461-0d54efed2e75
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Picture name
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECRRMQECRRMG605
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5335,7 +5782,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPGKQECPGKGII3
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5347,8 +5794,21 @@ begin localizable string
    string-text    : Signature holder
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J0BYQ1J0BY48J4
+   timestamp      : 1591029286
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 55a4d129-c79e-41a1-80f6-2fc11324c4e5
+   owner-objects  : 17\bc6f7749-0fde-4868-96bf-7da9f79381e1
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Description
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECPDXQECPDXGHW0
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5361,7 +5821,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSL
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5374,7 +5834,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMUOYQJMU3KUN
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5387,7 +5847,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJMUOYQJMU3KUO
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5406,7 +5866,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7L
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5419,7 +5879,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON60
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5432,7 +5892,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ97CMPQ97CMKCYX
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5444,8 +5904,21 @@ begin localizable string
    string-text    : Cancel
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1JJSUQ1JJSU476W
+   timestamp      : 1591028958
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 51c43095-8603-47e9-8ebe-b9192d6aba73
+   owner-objects  : 17\c274e2c0-2b36-47db-9da9-cde3938d544d
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Display ID
+end
+begin localizable string
    name           : LSGADG1AANVNMAPQ97CMPQ97CMKCYW
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5458,7 +5931,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPH4QECPH4GI21
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5471,7 +5944,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP31IR7P31IR7XWC4
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5484,7 +5957,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON90
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5497,7 +5970,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3J8OMP3J8OMW1YD
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5510,7 +5983,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP313I1P313I1YADI
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5523,7 +5996,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPEYQECPEYGIAM
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5536,7 +6009,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRVSQECRVSG6NA
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5549,7 +6022,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP31I7YP31I7YXVRL
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5570,7 +6043,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HZS7P3HZS7K92B
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5583,7 +6056,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3I4Z0P3I4Z0BSOE
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5596,7 +6069,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTID43OTID43ON2F
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5609,7 +6082,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPGKQECPGKGIIC
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5622,7 +6095,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HZXZP3HZXZK9KH
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5635,7 +6108,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM01PQGM01VT5O
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5648,7 +6121,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMKZPQGMKZVU15
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5661,7 +6134,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRXCQECRXCG6RN
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5674,7 +6147,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP3NUOYP3NU37NM
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5687,7 +6160,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPDXQECPDXGHWH
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5699,8 +6172,21 @@ begin localizable string
    string-text    : ID
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J4FSQ1J4FS4UMY
+   timestamp      : 1591034608
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 4a9f6770-c3b5-46bb-b1dd-f85e8d8291c3
+   owner-objects  : 17\d28f16e7-46a2-4eb1-ae7c-f83efa3eda76
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Save picture
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSM
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5713,7 +6199,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPG2QECPG2GIGD
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5726,7 +6212,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ96ZJPQ96ZJKCOZ
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5738,8 +6224,21 @@ begin localizable string
    string-text    : Delete
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J3S6Q1J3S64T69
+   timestamp      : 1591034128
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 48f04f01-9f92-43a7-bf8b-7bf460914a16
+   owner-objects  : 17\8de3dafe-c755-4959-b45c-a7a850725335
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+end
+begin localizable string
    name           : LSGA5FQGDU9FUAOYQ1FXOYQ1FX3LBY
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5752,7 +6251,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVPPQGMVPVVJQ
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5768,7 +6267,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPEYQECPEYGIA3
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5781,7 +6280,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON6J
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5794,7 +6293,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP1YQECP1YGIRQ
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5807,7 +6306,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ973GPQ973GKDXZ
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5819,8 +6318,21 @@ begin localizable string
    string-text    : Edit a Location
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J34WQ1J34W4S34
+   timestamp      : 1591033640
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 45fad191-2c82-4623-bfd6-079c3c97c306
+   owner-objects  : 17\8de3dafe-c755-4959-b45c-a7a850725335
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECPBOQECPBOGHO2
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5833,7 +6345,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3I4NSP3I4NSBS1G
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5846,7 +6358,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HXHWP3HXHWK6T7
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5862,8 +6374,34 @@ begin localizable string
    string-text    : y its label but it might not work if you localize it so you might have to modify the code to handle this case, it is also slower.</li></ul>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J09IQ1J09I49SS
+   timestamp      : 1591029908
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 44f6601b-27ad-41de-85c1-27072ffc4ab5
+   owner-objects  : 17\3f9b45d0-d69e-4427-bc16-555fe119a8d4
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Webcam
+end
+begin localizable string
+   name           : LSGADG1AANVNMAQ1J3RTQ1J3RT4T46
+   timestamp      : 1591034105
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 44d2325c-90d8-4a8a-94f4-1edc2a66bdba
+   owner-objects  : 17\3fcf81b0-9604-4941-a7ce-677f6bdb3db3
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : picture base64
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECP2NQECP2NGIUL
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5876,7 +6414,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ975DPQ975DKEE4
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5889,7 +6427,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMKZPQGMKZVU11
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5902,7 +6440,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYN9APFYN9AYT1B
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5915,7 +6453,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVPPQGMVPVVJZ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5928,7 +6466,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVHPQGMVHVVGQ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5941,7 +6479,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JUWZP3JUWZWNB8
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5956,7 +6494,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7M
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5969,7 +6507,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM3QPQGM3QVTPV
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5982,7 +6520,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVPPQGMVPVVJT
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -5995,7 +6533,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP2NQECP2NGIUO
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6008,7 +6546,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP5AQECP5AGJDB
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6021,7 +6559,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPGKQECPGKGIIG
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6034,7 +6572,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IHJ5P3IHJ5KQEM
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6047,7 +6585,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGEKOTIGEKON7Q
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6062,7 +6600,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTQLJOYTQLJ3VV5
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6075,7 +6613,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPDXQECPDXGHWD
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6088,7 +6626,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ967XPQ967XKB10
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6101,7 +6639,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM0BPQGM0BVT3J
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6114,7 +6652,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM3QPQGM3QVTPY
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6132,7 +6670,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQHOD3TQHOD3TCIB3
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6147,7 +6685,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP332YPP332YPZRH6
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6167,7 +6705,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQLIXQPQLIXQPFBA
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6180,7 +6718,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPEYQECPEYGIA4
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6193,7 +6731,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ97H9PQ97H9KD4R
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6206,7 +6744,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVHPQGMVHVVGU
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6219,7 +6757,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTQ2HOYTQ2H3VUN
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6232,7 +6770,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3I8C4P3I8C4V5TN
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6245,7 +6783,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYN9APFYN9AYT1A
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6258,7 +6796,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP2NQECP2NGIUT
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6271,7 +6809,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION40
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6284,7 +6822,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQHOEGIQHOEGIC077
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6306,7 +6844,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQLJ4RPQLJ4RPG57
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6319,7 +6857,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPH4QECPH4GI2C
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6332,7 +6870,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP1YQECP1YGIRP
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6345,7 +6883,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQLJ77PQLJ77PGNS
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6363,8 +6901,21 @@ begin localizable string
    string-text    : tring,Movie&nbsp;Object"),</li></ol>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J3SNQ1J3SN4T7R
+   timestamp      : 1591034135
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 34b2f492-f442-4a27-a9c6-6e60633d96a5
+   owner-objects  : 17\84c4063c-1d51-4f85-8b6f-b22c62ffa732
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Picture name
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECP2NQECP2NGIUN
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6377,7 +6928,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP1YQECP1YGIRM
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6390,7 +6941,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEGGOTIEGGON3W
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6403,7 +6954,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFHCOTIFHCON6O
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6416,7 +6967,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPH4QECPH4GI2D
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6429,7 +6980,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP4B4OYP4B437QQ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6442,7 +6993,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRRMQECRRMG604
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6455,7 +7006,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM3QPQGM3QVTPQ
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6468,7 +7019,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KSP
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6481,7 +7032,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JV8DP3JV8DWNPP
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6495,8 +7046,21 @@ begin localizable string
    string-text    :  generate a String which concatenates the movie information.</p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J3S6Q1J3S64T67
+   timestamp      : 1591034128
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 305e12c7-0e2e-4f00-b6f2-1599d212fa6d
+   owner-objects  : 17\d28f16e7-46a2-4eb1-ae7c-f83efa3eda76
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Save picture
+end
+begin localizable string
    name           : LSGADG1AANVNMAP3OV16P3OV16JTSL
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6509,7 +7073,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPEYQECPEYGIAK
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6522,7 +7086,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMKZPQGMKZVU10
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6535,7 +7099,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP2NQECP2NGIUQ
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6548,7 +7112,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HZXZP3HZXZK9K0
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6561,7 +7125,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIFYWOTIFYWON7P
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6574,7 +7138,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRXDQECRXDG6RQ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6587,7 +7151,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HXPRP3HXPRK71F
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6600,7 +7164,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IIQZP3IIQZKRM5
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6613,7 +7177,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9I
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6626,7 +7190,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF99OTIF99ON71
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6639,7 +7203,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPG2QECPG2GIGC
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6652,7 +7216,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ90NHPQ90NH9KHW
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6665,7 +7229,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ96EFPQ96EFKAF7
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6678,7 +7242,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGM3QPQGM3QVTPU
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6691,7 +7255,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRXCQECRXCG6RM
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6704,7 +7268,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4H
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6717,7 +7281,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON63
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6730,7 +7294,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYQJAMOYQJAM3KS9
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6743,7 +7307,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPGKQECPGKGIII
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6756,7 +7320,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3H66CP3H66CKBCL
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6769,7 +7333,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON91
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6782,7 +7346,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP5AQECP5AGJCX
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6795,7 +7359,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4J
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6808,7 +7372,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPN9J06PN9J063GVM
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6821,7 +7385,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3IACPP3IACPK9QE
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6833,8 +7397,21 @@ begin localizable string
    string-text    : <p>&nbsp;</p><p>In this example the button is&nbsp;visible (but disabled), and can still&nbsp;be called by Javascript code.</p>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J0BYQ1J0BY48J3
+   timestamp      : 1591029286
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 248dff59-3db2-4e4b-9045-c8fcd96db6ad
+   owner-objects  : 17\73cc00eb-6248-475a-a7dd-bb2ace4bb3fb
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>This is a text without the custom class.</p>
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECRRMQECRRMG602
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6847,7 +7424,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON68
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6860,7 +7437,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVHPQGMVHVVGR
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6873,7 +7450,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP332ZOP332ZOZRJS
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6886,7 +7463,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGKWFPQGKWFVPGF
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6899,7 +7476,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP31I81P31I81XVSP
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6920,7 +7497,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUJ
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6933,7 +7510,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3OV16P3OV16JTSK
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6946,7 +7523,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP3MCOYP3MC37M4
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6959,7 +7536,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE8UOTIE8UON4C
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6973,7 +7550,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JKY1P3JKY1W4E7
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6986,7 +7563,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQE7GEPQE7GEPOYG
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -6999,7 +7576,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JUZ3P3JUZ3WNDV
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7011,8 +7588,21 @@ begin localizable string
    string-text    : Movie String
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J3X3Q1J3X34TW2
+   timestamp      : 1591034305
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 1f237fbc-8d24-4c37-99d9-2555b9b8b641
+   owner-objects  : 17\8de3dafe-c755-4959-b45c-a7a850725335
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON61
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7025,7 +7615,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVHPQGMVHVVGV
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7038,7 +7628,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ975DPQ975DKEEL
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7051,7 +7641,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9H
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7064,7 +7654,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JV9HP3JV9HWNRH
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7077,7 +7667,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP1YQECP1YGIRK
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7090,7 +7680,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRVSQECRVSG6MZ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7102,8 +7692,21 @@ begin localizable string
    string-text    : Status
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1JJSUQ1JJSU476V
+   timestamp      : 1591028958
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 1bb93020-d40f-45d0-8836-836e52c108cb
+   owner-objects  : 17\b0b14c9b-bfb8-4f95-b6d4-3c20377b6bad
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Modified Date
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECPG2QECPG2GIGF
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7116,7 +7719,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPBOQECPBOGHO5
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7129,7 +7732,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ975DPQ975DKEEM
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7142,7 +7745,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON94
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7155,7 +7758,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPH4QECPH4GI2B
-   timestamp      : 1590082909
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7168,7 +7771,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP332YPP332YPZRH5
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7181,7 +7784,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIF99OTIF99ON70
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7194,7 +7797,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYNFWPFYNFWYTCX
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7210,8 +7813,21 @@ begin localizable string
    string-text    : cs/#!/api/ui.grid.selection.api:PublicApi</li></ul></li></ul>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J4BUQ1J4BU4U0P
+   timestamp      : 1591034466
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 18fe9b52-92f9-4810-afcd-58482b2fccd1
+   owner-objects  : 17\47e07b1e-a92a-4cc7-94d6-bbfa084fb3df
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>Please select a picture in the grid.</p>
+end
+begin localizable string
    name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4G
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7224,7 +7840,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQHOFAEQHOFAEC2XC
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7251,7 +7867,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HZPJP3HZPJK9HU
-   timestamp      : 1590082907
+   timestamp      : 1590084857
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7264,7 +7880,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGMVPPQGMVPVVJR
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7277,7 +7893,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTRJ7OYTRJ73VYR
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7290,7 +7906,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON97
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7303,7 +7919,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3J81YP3J81YW1KB
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7316,7 +7932,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3HZS7P3HZS7K91Z
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7329,7 +7945,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIDSXOTIDSXON2R
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7342,7 +7958,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3OUTVP3OUTVJT0D
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7355,7 +7971,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQE7F1PQE7F1POSU
-   timestamp      : 1590082907
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7368,7 +7984,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON9G
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7381,7 +7997,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRYIQECRYIG6V8
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7394,7 +8010,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ97CMPQ97CMKCYZ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7407,7 +8023,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQE6QMPQE6QMPNLQ
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7420,7 +8036,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRYIQECRYIG6V9
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7433,7 +8049,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIE9IOTIE9ION4E
-   timestamp      : 1590082908
+   timestamp      : 1590084858
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7446,7 +8062,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3J9AOP3J9AOW24Z
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7458,8 +8074,34 @@ begin localizable string
    string-text    : Imput movie list
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J3X3Q1J3X34TW3
+   timestamp      : 1591034305
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 1170b55b-4f4c-4fa8-a489-8827fa1e5fa3
+   owner-objects  : 17\84c4063c-1d51-4f85-8b6f-b22c62ffa732
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Picture name
+end
+begin localizable string
+   name           : LSGADG1AANVNMAQ1J3RTQ1J3RT4T44
+   timestamp      : 1591034105
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 10cd6509-b910-4dca-acc2-5d697e8b4eae
+   owner-objects  : 17\84c4063c-1d51-4f85-8b6f-b22c62ffa732
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Picture name
+end
+begin localizable string
    name           : LSGADG1AANVNMAP30FXWP30FXWWXNB
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7472,7 +8114,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPFYOQWPFYOQWYVUH
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7485,7 +8127,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQE6QMPQE6QMPNLP
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7498,7 +8140,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3OUVFP3OUVFJT2D
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7511,7 +8153,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQ973GPQ973GKDYA
-   timestamp      : 1590082908
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7524,7 +8166,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYTREHOYTREH3VXV
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7537,7 +8179,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGKWFPQGKWFVPGJ
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7550,7 +8192,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQGKWFPQGKWFVPGC
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7563,7 +8205,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRVSQECRVSG6NF
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7576,7 +8218,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQLJ8QPQLJ8QPGSE
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7589,7 +8231,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRYIQECRYIG6V7
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7602,7 +8244,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP5AQECP5AGJCW
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7623,8 +8265,21 @@ begin localizable string
    string-text    : ", converts a base64 picture to a regular picture and add the picture to an attachment field,</li></ul>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J3S6Q1J3S64T6K
+   timestamp      : 1591034128
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 0a5274ce-90b6-4b2c-9957-781e758f036f
+   owner-objects  : 17\84c4063c-1d51-4f85-8b6f-b22c62ffa732
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Picture name
+end
+begin localizable string
    name           : LSGADG1AANVNMAP3JV9HP3JV9HWNRF
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7639,7 +8294,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPN8ZOXPN8ZOX2527
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7652,7 +8307,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3JKYCP3JKYCW4DU
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7665,7 +8320,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGA5FQGDU9FUAOYP3N2OYP3N237N1
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7678,7 +8333,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIGQTOTIGQTON96
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7690,8 +8345,21 @@ begin localizable string
    string-text    : Calling a Custom Java Command
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J0BYQ1J0BY48J1
+   timestamp      : 1591029286
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 0829f036-aaf6-40d3-935d-3d658deb03e1
+   owner-objects  : 17\dedb9a3c-5e03-4863-be15-8cdc750f8b8e
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Display ID
+end
+begin localizable string
    name           : LSGADG1AANVNMAQECPBOQECPBOGHO7
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7704,7 +8372,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPBOQECPBOGHO3
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7717,7 +8385,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPGKQECPGKGIIJ
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7730,7 +8398,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAP3OVJZP3OVJZJTQE
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7745,7 +8413,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAPQLJ77PQLJ77PGNU
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7758,7 +8426,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECPH4QECPH4GI2F
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7771,7 +8439,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGIXIUWC3XSKAOTIEXKOTIEXKON66
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7784,7 +8452,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECP1YQECP1YGIRL
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7797,7 +8465,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECQHNQECQHNG1L1
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7816,8 +8484,21 @@ begin localizable string
    string-text    : stances / associated data,</span></li></ul>
 end
 begin localizable string
+   name           : LSGADG1AANVNMAQ1J4FSQ1J4FS4UMZ
+   timestamp      : 1591034608
+   owner          : developer
+   bundle-version : 1.0-SNAPSHOT
+   last-changed   : developer
+   bundle         : com.example.samplelibrary
+   stringId       : 00a993e3-d051-41ee-ac74-3ebeefec7ab5
+   owner-objects  : 17\3fcf81b0-9604-4941-a7ce-677f6bdb3db3
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : picture base64
+end
+begin localizable string
    name           : LSGADG1AANVNMAPQGM3QPQGM3QVTPX
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
@@ -7830,7 +8511,7 @@ begin localizable string
 end
 begin localizable string
    name           : LSGADG1AANVNMAQECRVSQECRVSG6NC
-   timestamp      : 1590082909
+   timestamp      : 1590084859
    owner          : developer
    bundle-version : 1.0-SNAPSHOT
    last-changed   : ARSERVER
