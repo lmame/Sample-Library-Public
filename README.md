@@ -1,6 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
+* 2.6, 2020/06/16, Adding the bundle.conf.json file containg the webcam js file import, I forgot to add the bundle.conf.json file in 2.5...
 * 2.5, 2020/06/01, Adding the webcam view component example and an example how to use fonts in a custom class.
 * 2.4, 2020/05/21, Modifying download-file action example since the filename logic has slightly changed in 20.2.0 (filename was saved as _matrix.jpg_ instead of matrix.jpg).
 * 2.3, 2020/03/24, Making "get-user-infos" view component retro compatible with 19.11.0.
