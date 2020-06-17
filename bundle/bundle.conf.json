@@ -26,6 +26,7 @@
             },
             "app": {
                 "scripts": [
+                    "lib/qrcodereader/qrcodereader.min",
                     "lib/webcam/webcam.min",
                     "lib/rzslider-5.8.7/rzslider.min",
                     "lib/angular-signature/signature",
@@ -56,6 +57,7 @@
             },
             "ext": {
                 "scripts": [
+                    "lib/qrcodereader/qrcodereader.min",
                     "lib/webcam/webcam.min",
                     "lib/rzslider-5.8.7/rzslider.min",
                     "lib/angular-signature/signature",

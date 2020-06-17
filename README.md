@@ -1,6 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
+* 2.7, 2020/06/17, Adding the QR Code reader view component example.
 * 2.6, 2020/06/16, Adding the bundle.conf.json file containg the webcam js file import, I forgot to add the bundle.conf.json file in 2.5...
 * 2.5, 2020/06/01, Adding the webcam view component example and an example how to use fonts in a custom class.
 * 2.4, 2020/05/21, Modifying download-file action example since the filename logic has slightly changed in 20.2.0 (filename was saved as _matrix.jpg_ instead of matrix.jpg).
@@ -69,6 +70,7 @@ Javascript View Components:
 * A pie chart leveraging the supplied libraries nvd3 and d3,
 * Getting user information and broadcast them as output parameters,
 * Use the webcam directive (https://github.com/jonashartmann/webcam-directive) to grab a picture from the webcam and save it in a record instance using a process "Create Attachment" service,
+* Use the QR Code javascript library (https://github.com/zxing-js/library, https://unpkg.com/@zxing/library@latest) to capture a QR code from the webcam video feed,
 
 
 Javascript Actions:

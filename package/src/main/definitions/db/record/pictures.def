@@ -3,8 +3,8 @@ begin record definition
    definition     : {
    definition     :   "resourceType" : "com.bmc.arsys.rx.services.record.domain.RegularRecordDefinition",
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1591028736516,
-   definition     :   "lastChangedBy" : "developer",
+   definition     :   "lastUpdateTime" : 1592398000654,
+   definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "developer",
    definition     :   "name" : "com.example.samplelibrary:pictures",
    definition     :   "tags" : null,
@@ -16,8 +16,8 @@ begin record definition
    definition     :   "guid" : "IDGADG1AANVNMAQ1JJMOQ01FZM46YJ",
    definition     :   "fieldDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591028736516,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1592398000654,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Display ID",
    definition     :     "tags" : null,
@@ -88,8 +88,8 @@ begin record definition
    definition     :     "anyUserAllowedToSubmit" : false
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591028736516,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1592398000654,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Created By",
    definition     :     "tags" : null,
@@ -146,8 +146,8 @@ begin record definition
    definition     :     "anyUserAllowedToSubmit" : true
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.DateTimeFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591028736516,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1592398000654,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Created Date",
    definition     :     "tags" : null,
@@ -198,8 +198,8 @@ begin record definition
    definition     :     "anyUserAllowedToSubmit" : false
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591028736516,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1592398000654,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Assignee",
    definition     :     "tags" : null,
@@ -242,8 +242,8 @@ begin record definition
    definition     :     "anyUserAllowedToSubmit" : false
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591028736516,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1592398000654,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Modified By",
    definition     :     "tags" : null,
@@ -286,8 +286,8 @@ begin record definition
    definition     :     "anyUserAllowedToSubmit" : false
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.DateTimeFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591028736516,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1592398000654,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Modified Date",
    definition     :     "tags" : null,
@@ -324,8 +324,8 @@ begin record definition
    definition     :     "anyUserAllowedToSubmit" : false
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.SelectionFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591028736516,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1592398000654,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Status",
    definition     :     "tags" : null,
@@ -391,8 +391,8 @@ begin record definition
    definition     :     "anyUserAllowedToSubmit" : false
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591028736516,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1592398000654,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Description",
    definition     :     "tags" : null,
@@ -449,8 +449,8 @@ begin record definition
    definition     :     "anyUserAllowedToSubmit" : true
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.SelectionFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591028736516,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1592398000654,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "Notifier Listening",
    definition     :     "tags" : null,
@@ -510,8 +510,8 @@ begin record definition
    definition     :     "anyUserAllowedToSubmit" : false
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591028736516,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1592398000654,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "GUID",
    definition     :     "tags" : null,
@@ -554,8 +554,8 @@ begin record definition
    definition     :     "anyUserAllowedToSubmit" : true
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591028736516,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1592398000654,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "ID",
    definition     :     "tags" : null,
@@ -598,8 +598,8 @@ begin record definition
    definition     :     "anyUserAllowedToSubmit" : true
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.AttachmentFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591028736516,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1592398000654,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "picture",
    definition     :     "tags" : null,
@@ -624,8 +624,8 @@ begin record definition
    definition     :     "anyUserAllowedToSubmit" : false
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.standardlib.record.CharacterFieldDefinition",
-   definition     :     "lastUpdateTime" : 1591028736516,
-   definition     :     "lastChangedBy" : "developer",
+   definition     :     "lastUpdateTime" : 1592398000654,
+   definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "developer",
    definition     :     "name" : "picture base64",
    definition     :     "tags" : null,
@@ -676,11 +676,11 @@ begin record definition
    definition     :   "displayFieldIdInAssociation" : null,
    definition     :   "confidentialDataDescriptor" : null,
    definition     :   "indexDefinitions" : [ {
-   definition     :     "indexName" : "I881_179_T881",
+   definition     :     "indexName" : "I886_179_T886",
    definition     :     "unique" : true,
    definition     :     "indexFieldIds" : [ 179 ]
    definition     :   }, {
-   definition     :     "indexName" : "I881_379_T881",
+   definition     :     "indexName" : "I886_379_T886",
    definition     :     "unique" : true,
    definition     :     "indexFieldIds" : [ 379 ]
    definition     :   } ],

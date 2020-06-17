@@ -39,6 +39,7 @@
         'com.example.samplelibrary.view-components.nvd3-chart',                      // Draw a pie chart from record definition data
         'com.example.samplelibrary.view-components.digital-signature',                   // Digital Signature implementation
         'com.example.samplelibrary.view-components.get-user-infos',                   // Getting user informations and making them available
-        'com.example.samplelibrary.view-components.webcam'                              // Webcam example.
+        'com.example.samplelibrary.view-components.webcam',                              // Webcam example.
+        'com.example.samplelibrary.view-components.qrcode-reader'                       // QR Code reader example.'
     ]);
 })();
