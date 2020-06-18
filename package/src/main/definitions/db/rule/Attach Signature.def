@@ -2,7 +2,7 @@ begin rule definition
    name           : com.example.samplelibrary:Attach Signature
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1592398002876,
+   definition     :   "lastUpdateTime" : 1592517602570,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "developer",
    definition     :   "name" : "com.example.samplelibrary:Attach Signature",

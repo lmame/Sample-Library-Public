@@ -1,7 +1,8 @@
 # Sample-Library-Public
 History:
 * Version:
-* 2.7, 2020/06/17, Adding the QR Code reader view component example.
+* 2.8, 2020/06/17, Adding two Process Java Service to send back a List size (get list size) or a specific entry in a list (get list value by index).
+* 2.7, 2020/06/17, Adding the QR Code rdeader view component example.
 * 2.6, 2020/06/16, Adding the bundle.conf.json file containg the webcam js file import, I forgot to add the bundle.conf.json file in 2.5...
 * 2.5, 2020/06/01, Adding the webcam view component example and an example how to use fonts in a custom class.
 * 2.4, 2020/05/21, Modifying download-file action example since the filename logic has slightly changed in 20.2.0 (filename was saved as _matrix.jpg_ instead of matrix.jpg).
@@ -82,7 +83,8 @@ Javascript Actions:
 
 Java Service:
 * Custom Java service that returns an Object that can be used in Rule or Process designers,
-* Public Java Service used to convert a base64 picture into a picture, generate an attachment field data and update an existing record instance with this data, 
+* Public Java Service used to convert a base64 picture into a picture, generate an attachment field data and update an existing record instance with this data,
+* Public Java Services that return a List size (Get List Size) and a list specific entry by its index (Get List Value By Index), 
 
 
 Java Rest API:

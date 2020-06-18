@@ -2,7 +2,7 @@ begin view definition
    name           : com.example.samplelibrary:VC - Get and send Java class object in Rest Apis
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1592398003619,
+   definition     :   "lastUpdateTime" : 1592517603205,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:VC - Get and send Java class object in Rest Apis",
@@ -18,7 +18,7 @@ begin view definition
    definition     :   "outputParams" : [ ],
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "lastUpdateTime" : 1592398003619,
+   definition     :     "lastUpdateTime" : 1592517603205,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "857b9b7e-9cac-46f4-ae94-9cc2d22f69b1",
@@ -43,7 +43,7 @@ begin view definition
    definition     :     } ]
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "lastUpdateTime" : 1592398003619,
+   definition     :     "lastUpdateTime" : 1592517603205,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "712d3115-80e1-44ec-beb3-ef35098891e7",
