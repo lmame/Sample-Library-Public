@@ -47,7 +47,7 @@
         "karma-jasmine-matchers": "4.0.2",
         "karma-ng-html2js-preprocessor": "1.0.0",
         "load-grunt-config": "3.0.1",
-        "lodash": "4.17.15",
+        "lodash": "4.17.19",
         "moment": "2.24.0",
         "ng-html2js": "3.0.0",
         "recursive-merge": "1.2.1",
