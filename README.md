@@ -1,6 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
+* 2.9, 2020/12/10, Changing SDK to 20.2.1. Modifying the Webcam view component so you can have multiple Webcam fields in the same view (there was a problem with Preview).
 * 2.8, 2020/06/17, Adding two Process Java Service to send back a List size (get list size) or a specific entry in a list (get list value by index).
 * 2.7, 2020/06/17, Adding the QR Code rdeader view component example.
 * 2.6, 2020/06/16, Adding the bundle.conf.json file containg the webcam js file import, I forgot to add the bundle.conf.json file in 2.5...

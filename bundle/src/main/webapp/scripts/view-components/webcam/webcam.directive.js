@@ -10,6 +10,7 @@
 
     angular.module('com.example.samplelibrary.view-components.webcam').directive('comExampleSamplelibraryWebcam',
         function ($document,
+                  rxGUID,
                   rxNotificationMessage,
                   rxViewComponentEventManager) {
             return {
@@ -24,6 +25,8 @@
                     // rxViewComponentEventManager is used to broadcast a parameter to other view components
                     var eventManager = rxViewComponentEventManager.getInstance($scope),
                         webcamObject;
+
+                    $scope.snapshotFieldId = rxGUID.generate('preview-')
 
                     // Make the base64 picture available to other view components.
                     function broadcastPicture(picture) {
@@ -62,7 +65,7 @@
                     // Taking a picture and making it available to other view components.
                     $scope.takeSnapshot = function () {
                         if (webcamObject) {
-                            var canvas = _.first($document.find('#snapshot'));
+                            var canvas = _.first($document.find('#' + $scope.snapshotFieldId));
 
                             if (!canvas) {
                                 return;

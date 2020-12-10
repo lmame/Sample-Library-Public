@@ -8,7 +8,7 @@
                 on-error="onError(err)"
                 on-stream="onStream(stream)"></webcam>
         <div class="preview">
-            <canvas id="snapshot" width="0" height="0"></canvas>
+            <canvas id="{{snapshotFieldId}}" width="0" height="0"></canvas>
         </div>
     </div>
     <button ng-click="takeSnapshot()"

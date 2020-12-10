@@ -2,7 +2,7 @@ begin rule definition
    name           : com.example.samplelibrary:Testing Custom Service
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1592517602481,
+   definition     :   "lastUpdateTime" : 1607625014552,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "com.example.samplelibrary",
    definition     :   "name" : "com.example.samplelibrary:Testing Custom Service",

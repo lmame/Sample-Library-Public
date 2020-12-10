@@ -1,5 +1,5 @@
 #
-#Thu Jun 18 22:02:01 UTC 2020
+#Thu Dec 10 18:55:06 UTC 2020
 IgnoreRuleExecution=false
 DuplicateDataActionType=THROW_ERROR
 Name=AppLocalConfigComponentBase
