@@ -20,6 +20,29 @@
 
                     $scope.title = _config.titleFilter;
 
+                    /*
+                    It is possible to customize the css class applied to a cell, for example using
+                    the ui-grid cellClass method:
+                    http://ui-grid.info/docs/#!/tutorial/Tutorial:%20111%20CellClass
+                    There are some differences with the ui-grid implementation as BMC
+                    wraps the column definition.
+                    As you can see below, instead of having:
+                        cellClass: function(grid, row, col, rowRenderIndex, colRenderIndex) {
+                    We have one argument, which is an array containing the different objects:
+                        cellClass: function (argumentList) {
+                            var grid = argumentList[0],
+                            row = argumentList[1],
+                            col = argumentList[2],
+                            rowRenderIndex = argumentList[3],
+                            colRenderIndex = argumentList[4];
+
+                     The applied css classes need to be "global", not under the view component class
+                     as usually done.
+                     Please check the styles in the file "_custom-grid.scss" to see the css classes
+                     com-example-samplelibrary-custom-grid-green-class
+                     com-example-samplelibrary-custom-grid-red-class
+                     */
+
                     // We need to configure the grid
                     // Some of the parameters are OOTB ui-grid (http://ui-grid.info/) some are BMC
                     $scope.gridConfiguration = {
@@ -37,11 +60,30 @@
                         columns: [
                             {
                                 fieldId: 'title',
-                                title: 'Title'
+                                title: 'Title',
+                                cellClass: 'com-example-samplelibrary-custom-grid-green-class'
                             },
                             {
                                 fieldId: 'price',
-                                title: 'Price'
+                                title: 'Price',
+                                cellClass: function (argumentList) {
+                                    var grid = argumentList[0],
+                                        row = argumentList[1],
+                                        col = argumentList[2],
+                                        rowRenderIndex = argumentList[3],
+                                        colRenderIndex = argumentList[4];
+
+                                    console.log(grid);
+                                    console.log(row);
+                                    console.log(col);
+                                    console.log(rowRenderIndex);
+                                    console.log(colRenderIndex);
+                                    console.log('Row entity = ' + row.entity['price']);
+                                    console.log(grid.getCellValue(row,col));
+                                    console.log(' ');
+
+                                    return 'com-example-samplelibrary-custom-grid-red-class';
+                                }
                             }
                         ],
                         // getData will override how we get data, usually we just give a record definition name etc… Here we provide data from a custom datapage query.
@@ -96,7 +138,7 @@
 
                                     // Here we output the selectedTitle
                                     var selectedDvds = api.selection.getSelectedRows(),
-                                        selectedTitles = _.pluck(selectedDvds, 'title').join(', ');
+                                        selectedTitles = _.map(selectedDvds, 'title').join(', ');
 
                                     eventManager.propertyChanged({
                                         property: 'selectedTitle',

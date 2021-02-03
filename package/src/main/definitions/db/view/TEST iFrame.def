@@ -2,7 +2,7 @@ begin view definition
    name           : com.example.samplelibrary:TEST iFrame
    definition     : {
    definition     :   "version" : "1.0-SNAPSHOT",
-   definition     :   "lastUpdateTime" : 1607625016758,
+   definition     :   "lastUpdateTime" : 1612380893875,
    definition     :   "lastChangedBy" : "ARSERVER",
    definition     :   "owner" : "ARSERVER",
    definition     :   "name" : "com.example.samplelibrary:TEST iFrame",
@@ -18,7 +18,7 @@ begin view definition
    definition     :   "outputParams" : [ ],
    definition     :   "componentDefinitions" : [ {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ContainerViewComponentDefinition",
-   definition     :     "lastUpdateTime" : 1607625016758,
+   definition     :     "lastUpdateTime" : 1612380893875,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "5742355c-498d-4383-8dfb-5e199201efaa",
@@ -47,7 +47,7 @@ begin view definition
    definition     :     "layout" : "{\"componentDefinitionId\":\"97fcd411-405e-43c3-a0dc-795a1f305919\",\"columns\":[{\"children\":[{\"componentDefinitionId\":\"044b7201-c7a0-4475-9836-a39c836b3c6d\"}],\"span\":8},{\"children\":[],\"span\":4}]}",
    definition     :     "componentDefinitions" : [ {
    definition     :       "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :       "lastUpdateTime" : 1607625016758,
+   definition     :       "lastUpdateTime" : 1612380893875,
    definition     :       "lastChangedBy" : "ARSERVER",
    definition     :       "owner" : "ARSERVER",
    definition     :       "name" : "044b7201-c7a0-4475-9836-a39c836b3c6d",
@@ -72,7 +72,7 @@ begin view definition
    definition     :     } ]
    definition     :   }, {
    definition     :     "resourceType" : "com.bmc.arsys.rx.services.view.domain.ViewComponentDefinition",
-   definition     :     "lastUpdateTime" : 1607625016758,
+   definition     :     "lastUpdateTime" : 1612380893875,
    definition     :     "lastChangedBy" : "ARSERVER",
    definition     :     "owner" : "ARSERVER",
    definition     :     "name" : "429c47da-a17d-4111-bd09-f73ba3783dba",
