@@ -79,11 +79,28 @@
                                     console.log(rowRenderIndex);
                                     console.log(colRenderIndex);
                                     console.log('Row entity = ' + row.entity['price']);
-                                    console.log(grid.getCellValue(row,col));
+                                    console.log(grid.getCellValue(row, col));
                                     console.log(' ');
 
                                     return 'com-example-samplelibrary-custom-grid-red-class';
                                 }
+                            },
+                            {
+                                fieldId: 'calculation',
+                                title: 'calculation',
+                                cellClass: 'com-example-samplelibrary-custom-grid-green-class',
+                                cellFilter: 'comExampleSamplelibraryCustomGridConcatenate: row.entity'
+                            },
+                            {
+                                fieldId: 'nicehtml',
+                                title: 'Nice HTML',
+                                cellClass: 'com-example-samplelibrary-custom-grid-green-class',
+                                cellTemplate: [
+                                    '<div class="ui-grid-cell-contents">',
+                                    '<a>{{grid.appScope.handlePrice(row)}}.',
+                                    '</a>',
+                                    '</div>'
+                                ].join('')
                             }
                         ],
                         // getData will override how we get data, usually we just give a record definition name etc… Here we provide data from a custom datapage query.
@@ -118,6 +135,14 @@
                                     {
                                         id: 'price',
                                         resourceType: RX_RECORD_DEFINITION.dataTypes.character.resourceType
+                                    },
+                                    {
+                                        id: 'calculation',
+                                        resourceType: RX_RECORD_DEFINITION.dataTypes.character.resourceType
+                                    },
+                                    {
+                                        id: 'nicehtml',
+                                        resourceType: RX_RECORD_DEFINITION.dataTypes.character.resourceType
                                     }
                                 ]
                             };
@@ -145,6 +170,11 @@
                                         oldValue: null,
                                         newValue: selectedTitles
                                     });
+                                }
+
+                                // Method that can be accessed in a cellTemplate.
+                                api.grid.appScope.handlePrice = function (gridRow) {
+                                    return 'The price is ' + gridRow.entity['price'];
                                 }
 
                                 // We plug those ui-grid events and tell them to execute method onRowSelectionChanged.
