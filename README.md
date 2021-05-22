@@ -1,6 +1,7 @@
 # Sample-Library-Public
 History:
 * Version:
+* 3.2, 2021/05/22, Changing SDK to 20.08.01,
 * 3.1, 2021/02/12, Modifying the custom-grid to show how to access the grid object to customize a cell content using ui-grid cellFilter and cellTemplate (https://community.bmc.com/s/question/0D73n000004temT/detail).
 * 3.0, 2021/02/03, Modifying the custom-grid to show how to access the grid object to customize a cell css class (cellClass) (https://community.bmc.com/s/question/0D53n00007bLvbM/how-to-access-grid-object-from-bmc-record-grid-in-innovation-suite).
 * 2.9, 2020/12/10, Changing SDK to 20.2.1. Modifying the Webcam view component so you can have multiple Webcam fields in the same view (there was a problem with Preview).

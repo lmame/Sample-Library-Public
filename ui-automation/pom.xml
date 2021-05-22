@@ -174,11 +174,6 @@
 		<groupId>org.awaitility</groupId>
 		    <artifactId>awaitility</artifactId>
 		    <version>2.0.0</version>
-		</dependency>		
-		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-log4j12</artifactId>
-			<version>1.7.13</version>
 		</dependency>
 		<dependency>
 			<groupId>org.glassfish.jersey.media</groupId>
@@ -189,19 +184,7 @@
 			<groupId>com.fasterxml.jackson.datatype</groupId>
 			<artifactId>jackson-datatype-json-org</artifactId>
 			<version>2.4.0</version>
-		</dependency>
-        <!--<dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-            <version>1.2.17</version>
-            <scope>provided</scope>
-        </dependency> -->
-        <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-            <version>1.2.17_bmc</version>
-            <scope>provided</scope>
-        </dependency>       
+		</dependency>       
 		<dependency>
 		    <groupId>org.codehaus.plexus</groupId>
 		    <artifactId>plexus-utils</artifactId>
@@ -210,7 +193,7 @@
         <dependency>
             <groupId>com.fasterxml.jackson.module</groupId>
             <artifactId>jackson-module-jaxb-annotations</artifactId>
-            <version>2.7.5</version>
+            <version>${jackson.version}</version>
         </dependency>
 		<dependency>
 		    <groupId>net.java.dev.jna</groupId>
@@ -233,7 +216,23 @@
             <groupId>ru.yandex.qatools.htmlelements</groupId>
             <artifactId>htmlelements-java</artifactId>
             <version>1.17</version>
-        </dependency>        
+        </dependency>
+		<!-- Logging -->
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.7.25</version>
+		</dependency>
+		<dependency>
+			<groupId>ch.qos.logback</groupId>
+			<artifactId>logback-classic</artifactId>
+			<version>1.2.3</version>
+		</dependency>
+		<dependency>
+			<groupId>ch.qos.logback</groupId>
+			<artifactId>logback-core</artifactId>
+			<version>1.2.3</version>
+		</dependency>        
 	</dependencies>
 	
 	<build>

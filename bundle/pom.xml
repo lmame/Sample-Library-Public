@@ -155,6 +155,7 @@
         <plugins>
             <plugin>
                 <artifactId>maven-clean-plugin</artifactId>
+                <version>${maven-clean-plugin.version}</version>
                 <configuration>
                     <excludeDefaultDirectories>${maven.exec.ui.skip}</excludeDefaultDirectories>
                     <filesets>
